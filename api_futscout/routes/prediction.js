@@ -10,7 +10,7 @@ router.get('/', function (req, res, next) {
 
 router.post('/', (req, res, next) => {
     const { position } = req.body;
-    PythonShell.run(position + 'prediction.py', null, (err, result) => {
+    PythonShell.run('py_scripts/' + position + 'prediction.py', null, (err, result) => {
         res.send(result);
     })
 
