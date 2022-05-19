@@ -1,3 +1,7 @@
+- [1. Futbolcu piyasa değer tahmini uygulaması](#1-futbolcu-piyasa-değer-tahmini-uygulaması)
+  - [1.1. Uygulamada kullanılan Programlama Dilleri ve Frameworkler](#11-uygulamada-kullanılan-programlama-dilleri-ve-frameworkler)
+  - [1.2. Kurulum](#12-kurulum)
+
 # 1. Futbolcu piyasa değer tahmini uygulaması
 ## 1.1. Uygulamada kullanılan Programlama Dilleri ve Frameworkler
 
