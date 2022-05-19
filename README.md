@@ -20,7 +20,7 @@ npx react-native run-android
 ```
 - API Kurulumu
 ```
-cd api_futscout
+cd ../api_futscout
 npm install
 npm start
 ```
