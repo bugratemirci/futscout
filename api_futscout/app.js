@@ -3,21 +3,19 @@ var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
 var logger = require('morgan');
-const cors = require('cors');
 const mongoose = require('mongoose');
+var cors = require('cors')
 
-const indexRouter = require('./routes/index');
-const usersRouter = require('./routes/users');
-const predictionRouter = require('./routes/prediction');
+var indexRouter = require('./routes/index');
+var usersRouter = require('./routes/users');
 var footballers = require('./routes/footballers');
-
 var app = express();
-app.use(cors);
+app.use(cors());
 mongoose.connect('mongodb+srv://mkmlsvt:qwerty20@proje1.xm1du.mongodb.net/deneme?retryWrites=true&w=majority');
 mongoose.connection.on('open', () => {
   console.log("mongoya baglandi");
 });
-mongoose.connection.on('error', () => {
+mongoose.connection.on('error', ()=>{
   console.log("baglanmadi");
 });
 
@@ -33,17 +31,14 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', indexRouter);
 app.use('/users', usersRouter);
-app.use('/prediction', predictionRouter);
 app.use('/footballers', footballers);
-
-
 // catch 404 and forward to error handler
-app.use(function (req, res, next) {
+app.use(function(req, res, next) {
   next(createError(404));
 });
 
 // error handler
-app.use(function (err, req, res, next) {
+app.use(function(err, req, res, next) {
   // set locals, only providing error in development
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};

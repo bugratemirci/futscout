@@ -1,1 +1,0 @@
-print("modelden ciktilar donecek")

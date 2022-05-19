@@ -9,15 +9,16 @@ router.get('/', function (req, res, next) {
 });
 
 router.post('/signUp', (req, res, next) => {
-  userreq = req.body;
+  const { userreq } = req.body;
+  console.log(userreq)
   const user = new User({
     username: userreq.username,
     password: userreq.password,
     team: userreq.team,
-    birthday: userreq.birthday,
     mail: userreq.mail,
     tel: userreq.tel
   });
+  
   user.save((err, data) => {
     if (err)
       res.json({ status: false })
@@ -27,12 +28,13 @@ router.post('/signUp', (req, res, next) => {
 });
 
 router.post('/logIn', (req, res, next) => {
-  userreq = req.body;
+  const { userreq } = req.body;
+  console.log(userreq)
   User.findOne({ username: userreq.username, password: userreq.password }, (err, data) => {
     if (data)
-      res.send({ status: true, user: data });
+      res.json({ status: true, user: data });
     else
-      res.send({ status: false })
+      res.json({ status: false })
   });
 
 });
