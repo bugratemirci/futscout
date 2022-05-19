@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22799,6865,Umut Bozok,Lorient,S,5,52,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0724582923576235,0.0724582923576235
+22800,6865,Umut Bozok,Nimes,F S,25,1237,2,4.304635986685753,3,2.3448078986257315,30,14,1,0,2,2.7846444100141525,5.571422223001719,1.9108725395053625

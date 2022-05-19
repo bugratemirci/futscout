@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22783,7085,Tòfol Montiel,Fiorentina,S,2,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+22784,7085,Tòfol Montiel,Fiorentina,S,1,2,0,0.0253362469375133,0,0.3915894627571106,1,2,0,0,0,0.0253362469375133,0.416925698518753,0.0

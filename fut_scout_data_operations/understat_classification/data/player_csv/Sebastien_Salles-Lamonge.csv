@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20898,3235,Sebastien Salles-Lamonge,Rennes,M S,3,106,0,0.1384801566600799,0,0.2008502334356308,3,4,0,0,0,0.1384801566600799,0.2444090470671653,0.1569444835186004

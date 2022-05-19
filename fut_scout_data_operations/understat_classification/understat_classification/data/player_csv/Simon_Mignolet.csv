@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21406,487,Simon Mignolet,Liverpool,GK,28,2520,0,0.0,0,0.0,0,0,0,0,0,0.0,2.7406595088541508,2.7406595088541508
+21407,487,Simon Mignolet,Liverpool,GK,19,1710,0,0.0,0,0.0,0,0,3,0,0,0.0,2.05976458452642,2.05976458452642
+21408,487,Simon Mignolet,Liverpool,GK,34,3060,0,0.0,0,0.0067829620093107,0,1,2,0,0,0.0,5.279245012439787,5.279245012439787
+21409,487,Simon Mignolet,Liverpool,GK S,36,3225,0,0.0,0,0.0231028404086828,0,1,0,0,0,0.0,3.2512588314712048,3.228155991062522

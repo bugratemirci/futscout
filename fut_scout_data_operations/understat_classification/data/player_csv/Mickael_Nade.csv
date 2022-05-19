@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16298,5753,Mickael Nade,Saint-Etienne,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0137640843167901,0.0137640843167901
+16299,5753,Mickael Nade,Saint-Etienne,D S,11,888,1,1.3286035507917404,0,0.080382733605802,4,3,2,0,1,1.3286035507917404,1.7138643749058249,1.617583630606532

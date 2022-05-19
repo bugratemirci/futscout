@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8734,1503,Giulio Migliaccio,Atalanta,M S,17,499,0,0.1597865521907806,0,0.21099160797894,3,4,2,0,0,0.1597865521907806,2.4567514434456825,2.383208893239498
+8735,1503,Giulio Migliaccio,Atalanta,S,3,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8736,1503,Giulio Migliaccio,Atalanta,M S,20,1149,1,0.5958955567330122,0,0.1291667036712169,10,2,8,0,1,0.5958955567330122,1.154477532953024,0.7558639794588089

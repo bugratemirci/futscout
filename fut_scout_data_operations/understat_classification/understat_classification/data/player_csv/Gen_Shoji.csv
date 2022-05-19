@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8288,7353,Gen Shoji,Toulouse,D,1,48,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0650969073176384,0.0650969073176384
+8289,7353,Gen Shoji,Toulouse,D,18,1620,0,0.0276949102990329,0,0.895100281573832,2,6,2,0,0,0.0276949102990329,2.8457463663071394,2.4462697505950928

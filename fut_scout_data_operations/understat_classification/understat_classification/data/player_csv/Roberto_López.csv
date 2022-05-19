@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19708,7195,Roberto López,Real Sociedad,M S,17,490,3,0.603907760232687,0,0.8122058873996139,14,7,0,0,3,0.603907760232687,1.319389916025102,0.1743707340210676
+19709,7195,Roberto López,Real Sociedad,S,3,42,0,0.0,1,0.0353852249681949,0,1,0,0,0,0.0,0.1204646304249763,0.0850794091820716
+19710,7195,Roberto López,Real Sociedad,S,1,27,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

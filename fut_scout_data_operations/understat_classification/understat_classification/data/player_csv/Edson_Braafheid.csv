@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6402,1882,Edson Braafheid,Lazio,D S,5,334,0,0.0296178460121154,0,0.0,2,0,0,0,0,0.0296178460121154,0.2210129499435424,0.2210129499435424
+6403,1882,Edson Braafheid,Lazio,D S,16,1039,0,0.2161065088585019,1,1.2964444514364004,9,12,1,0,0,0.2161065088585019,3.645769552327693,2.422179289162159

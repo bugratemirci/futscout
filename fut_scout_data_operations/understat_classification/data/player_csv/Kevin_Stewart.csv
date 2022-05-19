@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12682,479,Kevin Stewart,Liverpool,S,4,15,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2421611696481704,0.2421611696481704
+12683,479,Kevin Stewart,Liverpool,M S,7,562,0,0.1321855578571558,0,0.1015038378536701,5,4,1,0,0,0.1321855578571558,2.2099664956331253,2.093239400535822

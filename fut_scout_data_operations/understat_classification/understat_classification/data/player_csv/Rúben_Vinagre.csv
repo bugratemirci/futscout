@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20370,6856,Rúben Vinagre,Wolverhampton Wanderers,D S,17,697,0,0.4506891276687383,0,0.8691692277789116,4,6,1,0,0,0.4506891276687383,3.110603138804436,1.9428537171334028
+20371,6856,Rúben Vinagre,Wolverhampton Wanderers,D S,2,173,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1787466183304786,0.1787466183304786
+20372,6856,Rúben Vinagre,Wolverhampton Wanderers,D S,16,625,0,0.2878529354929924,0,0.6194777600467205,5,4,1,0,0,0.2878529354929924,2.4340996239334345,1.9593652877956629

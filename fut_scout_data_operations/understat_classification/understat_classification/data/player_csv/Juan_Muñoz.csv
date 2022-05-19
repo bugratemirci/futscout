@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12004,2067,Juan Muñoz,Sevilla,S,1,32,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12005,2067,Juan Muñoz,Sevilla,F M S,8,298,1,0.9102610498666764,0,0.0,6,0,0,0,1,0.9102610498666764,1.0011437088251114,0.0908826440572738

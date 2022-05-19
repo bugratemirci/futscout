@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18396,8846,Paul Nebel,Mainz 05,S,4,46,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18397,8846,Paul Nebel,Mainz 05,M S,4,154,0,0.2767468690872192,0,0.0320713371038436,3,2,1,0,0,0.2767468690872192,0.3118143640458584,0.0350674949586391

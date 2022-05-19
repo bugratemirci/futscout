@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11003,6082,Jiri Pavlenka,Werder Bremen,GK,33,2970,0,0.0,0,0.0337736271321773,0,1,1,0,0,0.0,2.959921106696129,2.9261474795639515
+11004,6082,Jiri Pavlenka,Werder Bremen,GK,34,2981,0,0.0,0,0.0,0,0,2,0,0,0.0,2.902500966563821,2.902500966563821
+11005,6082,Jiri Pavlenka,Werder Bremen,GK,34,3060,0,0.0,0,0.0,0,0,2,0,0,0.0,2.3554961616173387,2.3554961616173387
+11006,6082,Jiri Pavlenka,Werder Bremen,GK,34,3060,0,0.0,0,0.0,0,0,1,0,0,0.0,1.6246829563751817,1.6246829563751817

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10753,4475,Jed Steer,Aston Villa,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0106998765841126,0.0106998765841126
+10754,4475,Jed Steer,Aston Villa,GK,1,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10755,4475,Jed Steer,Aston Villa,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.100956805050373,0.100956805050373

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9946,6798,Ivan Konovalov,Ural,GK,1,90,0,0.0,0,0.036052718758583,0,1,1,0,0,0.0,0.036052718758583,0.0
+9947,6798,Ivan Konovalov,Rubin Kazan,GK,20,1800,0,0.0,0,0.0,0,0,1,0,0,0.0,0.4193498073145747,0.4193498073145747

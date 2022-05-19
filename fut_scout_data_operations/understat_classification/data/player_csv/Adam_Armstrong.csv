@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+188,4419,Adam Armstrong,Newcastle United,F S,11,188,0,0.7543585672974586,1,0.4861124996095896,7,6,1,0,0,0.7543585672974586,2.115029338747263,0.932864537462592
+189,4419,Adam Armstrong,Southampton,F S,15,1093,2,3.852900855243206,2,1.624623842537403,40,13,0,0,2,3.852900855243206,5.603872425854206,0.4723457004874944

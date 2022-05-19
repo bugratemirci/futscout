@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8741,1591,Giuseppe Cuomo,Crotone,D S,13,796,0,0.3990705851465463,0,0.0,2,0,4,0,0,0.3990705851465463,0.5581714985892177,0.5581714985892177
+8742,1591,Giuseppe Cuomo,Crotone,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

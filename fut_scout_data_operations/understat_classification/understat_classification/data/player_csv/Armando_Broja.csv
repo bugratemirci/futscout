@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2470,8384,Armando Broja,Chelsea,S,1,4,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0208727829158306,0.0208727829158306
+2471,8384,Armando Broja,Southampton,F S,12,549,3,2.4091429710388184,0,0.0613541789352893,15,1,0,0,3,2.4091429710388184,2.7615000754594803,0.5795703222975135

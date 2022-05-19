@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+173,1535,Accursio Bentivegna,Palermo,S,1,9,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+174,1535,Accursio Bentivegna,Palermo,S,3,5,0,0.06440020352602,0,0.0,1,0,0,0,0,0.06440020352602,0.1085962206125259,0.1085962206125259
+175,1535,Accursio Bentivegna,Palermo,F M S,3,90,0,0.0290357638150453,0,0.0,1,0,0,0,0,0.0290357638150453,0.0290357638150453,0.0

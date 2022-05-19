@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24342,7586,Álex Collado,Barcelona,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+24343,7586,Álex Collado,Barcelona,S,1,85,0,0.1281127482652664,0,0.0,2,0,0,0,0,0.1281127482652664,0.1840415447950363,0.0559287965297699

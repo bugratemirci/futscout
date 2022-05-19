@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6124,5252,Dominik Kaiser,RasenBallsport Leipzig,M S,25,949,1,1.16735415533185,0,1.8083804920315745,15,22,2,0,1,1.16735415533185,3.0212480761110783,1.1795330941677094
+6125,5252,Dominik Kaiser,RasenBallsport Leipzig,M S,10,270,0,0.2545916736125946,0,0.0901462212204933,4,3,0,0,0,0.2545916736125946,0.410997711122036,0.3637838624417782

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12419,5690,Karl-Johan Johnsson,Guingamp,GK,37,3278,0,0.0,2,0.4790624119341373,0,3,1,1,0,0.0,2.040748323313892,1.6903065694496036
+12420,5690,Karl-Johan Johnsson,Guingamp,GK,17,1530,0,0.0,0,0.0,0,0,0,0,0,0.0,0.8440245259553194,0.8440245259553194
+12421,5690,Karl-Johan Johnsson,Guingamp,GK,38,3420,0,0.0,0,0.0431512743234634,0,2,0,0,0,0.0,2.9182322192937136,2.87508094497025

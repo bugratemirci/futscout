@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21784,9227,Steffen Tigges,Borussia Dortmund,S,5,75,1,0.0194634608924388,0,0.5132498145103455,1,1,0,0,1,0.0194634608924388,0.7087679542601109,0.1955181397497654
+21785,9227,Steffen Tigges,Borussia Dortmund,S,6,40,0,0.2904386720620096,0,0.0245254635810852,4,1,0,0,0,0.2904386720620096,0.2782871327362954,0.0

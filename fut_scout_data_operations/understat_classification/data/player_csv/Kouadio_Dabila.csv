@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13031,6263,Kouadio Dabila,Lille,D S,12,778,0,0.0664411690086126,0,0.0,2,0,2,0,0,0.0664411690086126,2.198545290157199,2.198545290157199
+13032,6263,Kouadio Dabila,Lille,D S,12,943,0,0.0,0,0.1007837234064936,0,4,1,0,0,0.0,1.9286885298788548,1.85608783736825

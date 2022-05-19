@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12965,4547,Konstantin Bazelyuk,Anzhi Makhachkala,F S,6,171,0,0.5254448130726814,0,0.0459378063678741,6,1,0,0,0,0.5254448130726814,0.5641782935708761,0.3435005899518728
+12966,4547,Konstantin Bazelyuk,"CSKA Moscow,Torpedo Moscow",S,2,25,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

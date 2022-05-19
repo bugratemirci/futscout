@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3758,6107,Carlo Pinsoglio,Juventus,S,1,26,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+3759,6107,Carlo Pinsoglio,Juventus,S,1,16,0,0.0,0,0.0,0,0,0,0,0,0.0,0.030759572982788,0.030759572982788
+3760,6107,Carlo Pinsoglio,Juventus,S,1,21,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0896394550800323,0.0896394550800323
+3761,6107,Carlo Pinsoglio,Juventus,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0853918194770813,0.0853918194770813

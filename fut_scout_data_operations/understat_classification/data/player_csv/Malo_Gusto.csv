@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14459,9017,Malo Gusto,Lyon,D M S,11,702,0,0.3716346379369497,0,1.6146859005093577,5,11,1,0,0,0.3716346379369497,3.8265471309423447,2.774841919541359
+14460,9017,Malo Gusto,Lyon,S,2,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

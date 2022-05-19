@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21047,4567,Sergey Kuznetsov,Arsenal Tula,F M S,27,1895,3,3.393229603767395,1,3.036319376900792,34,40,0,0,3,3.393229603767395,7.642802715301514,2.890358226373792
+21048,4567,Sergey Kuznetsov,Tom Tomsk,M S,5,276,1,0.0761540457606315,0,0.0902620628476142,2,4,0,0,1,0.0761540457606315,0.0606459937989711,0.0

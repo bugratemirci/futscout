@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14601,2325,Manuel Pablo,Deportivo La Coruna,D,5,343,0,0.0133398165926337,0,0.0613177679479122,1,1,1,0,0,0.0133398165926337,0.345254011452198,0.2705964297056198
+14602,2325,Manuel Pablo,Deportivo La Coruna,D S,3,175,0,0.0819767341017723,0,0.0167568735778331,1,1,0,0,0,0.0819767341017723,0.2204518020153045,0.1217181906104087

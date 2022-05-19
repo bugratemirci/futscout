@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12278,6911,Jón Gudni Fjóluson,FC Krasnodar,D S,10,722,0,0.0,0,0.0176418460905551,0,1,0,0,0,0.0,1.1723851151764393,1.1723851151764393
+12279,6911,Jón Gudni Fjóluson,FC Krasnodar,D M S,6,461,0,0.0799310356378555,0,0.0911273155361414,2,2,0,0,0,0.0799310356378555,1.002659060060978,1.002659060060978

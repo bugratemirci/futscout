@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5184,540,Darren Randolph,West Ham,GK,6,540,0,0.0764757990837097,0,0.0,1,0,0,0,0,0.0764757990837097,0.485291451215744,0.485291451215744
+5185,540,Darren Randolph,West Ham,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2751619219779968,0.2751619219779968
+5186,540,Darren Randolph,West Ham,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+5187,540,Darren Randolph,West Ham,GK,22,1980,0,0.0,0,0.0,0,0,1,0,0,0.0,0.70224454626441,0.70224454626441

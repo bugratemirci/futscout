@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7795,4599,Florin Costea,Arsenal Tula,F S,7,331,0,0.755895784124732,0,0.0303735435009002,15,1,1,0,0,0.755895784124732,0.8185276351869106,0.091367058455944

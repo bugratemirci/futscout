@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1552,6193,Amato Ciciretti,Parma Calcio 1913,F S,6,134,0,0.0699223205447197,0,0.0880946973338723,1,2,0,0,0,0.0699223205447197,0.1471472606062889,0.0
+1553,6193,Amato Ciciretti,Benevento,F M S,12,814,2,1.3436317145824432,1,2.1041212417185307,35,16,0,0,2,1.3436317145824432,1.6514083947986364,0.6313873380422592

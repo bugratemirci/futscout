@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+514,9023,Ajdin Hrustic,Eintracht Frankfurt,M S,8,334,0,0.2330206390470266,0,0.5932164415717125,9,4,1,0,0,0.2330206390470266,1.765222692862153,1.6130406092852354
+515,9023,Ajdin Hrustic,Eintracht Frankfurt,M S,11,260,1,0.2887017428874969,0,0.1401710100471973,7,4,2,0,1,0.2887017428874969,1.500273421406746,1.2339906003326178

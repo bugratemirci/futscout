@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19871,215,Roel Brouwers,Borussia M.Gladbach,D S,8,286,0,0.0911813229322433,0,0.0577757284045219,1,1,0,0,0,0.0911813229322433,0.2943985760211944,0.2366228448227048
+19872,215,Roel Brouwers,Borussia M.Gladbach,D S,20,1411,1,1.2224584612995386,0,0.3150689657777548,6,3,2,0,1,1.2224584612995386,4.758323658257723,4.735051741823554

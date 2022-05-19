@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11228,3595,Johny Placide,Reims,GK S,19,1616,0,0.0,0,0.2286876142024994,0,1,0,0,0,0.0,1.244141493923962,1.0154538797214627
+11229,3595,Johny Placide,Reims,GK S,22,1890,0,0.0,0,0.0181254278868436,0,1,3,0,0,0.0,1.657167723402381,1.6390422955155373

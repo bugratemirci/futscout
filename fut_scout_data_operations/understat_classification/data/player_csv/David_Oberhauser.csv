@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5304,4742,David Oberhauser,Metz,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+5305,4742,David Oberhauser,Metz,GK S,3,184,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0138696422800421,0.0138696422800421

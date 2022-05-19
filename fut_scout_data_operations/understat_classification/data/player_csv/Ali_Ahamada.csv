@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1444,3758,Ali Ahamada,Toulouse,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1445,3758,Ali Ahamada,Toulouse,GK,23,2070,0,0.0,0,0.0,0,0,0,0,0,0.0,0.680145843885839,0.680145843885839

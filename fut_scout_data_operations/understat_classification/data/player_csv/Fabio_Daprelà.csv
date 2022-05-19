@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7144,1909,Fabio Daprelà,"Carpi,Palermo",M S,7,208,0,0.0223626010119915,0,0.0,1,0,2,0,0,0.0223626010119915,0.3655712660402059,0.3432086650282144
+7145,1909,Fabio Daprelà,Palermo,D M S,22,1047,0,0.0582969691604375,0,0.941802779212594,2,12,3,0,0,0.0582969691604375,2.891590880230069,2.538407951593399

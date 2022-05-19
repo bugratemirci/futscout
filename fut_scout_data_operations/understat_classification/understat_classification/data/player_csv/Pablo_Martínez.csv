@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18131,8183,Pablo Martínez,Levante,M S,12,632,0,0.3291207551956177,1,1.0021521747112274,10,6,2,0,0,0.3291207551956177,2.048600722104311,0.7535995617508888
+18132,8183,Pablo Martínez,Levante,S,5,24,0,0.086028553545475,0,0.0,1,0,0,0,0,0.086028553545475,0.0,0.0

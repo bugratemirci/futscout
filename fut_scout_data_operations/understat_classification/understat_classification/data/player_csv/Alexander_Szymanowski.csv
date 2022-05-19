@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1268,5068,Alexander Szymanowski,Leganes,S,1,6,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1269,5068,Alexander Szymanowski,Leganes,F M S,28,2045,8,4.517002871260047,2,2.111811939626932,42,28,1,0,7,3.030703416094184,5.744141116738319,2.149696346372366
+1270,5068,Alexander Szymanowski,Leganes,M,13,1065,2,2.006172824651003,2,2.8271532766520977,19,20,1,0,1,1.2628951705992222,3.077097898349166,0.7665378730744123

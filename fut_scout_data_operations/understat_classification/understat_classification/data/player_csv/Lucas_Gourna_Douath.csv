@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13853,8372,Lucas Gourna Douath,Saint-Etienne,M S,13,607,0,0.4027608931064605,0,0.0193627830594778,3,1,3,0,0,0.4027608931064605,0.3708822801709175,0.3708822801709175
+13854,8372,Lucas Gourna Douath,Saint-Etienne,M S,30,1306,0,0.3182442411780357,0,0.0588719379156827,5,2,8,0,0,0.3182442411780357,3.581268678419292,3.50422244053334

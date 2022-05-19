@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19665,9098,Robert Sánchez,Brighton,GK,27,2430,0,0.0,0,0.0256149489432573,0,1,2,0,0,0.0,3.148130476474762,3.12251552939415
+19666,9098,Robert Sánchez,Brighton,GK,14,1260,0,0.0,0,0.6362467408180237,0,3,2,1,0,0.0,3.2506778445094824,2.9625222887843847

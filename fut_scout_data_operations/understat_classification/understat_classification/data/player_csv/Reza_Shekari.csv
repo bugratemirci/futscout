@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19421,6583,Reza Shekari,Rubin Kazan,S,2,27,0,0.3798919916152954,0,0.0202762223780155,2,1,0,0,0,0.3798919916152954,0.4001682102680206,0.0
+19422,6583,Reza Shekari,Rubin Kazan,S,3,71,0,0.4637262225151062,0,0.0453387573361396,5,2,1,0,0,0.4637262225151062,0.2047605812549591,0.0

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12824,2577,Kike Sola,Athletic Club,F S,5,108,0,0.3870454132556915,0,0.0256803669035434,4,1,0,0,0,0.3870454132556915,0.3338123969733715,0.0115119032561779
+12825,2577,Kike Sola,Athletic Club,F S,5,77,0,0.1170457080006599,0,0.0,1,0,0,0,0,0.1170457080006599,0.1451974865049123,0.0281517785042524

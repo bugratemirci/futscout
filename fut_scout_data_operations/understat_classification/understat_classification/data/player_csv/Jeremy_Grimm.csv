@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10858,5985,Jeremy Grimm,Strasbourg,M S,5,162,0,0.0243170028552413,0,0.0532454513013362,2,1,2,0,0,0.0243170028552413,0.1107415556907653,0.1107415556907653
+10859,5985,Jeremy Grimm,Strasbourg,M S,23,779,1,0.4693116601556539,0,0.1414561942219734,15,4,3,0,1,0.4693116601556539,2.049395704641938,1.656550770625472
+10860,5985,Jeremy Grimm,Strasbourg,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

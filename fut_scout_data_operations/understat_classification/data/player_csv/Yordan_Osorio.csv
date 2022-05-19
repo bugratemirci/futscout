@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24021,8012,Yordan Osorio,Parma Calcio 1913,D S,23,1814,0,0.4063548818230629,0,0.11093972902745,7,3,2,0,0,0.4063548818230629,4.368778590112925,4.303192924708128
+24022,8012,Yordan Osorio,Zenit St. Petersburg,D S,7,438,0,0.0731531903147697,0,0.3047362007200718,1,3,0,0,0,0.0731531903147697,1.233678113669157,0.9786779247224332

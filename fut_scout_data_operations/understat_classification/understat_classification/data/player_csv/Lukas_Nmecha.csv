@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14161,6544,Lukas Nmecha,Manchester City,S,2,8,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14162,6544,Lukas Nmecha,Wolfsburg,M S,6,123,0,0.3920065835118294,0,0.0722924321889877,3,1,1,0,0,0.3920065835118294,0.5568708255887032,0.0925718024373054
+14163,6544,Lukas Nmecha,Wolfsburg,F M S,14,879,5,4.214588508009911,0,1.5598092172294855,30,9,2,0,5,4.214588508009911,6.538162425160408,1.6390373967587948

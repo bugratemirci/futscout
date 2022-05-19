@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10962,6578,Jhon Chancellor,Anzhi Makhachkala,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1277752220630645,0.1277752220630645
+10963,6578,Jhon Chancellor,Anzhi Makhachkala,D S,14,1178,0,0.1583352237939834,0,0.0,4,0,3,0,0,0.1583352237939834,0.8786986442282796,0.7768237637355924
+10964,6578,Jhon Chancellor,Brescia,D,26,2249,3,2.3952951207757,0,0.0,13,0,3,0,3,2.3952951207757,2.3027666229754686,1.3367709536105394

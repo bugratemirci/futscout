@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1546,9067,Amadou Traoré,Bordeaux,S,1,17,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1547,9067,Amadou Traoré,Bordeaux,S,19,257,0,0.2641415502876043,1,0.7887572795152664,3,6,0,0,0,0.2641415502876043,1.0790782496333122,0.1682518944144249

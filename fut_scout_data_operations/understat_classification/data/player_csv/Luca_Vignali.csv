@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13799,8915,Luca Vignali,Spezia,D S,21,1602,0,0.1335129430517554,0,0.7010579537600279,4,10,4,1,0,0.1335129430517554,2.460699772462249,1.8423690050840376
+13800,8915,Luca Vignali,Spezia,D S,2,87,0,0.0,0,0.0,0,0,0,0,0,0.0,0.066946517676115,0.066946517676115

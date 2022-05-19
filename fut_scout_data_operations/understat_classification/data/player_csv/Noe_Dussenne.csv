@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17683,1366,Noe Dussenne,Crotone,D S,8,462,0,0.1460947319865226,0,0.0,3,0,1,1,0,0.1460947319865226,1.0757311023771765,1.0570274032652378
+17684,1366,Noe Dussenne,Crotone,S,1,83,0,0.0378192327916622,0,0.0,1,0,1,0,0,0.0378192327916622,0.0,0.0

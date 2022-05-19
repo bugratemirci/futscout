@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13746,1432,Luca Lezzerini,Fiorentina,S,1,51,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13747,1432,Luca Lezzerini,Fiorentina,GK S,2,108,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1014877539128065,0.1014877539128065
+13748,1432,Luca Lezzerini,Venezia,GK,2,139,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3904915153980255,0.3904915153980255

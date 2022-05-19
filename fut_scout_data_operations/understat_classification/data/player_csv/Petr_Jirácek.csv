@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18700,4235,Petr Jirácek,Hamburger SV,M S,19,952,0,0.6893389662727714,0,0.3875626772642135,8,6,5,0,0,0.6893389662727714,2.5934027954936028,1.7421052614226935

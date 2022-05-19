@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15031,8303,Marin Pongracic,Wolfsburg,D S,10,583,0,0.0738160088658332,0,0.0,1,0,0,1,0,0.0738160088658332,0.9748114859685302,0.9748114859685302
+15032,8303,Marin Pongracic,Borussia Dortmund,D S,8,377,0,0.0,0,0.0,0,0,1,0,0,0.0,1.7645940985530617,1.7645940985530617
+15033,8303,Marin Pongracic,Wolfsburg,D,11,934,2,1.6641847994178534,0,0.0,5,0,4,1,2,1.6641847994178534,2.804443094879389,2.804443094879389

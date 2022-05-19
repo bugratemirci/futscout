@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18059,9132,Oussama Idrissi,Sevilla,S,3,19,0,0.3961652517318725,0,0.0,1,0,0,0,0,0.3961652517318725,0.4783295970410108,0.0821643453091383
+18060,9132,Oussama Idrissi,Sevilla,F M S,5,134,0,0.1618897076696157,0,0.0560076348483562,4,1,1,0,0,0.1618897076696157,0.4043734483420849,0.2051102556288242

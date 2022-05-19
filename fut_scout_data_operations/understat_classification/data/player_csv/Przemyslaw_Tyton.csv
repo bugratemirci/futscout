@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18941,55,Przemyslaw Tyton,Elche,GK,32,2860,0,0.0,0,0.0,0,0,1,1,0,0.0,1.7381542306393385,1.7381542306393385
+18942,55,Przemyslaw Tyton,Deportivo La Coruna,GK S,13,1123,0,0.0,0,0.017375361174345,0,1,1,0,0,0.0,0.5133957229554653,0.4960203617811203
+18943,55,Przemyslaw Tyton,VfB Stuttgart,GK,30,2679,0,0.0,0,0.0177210476249456,0,1,1,1,0,0.0,2.2836247365921736,2.265903688967228
+18944,55,Przemyslaw Tyton,Deportivo La Coruna,GK S,2,97,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

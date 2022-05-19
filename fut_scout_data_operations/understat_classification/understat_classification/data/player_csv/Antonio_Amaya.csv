@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2279,2160,Antonio Amaya,Rayo Vallecano,D,19,1591,1,0.3720852360129356,0,0.0,5,0,6,0,1,0.3720852360129356,2.4736963883042336,2.4736963883042336
+2280,2160,Antonio Amaya,Rayo Vallecano,D S,17,1032,1,0.1001269333064556,0,0.0578655079007148,3,1,4,1,1,0.1001269333064556,1.1960491128265858,1.1381836123764515

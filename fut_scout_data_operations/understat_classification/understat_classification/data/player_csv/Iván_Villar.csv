@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10091,5033,Iván Villar,Celta Vigo,GK S,4,277,0,0.0,0,0.0,0,0,0,0,0,0.0,0.06315528601408,0.06315528601408
+10092,5033,Iván Villar,Celta Vigo,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10093,5033,Iván Villar,Celta Vigo,GK S,21,1771,0,0.0,0,0.0,0,0,1,0,0,0.0,0.9167276844382286,0.9167276844382286

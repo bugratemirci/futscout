@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13248,3335,Laurent Pionnier,Montpellier,GK,25,2250,0,0.0,0,0.0,0,0,0,0,0,0.0,1.8707691449671984,1.8707691449671984
+13249,3335,Laurent Pionnier,Montpellier,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0313613377511501,0.0313613377511501
+13250,3335,Laurent Pionnier,Montpellier,GK,25,2250,0,0.0,0,0.1600339990109205,0,2,0,0,0,0.0,1.4849938214756548,1.466580816078931

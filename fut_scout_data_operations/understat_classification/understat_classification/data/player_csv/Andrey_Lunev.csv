@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1914,3150,Andrey Lunev,Zenit St. Petersburg,GK,29,2610,0,0.0,0,0.0479156151413917,0,2,1,0,0,0.0,3.0914230048656464,3.0435074400156736
+1915,3150,Andrey Lunev,Zenit St. Petersburg,GK S,12,1027,0,0.0,0,0.0,0,0,0,0,0,0.0,1.684375719167292,1.684375719167292
+1916,3150,Andrey Lunev,Zenit St. Petersburg,GK,19,1709,0,0.0,0,0.0238196961581707,0,1,0,0,0,0.0,1.9869219586253168,1.9631022736430168
+1917,3150,Andrey Lunev,Zenit St. Petersburg,GK,20,1747,0,0.0,0,0.0140044819563627,0,1,1,0,0,0.0,1.3993803802877665,1.3853758964687586
+1918,3150,Andrey Lunev,"FC Ufa,Zenit St. Petersburg",GK S,20,1745,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1383808804675937,1.1383808804675937

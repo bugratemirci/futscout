@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20090,381,Ronny,Hertha Berlin,S,1,27,0,0.0454249121248722,0,0.0,2,0,0,0,0,0.0454249121248722,0.0454249121248722,0.0
+20091,381,Ronny,Hertha Berlin,M S,19,933,3,1.5590592743828893,2,1.7796110548079014,22,16,4,0,2,0.8012826079502702,1.7432711524888873,1.004018571227789

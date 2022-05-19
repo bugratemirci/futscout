@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19551,3681,Rincon,Troyes,D,8,716,0,0.2524189203977585,0,0.0577806271612644,3,2,2,0,0,0.2524189203977585,1.033187672495842,0.9754070471972228

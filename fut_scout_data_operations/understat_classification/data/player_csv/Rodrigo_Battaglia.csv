@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19829,8750,Rodrigo Battaglia,Alaves,M S,32,2508,1,1.2072977554053068,0,0.0964142400771379,16,3,10,1,1,1.2072977554053068,2.681995972059667,2.481000187806785
+19830,8750,Rodrigo Battaglia,Mallorca,M S,12,412,0,0.1372149782255292,0,0.0,2,0,2,0,0,0.1372149782255292,0.5800286382436752,0.5652143768966198

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6604,7230,Emile Smith-Rowe,RasenBallsport Leipzig,S,3,26,0,0.0,0,0.4354472160339355,0,1,0,0,0,0.0,0.4354472160339355,0.0
+6605,7230,Emile Smith-Rowe,Arsenal,M S,2,96,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+6606,7230,Emile Smith-Rowe,Arsenal,M S,14,1153,5,2.244145831093192,2,2.177016831934452,21,18,0,0,5,2.244145831093192,5.403516709804535,2.395720422267914
+6607,7230,Emile Smith-Rowe,Arsenal,M S,20,1456,2,1.5921600051224232,4,3.622619265690446,13,27,0,0,2,1.5921600051224232,9.538248419761658,5.634505972266197

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5273,357,David Kinsombi,Eintracht Frankfurt,D S,2,91,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+5274,357,David Kinsombi,Eintracht Frankfurt,D,2,153,0,0.0,0,0.0625722333788871,0,1,1,0,0,0.0,0.2349991202354431,0.1724268943071365

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10375,992,James Wilson,Manchester United,F S,13,329,1,1.0632625482976437,0,0.0445860289037227,8,1,3,0,1,1.0632625482976437,1.496161246672273,0.8005796130746603
+10376,992,James Wilson,Manchester United,S,1,6,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

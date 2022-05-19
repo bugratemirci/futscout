@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6001,3114,Dmitri Verkhovtsov,FC Ufa,D S,11,711,0,0.7319644875824451,1,0.1485442435368895,4,3,2,0,0,0.7319644875824451,0.1565539166331291,0.1400580238550901
+6002,3114,Dmitri Verkhovtsov,FC Ufa,D S,9,610,0,0.2992323935031891,0,0.0,3,0,0,0,0,0.2992323935031891,0.2556150816380977,0.2556150816380977

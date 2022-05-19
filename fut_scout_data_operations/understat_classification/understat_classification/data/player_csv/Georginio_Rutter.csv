@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8382,6937,Georginio Rutter,Hoffenheim,F M S,15,637,4,3.018886886537075,2,1.862668368965388,22,9,0,0,4,3.018886886537075,4.848266422748566,0.7808729875832796
+8383,6937,Georginio Rutter,Rennes,S,4,38,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8384,6937,Georginio Rutter,Hoffenheim,F S,9,229,1,0.425322899594903,0,0.0800617299973964,6,2,0,0,1,0.425322899594903,1.070053769275546,0.6440590042620897

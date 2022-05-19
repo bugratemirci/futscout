@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7918,7081,Francisco Sierralta,Parma Calcio 1913,D S,6,263,0,0.025509743951261,0,0.5982292294502258,2,2,2,0,0,0.025509743951261,0.142794732004404,0.142794732004404
+7919,7081,Francisco Sierralta,Watford,D,3,250,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2968115005642175,0.2968115005642175

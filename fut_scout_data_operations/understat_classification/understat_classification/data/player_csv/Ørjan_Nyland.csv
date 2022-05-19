@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24533,250,Ørjan Nyland,Ingolstadt,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1679604947566986,0.1679604947566986
+24534,250,Ørjan Nyland,Ingolstadt,GK S,12,1021,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5937019810080528,0.5937019810080528
+24535,250,Ørjan Nyland,Aston Villa,GK S,7,536,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1945069879293441,0.1945069879293441

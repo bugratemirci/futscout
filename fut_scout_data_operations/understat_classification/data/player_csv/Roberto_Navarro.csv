@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19713,8765,Roberto Navarro,Real Sociedad,F M S,6,206,0,0.4959949925541878,0,0.0582398697733879,7,1,0,0,0,0.4959949925541878,0.6038881465792656,0.1784082129597664
+19714,8765,Roberto Navarro,Real Sociedad,S,1,33,0,0.0,0,0.0485241673886776,0,1,0,0,0,0.0,0.132304161787033,0.132304161787033

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20824,3985,Sebastian Giovinco,Juventus,F S,7,186,0,0.9323795530945064,0,0.4313735645264387,20,5,0,0,0,0.9323795530945064,1.244849257171154,0.4346269443631172

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10379,8721,Jamie Shackleton,Leeds,D M S,13,446,0,0.0,0,0.1208776850253343,0,2,0,0,0,0.0,2.1937082447111607,2.1937082447111607
+10380,8721,Jamie Shackleton,Leeds,D M S,10,583,0,0.1114594526588916,0,0.0133305806666612,3,1,4,0,0,0.1114594526588916,1.429402321577072,1.3046122938394549

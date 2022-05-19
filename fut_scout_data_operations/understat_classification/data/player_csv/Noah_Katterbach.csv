@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17678,8083,Noah Katterbach,FC Cologne,D S,18,1319,0,0.1013956274837255,0,0.2531184004619717,3,9,2,0,0,0.1013956274837255,2.5602446291595697,2.389846906065941
+17679,8083,Noah Katterbach,FC Cologne,S,1,12,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+17680,8083,Noah Katterbach,FC Cologne,D M S,21,1107,0,0.2131861820816993,0,0.919577842578292,9,11,1,0,0,0.2131861820816993,3.5829617474228144,2.7724011912941933

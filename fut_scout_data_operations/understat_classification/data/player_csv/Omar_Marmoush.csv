@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17939,8393,Omar Marmoush,"VfB Stuttgart,Wolfsburg",F M S,10,697,1,2.2919381950050592,3,0.9170593284070492,16,17,2,0,1,1.534161539748311,2.103423874825239,0.2507580537348985
+17940,8393,Omar Marmoush,Wolfsburg,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+17941,8393,Omar Marmoush,Wolfsburg,S,5,68,0,0.0692597329616546,0,0.0,1,0,0,0,0,0.0692597329616546,0.3213659226894378,0.2521061897277832

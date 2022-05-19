@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7077,2686,Fabian Giefer,Augsburg,GK,4,360,0,0.0,0,0.0387114845216274,0,1,0,0,0,0.0,0.1301026120781898,0.1301026120781898
+7078,2686,Fabian Giefer,Schalke 04,GK,2,137,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0309227611869573,0.0309227611869573

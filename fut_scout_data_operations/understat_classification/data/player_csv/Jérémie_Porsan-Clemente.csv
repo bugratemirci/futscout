@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12220,3734,Jérémie Porsan-Clemente,Montpellier,M,1,90,0,0.0150021500885486,0,0.0956257879734039,1,1,1,0,0,0.0150021500885486,0.1255855858325958,0.1255855858325958
+12221,3734,Jérémie Porsan-Clemente,Marseille,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12222,3734,Jérémie Porsan-Clemente,Marseille,S,1,14,0,0.1023212000727653,0,0.0,1,0,0,0,0,0.1023212000727653,0.1023212000727653,0.0

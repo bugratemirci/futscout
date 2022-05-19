@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3698,880,Callum McManaman,West Bromwich Albion,F M S,8,355,0,0.2652826756238937,1,0.685582235455513,4,7,1,0,0,0.2652826756238937,0.5664248690009117,0.1482192724943161
+3699,880,Callum McManaman,West Bromwich Albion,M S,12,267,0,0.4444280937314033,1,0.2453344874083995,8,8,2,0,0,0.4444280937314033,0.6491798721253872,0.2071338072419166

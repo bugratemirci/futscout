@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14496,6730,Mamin Artem,Spartak Moscow,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14497,6730,Mamin Artem,Ural,D,6,529,0,0.0,0,0.0,0,0,1,0,0,0.0,0.1650799177587032,0.1650799177587032
+14498,6730,Mamin Artem,Ural,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1110779792070388,0.1110779792070388

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16354,2574,Miguelón,Villarreal,D M S,8,544,0,0.1188391596078872,0,0.2331838719546795,2,3,1,0,0,0.1188391596078872,2.006230339407921,1.7157038450241089
+16355,2574,Miguelón,Espanyol,S,1,11,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0406294502317905,0.0406294502317905

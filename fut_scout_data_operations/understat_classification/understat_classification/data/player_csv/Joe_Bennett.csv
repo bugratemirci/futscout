@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11060,959,Joe Bennett,Cardiff,D M,30,2648,0,0.521325571462512,1,0.8026727885007858,10,14,5,0,0,0.521325571462512,1.589597461745143,0.7613154267892241

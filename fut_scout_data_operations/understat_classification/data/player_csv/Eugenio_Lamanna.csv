@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6936,1113,Eugenio Lamanna,Genoa,GK S,8,637,0,0.0,0,0.0240017231553792,0,1,0,0,0,0.0,0.77961883880198,0.7556171156466007
+6937,1113,Eugenio Lamanna,Genoa,GK S,21,1882,0,0.0,0,0.0,0,0,0,0,0,0.0,0.68967673368752,0.68967673368752
+6938,1113,Eugenio Lamanna,Genoa,GK,13,1170,0,0.0,0,0.0169747937470674,0,1,0,0,0,0.0,0.2048167586326599,0.1878419648855924
+6939,1113,Eugenio Lamanna,Genoa,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

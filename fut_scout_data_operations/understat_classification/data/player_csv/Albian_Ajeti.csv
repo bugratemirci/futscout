@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+646,2673,Albian Ajeti,Augsburg,S,1,36,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0425843000411987,0.0425843000411987
+647,2673,Albian Ajeti,West Ham,S,9,114,0,0.2023516837507486,0,0.0387438312172889,3,2,0,0,0,0.2023516837507486,0.2733319420367479,0.0322364307940006

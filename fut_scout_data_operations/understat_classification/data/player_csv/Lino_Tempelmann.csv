@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13528,7811,Lino Tempelmann,Freiburg,M S,10,260,0,0.1478714495897293,0,0.0192466881126165,4,1,2,0,0,0.1478714495897293,1.2698788493871689,1.1897342428565023
+13529,7811,Lino Tempelmann,Freiburg,M,1,33,0,0.0220334082841873,0,0.0,1,0,0,0,0,0.0220334082841873,0.0220334082841873,0.0

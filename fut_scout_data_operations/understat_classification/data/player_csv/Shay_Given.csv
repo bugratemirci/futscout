@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21307,889,Shay Given,Aston Villa,GK,3,270,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0251358561217784,0.0251358561217784
+21308,889,Shay Given,Stoke,GK,3,228,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3371115773916244,0.3371115773916244
+21309,889,Shay Given,Stoke,GK,5,450,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3320234045386314,0.3320234045386314

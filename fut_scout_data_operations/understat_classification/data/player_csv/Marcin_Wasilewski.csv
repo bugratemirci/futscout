@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14805,760,Marcin Wasilewski,Leicester,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14806,760,Marcin Wasilewski,Leicester,D S,4,300,0,0.0286359600722789,0,0.0,1,0,2,0,0,0.0286359600722789,0.1266417894512415,0.1266417894512415
+14807,760,Marcin Wasilewski,Leicester,D S,25,1985,1,1.4217620082199574,1,0.8871924970299006,12,6,6,0,1,1.4217620082199574,2.425549349747598,1.9854072770103808

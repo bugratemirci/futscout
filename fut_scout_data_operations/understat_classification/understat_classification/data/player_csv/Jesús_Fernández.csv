@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10936,2086,Jesús Fernández,Levante,GK,6,540,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+10937,2086,Jesús Fernández,Granada,GK,1,90,0,0.0,0,0.0140848262235522,0,1,0,0,0,0.0,0.3574541509151459,0.3433693051338196

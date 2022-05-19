@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9695,2719,Ilya Abayev,FC Rostov,GK S,13,1098,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3226759023964405,0.3226759023964405
+9696,2719,Ilya Abayev,Lokomotiv Moscow,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1681883782148361,0.1681883782148361
+9697,2719,Ilya Abayev,FC Rostov,GK,11,990,0,0.0,0,0.0234740041196346,0,1,0,0,0,0.0,0.5624222457408905,0.5389482416212559
+9698,2719,Ilya Abayev,Lokomotiv Moscow,GK,11,990,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1750047830864787,0.1750047830864787

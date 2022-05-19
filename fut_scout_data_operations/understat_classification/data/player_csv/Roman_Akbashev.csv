@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19983,7461,Roman Akbashev,Rubin Kazan,F S,5,209,0,0.0970643796026706,0,0.0866986373439431,3,3,1,0,0,0.0970643796026706,0.1072876863181591,0.0401763282716274
+19984,7461,Roman Akbashev,Rubin Kazan,S,1,12,0,0.1038462594151496,0,0.0,3,0,0,0,0,0.1038462594151496,0.149210050702095,0.0641991347074508

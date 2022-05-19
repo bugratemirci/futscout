@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9997,6982,Ivan Provedel,Spezia,GK,29,2610,0,0.0,0,0.0,0,0,1,0,0,0.0,1.468887427356094,1.468887427356094
+9998,6982,Ivan Provedel,Spezia,GK,9,810,0,0.0067149251699447,0,0.0,1,0,1,0,0,0.0067149251699447,1.6034764181822538,1.596761493012309
+9999,6982,Ivan Provedel,Empoli,GK,16,1440,0,0.0,0,0.1115711219608783,0,3,0,0,0,0.0,2.464918192476034,2.353347079828381

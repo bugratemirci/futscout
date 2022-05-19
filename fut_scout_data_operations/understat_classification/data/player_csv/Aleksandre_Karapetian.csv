@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+933,7658,Aleksandre Karapetian,FC Tambov,F S,16,913,3,2.062140874564648,0,0.0830082036554813,24,2,1,0,3,2.062140874564648,2.533700332045555,0.6984153520315886
+934,7658,Aleksandre Karapetian,PFC Sochi,F S,21,472,2,2.433556660078466,0,0.1579755782149732,24,6,2,0,2,2.433556660078466,2.5848513967357576,0.1807954385876655

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+574,1782,Albert Adomah,Middlesbrough,M S,2,119,0,0.384107731282711,0,0.0895430594682693,4,1,0,0,0,0.384107731282711,1.3733210191130638,0.9232075810432434

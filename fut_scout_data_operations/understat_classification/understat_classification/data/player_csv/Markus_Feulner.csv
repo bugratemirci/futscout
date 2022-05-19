@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15218,278,Markus Feulner,Augsburg,D M S,25,1973,1,1.907047998160124,0,1.093618055805564,31,14,7,0,1,1.907047998160124,4.814922647550702,2.8043050598353148
+15219,278,Markus Feulner,Augsburg,S,1,17,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15220,278,Markus Feulner,Augsburg,D M S,19,1079,1,1.0412492398172617,0,0.3781717512756586,13,8,4,0,1,1.0412492398172617,3.4404798671603203,2.3101138584315777

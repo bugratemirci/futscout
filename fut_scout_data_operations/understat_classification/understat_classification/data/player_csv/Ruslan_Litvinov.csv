@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20252,9055,Ruslan Litvinov,Spartak Moscow,S,6,28,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0494588501751422,0.0494588501751422
+20253,9055,Ruslan Litvinov,Spartak Moscow,M,9,752,1,0.5568581409752369,1,0.1622862890362739,16,4,1,1,1,0.5568581409752369,1.6293483339250088,0.972381018102169

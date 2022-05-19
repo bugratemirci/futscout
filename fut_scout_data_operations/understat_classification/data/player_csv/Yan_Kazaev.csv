@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23801,5905,Yan Kazaev,Tosno,M S,15,788,0,0.6368903089314699,0,0.1702871099114418,8,4,2,0,0,0.6368903089314699,0.9827905036509036,0.1898992974311113
+23802,5905,Yan Kazaev,PFC Sochi,M S,4,269,0,0.0,0,0.0612521842122077,0,1,0,0,0,0.0,0.2754592448472976,0.2754592448472976

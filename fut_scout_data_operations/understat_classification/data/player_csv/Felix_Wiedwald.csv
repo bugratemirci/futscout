@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7503,109,Felix Wiedwald,Werder Bremen,GK,34,3060,0,0.0467649176716804,0,0.0,1,0,4,0,0,0.0467649176716804,2.8579659899696708,2.8579659899696708
+7504,109,Felix Wiedwald,Eintracht Frankfurt,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0569098852574825,0.0569098852574825
+7505,109,Felix Wiedwald,Eintracht Frankfurt,GK S,10,811,0,0.0,0,0.0,0,0,0,0,0,0.0,0.7460072413086891,0.7460072413086891
+7506,109,Felix Wiedwald,Werder Bremen,GK S,25,2209,0,0.0,0,0.0,0,0,2,0,0,0.0,2.685979088768363,2.685979088768363

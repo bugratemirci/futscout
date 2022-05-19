@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21243,560,Sergio Romero,Manchester United,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1150706224143505,0.1150706224143505
+21244,560,Sergio Romero,Sampdoria,GK S,10,879,0,0.0,0,0.0,0,0,1,0,0,0.0,0.6514982655644417,0.6514982655644417
+21245,560,Sergio Romero,Manchester United,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6442756112664938,0.6442756112664938
+21246,560,Sergio Romero,Manchester United,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3445826470851898,0.3445826470851898
+21247,560,Sergio Romero,Venezia,GK,10,900,0,0.0,0,0.0938476994633674,0,1,2,0,0,0.0,0.2790931090712547,0.1852454096078872

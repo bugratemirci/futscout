@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16916,7263,Musa Juwara,Chievo,S,1,10,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+16917,7263,Musa Juwara,Bologna,S,5,39,0,0.0188038926571607,0,0.0,1,0,1,0,0,0.0188038926571607,0.0188038926571607,0.0
+16918,7263,Musa Juwara,Bologna,M S,7,141,1,0.2955096140503883,0,0.1455510770902037,6,4,1,0,1,0.2955096140503883,1.3309779316186905,1.0423617362976074

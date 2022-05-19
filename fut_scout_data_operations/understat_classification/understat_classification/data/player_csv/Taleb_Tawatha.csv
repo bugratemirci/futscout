@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22096,5312,Taleb Tawatha,Eintracht Frankfurt,D M S,13,426,0,0.083122843876481,1,0.6983073242008686,3,6,1,0,0,0.083122843876481,1.242765473201871,0.5259955804795027
+22097,5312,Taleb Tawatha,Eintracht Frankfurt,D M S,14,690,0,0.169312946498394,0,1.743339284323156,2,10,0,0,0,0.169312946498394,2.3402484199032187,1.140355357900262
+22098,5312,Taleb Tawatha,Eintracht Frankfurt,M S,3,128,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0805230289697647,0.0805230289697647

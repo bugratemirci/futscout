@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4063,9451,Chimuanya Ugochukwu,Rennes,M S,3,70,0,0.1474519819021225,0,0.0,2,0,1,0,0,0.1474519819021225,0.1440847441554069,0.0635195598006248
+4064,9451,Chimuanya Ugochukwu,Rennes,M S,11,342,1,0.2628515344113111,0,0.1354040093719959,4,3,1,0,1,0.2628515344113111,1.5473159216344357,1.263348812237382

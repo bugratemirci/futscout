@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12122,6095,Julian Pollersbeck,Lyon,GK S,2,101,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0530031993985176,0.0530031993985176
+12123,6095,Julian Pollersbeck,Hamburger SV,GK,10,900,0,0.0,0,0.0,0,0,1,0,0,0.0,0.8414752278476954,0.8414752278476954

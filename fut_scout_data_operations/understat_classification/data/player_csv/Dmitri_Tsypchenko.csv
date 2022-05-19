@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6000,9595,Dmitri Tsypchenko,Krylya Sovetov Samara,S,10,49,0,0.3362906295806169,0,0.1243422459810972,3,3,0,0,0,0.3362906295806169,0.4501409642398357,0.0137916728854179

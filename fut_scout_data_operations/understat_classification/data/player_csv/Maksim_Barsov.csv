@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14380,9389,Maksim Barsov,PFC Sochi,F S,9,295,2,0.804722161963582,0,0.1061281934380531,9,2,1,0,2,0.804722161963582,1.3486692756414411,0.5128079503774643
+14381,9389,Maksim Barsov,PFC Sochi,S,4,42,1,0.997018665075302,0,0.3168959319591522,2,1,0,0,1,0.997018665075302,1.313914567232132,0.0

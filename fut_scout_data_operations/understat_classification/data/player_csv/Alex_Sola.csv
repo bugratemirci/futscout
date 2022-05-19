@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1172,7424,Alex Sola,Real Sociedad,D,1,90,0,0.0790611058473587,0,0.1010247766971588,2,1,0,0,0,0.0790611058473587,0.8253956437110901,0.6580272316932678

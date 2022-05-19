@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21923,2619,Stole Dimitrievski,Granada,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21924,2619,Stole Dimitrievski,Rayo Vallecano,GK S,17,1512,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3078463803976774,0.3078463803976774
+21925,2619,Stole Dimitrievski,Rayo Vallecano,GK,21,1890,0,0.0,0,0.0,0,0,3,0,0,0.0,1.2909780275076628,1.2909780275076628

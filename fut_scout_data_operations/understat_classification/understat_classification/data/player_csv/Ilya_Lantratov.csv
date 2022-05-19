@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9715,3192,Ilya Lantratov,Khimki,GK,18,1620,0,0.0,0,0.0,0,0,0,0,0,0.0,1.2823838107287884,1.2823838107287884
+9716,3192,Ilya Lantratov,Khimki,GK,30,2700,0,0.0,0,0.0311394687741994,0,1,2,0,0,0.0,0.7643669294193387,0.7332274606451392

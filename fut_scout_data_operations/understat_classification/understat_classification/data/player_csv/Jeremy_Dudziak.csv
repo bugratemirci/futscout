@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10853,4240,Jeremy Dudziak,Greuther Fuerth,F M S,10,517,1,1.5638978090137243,0,0.4479550011456013,7,8,0,0,1,1.5638978090137243,2.083457585424185,0.1656882669776678
+10854,4240,Jeremy Dudziak,Borussia Dortmund,S,3,60,0,0.0,1,0.3482049107551574,0,3,0,0,0,0.0,1.0932699143886566,1.0837524831295011

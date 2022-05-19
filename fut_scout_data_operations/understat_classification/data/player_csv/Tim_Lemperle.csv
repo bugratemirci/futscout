@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22413,8407,Tim Lemperle,FC Cologne,S,4,57,1,0.620436429977417,0,0.0768027976155281,1,2,0,0,1,0.620436429977417,0.6972392201423645,0.0200177021324634
+22414,8407,Tim Lemperle,FC Cologne,S,1,14,0,0.0605198144912719,0,0.0,1,0,0,0,0,0.0605198144912719,0.0,0.0

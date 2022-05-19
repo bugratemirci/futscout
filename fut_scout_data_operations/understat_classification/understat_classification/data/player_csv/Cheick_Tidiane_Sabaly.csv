@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4018,8686,Cheick Tidiane Sabaly,Metz,F S,5,135,0,0.3798709940165281,0,0.0195366498082876,2,1,0,0,0,0.3798709940165281,0.911058634519577,0.5516730323433876
+4019,8686,Cheick Tidiane Sabaly,Metz,S,1,9,0,0.0259600970894098,0,0.0,1,0,0,0,0,0.0259600970894098,0.2586629688739776,0.2327028810977935

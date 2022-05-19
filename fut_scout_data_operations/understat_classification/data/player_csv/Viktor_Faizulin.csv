@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23079,3179,Viktor Faizulin,Zenit St. Petersburg,M S,14,940,0,0.1689823362976312,2,1.2286305613815784,5,12,3,0,0,0.1689823362976312,4.258432626724243,3.357819654047489
+23080,3179,Viktor Faizulin,Zenit St. Petersburg,M S,5,172,0,0.5732868313789368,1,0.3211983442306518,3,1,0,0,0,0.5732868313789368,1.4958443334326148,0.6013591540977359

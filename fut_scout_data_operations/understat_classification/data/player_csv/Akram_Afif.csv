@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+526,5158,Akram Afif,Sporting Gijon,M S,9,227,0,0.0242108292877674,0,0.5645681861788034,1,5,2,0,0,0.0242108292877674,0.5887789968401194,0.0754711478948593

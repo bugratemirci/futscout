@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22135,6323,Tatsuya Ito,Hamburger SV,M S,20,1011,0,0.9938460290431976,2,1.1885796785354614,12,14,1,0,0,0.9938460290431976,4.0260064620524645,2.0780064668506384

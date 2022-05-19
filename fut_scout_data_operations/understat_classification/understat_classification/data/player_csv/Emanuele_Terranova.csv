@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6555,1527,Emanuele Terranova,Sassuolo,D,9,755,0,0.1035181805491447,0,0.0,2,0,0,0,0,0.1035181805491447,1.1901009418070316,1.1901009418070316
+6556,1527,Emanuele Terranova,Sassuolo,D S,3,193,0,0.0896412134170532,0,0.0,1,0,0,0,0,0.0896412134170532,0.7865206003189087,0.7865206003189087
+6557,1527,Emanuele Terranova,Sassuolo,D S,6,333,0,0.0,0,0.0,0,0,1,0,0,0.0,0.1931704953312873,0.1931704953312873

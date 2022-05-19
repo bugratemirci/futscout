@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14747,4302,Marcel Sobottka,Fortuna Duesseldorf,M S,14,944,0,0.3542849346995353,0,0.0459805820137262,6,2,3,0,0,0.3542849346995353,3.199014115612954,3.127384054940194
+14748,4302,Marcel Sobottka,Fortuna Duesseldorf,M S,18,696,0,0.3364033252000808,1,0.1361521352082491,7,2,2,0,0,0.3364033252000808,0.5653128866106272,0.2614388708025217

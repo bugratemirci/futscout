@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11255,8727,Jon Morcillo,Athletic Club,S,6,36,0,0.4036964476108551,0,0.0,1,0,2,0,0,0.4036964476108551,0.4036964476108551,0.0
+11256,8727,Jon Morcillo,Athletic Club,M S,30,1362,2,0.986337773501873,2,2.700222348794341,24,23,3,0,2,0.986337773501873,3.707603884860873,2.138246994465589

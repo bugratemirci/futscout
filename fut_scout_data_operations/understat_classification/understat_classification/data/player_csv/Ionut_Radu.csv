@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9769,1830,Ionut Radu,Inter,S,1,17,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9770,1830,Ionut Radu,Genoa,GK,33,2970,0,0.0,0,0.0876467060297727,0,3,0,0,0,0.0,1.7394767571240664,1.679444661363959
+9771,1830,Ionut Radu,Inter,GK S,2,134,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4152568578720093,0.4152568578720093
+9772,1830,Ionut Radu,Genoa,GK,17,1530,0,0.0,1,0.0666623339056968,0,1,1,0,0,0.0,0.9920508340001106,0.9253885000944138

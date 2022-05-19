@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5949,3068,Dmitri Bogaev,Zenit St. Petersburg,D S,5,203,0,0.0,0,0.0,0,0,0,0,0,0.0,0.973617158830166,0.973617158830166
+5950,3068,Dmitri Bogaev,SKA-Khabarovsk,D,1,90,0,0.0,0,0.0119573045521974,0,1,1,0,0,0.0,0.124901570379734,0.1129442602396011

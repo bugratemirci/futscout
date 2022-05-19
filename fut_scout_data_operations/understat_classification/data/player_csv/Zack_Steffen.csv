@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24206,7817,Zack Steffen,Manchester City,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.349734753370285,0.349734753370285
+24207,7817,Zack Steffen,Fortuna Duesseldorf,GK,17,1530,0,0.0,0,0.0374155305325984,0,1,0,0,0,0.0,0.4732605963945389,0.4358450695872307
+24208,7817,Zack Steffen,Manchester City,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3352588415145874,0.3352588415145874

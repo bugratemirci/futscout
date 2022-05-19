@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23401,8086,Víctor Gómez,Espanyol,D M S,18,1265,0,0.1651154430583119,0,0.589213415980339,5,11,2,0,0,0.1651154430583119,1.9479433707892893,1.4416743591427803
+23402,8086,Víctor Gómez,Espanyol,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

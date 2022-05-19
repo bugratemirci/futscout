@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3808,2348,Carlos Kameni,Malaga,GK,35,3150,0,0.0,0,0.020026110112667,0,1,2,0,0,0.0,1.8906838316470385,1.870657721534372
+3809,2348,Carlos Kameni,Malaga,GK,28,2466,0,0.0,1,0.1991207897663116,0,1,2,0,0,0.0,1.658404467627406,1.4592836778610945
+3810,2348,Carlos Kameni,Malaga,GK,38,3420,0,0.0,0,0.0369454324245452,0,1,3,0,0,0.0,1.7035438250750303,1.666598392650485

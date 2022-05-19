@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20665,380,Sandro Sirigu,Darmstadt,D M S,30,1803,2,0.6951534664258361,1,2.027827475219965,18,14,4,1,2,0.6951534664258361,4.342716220766306,2.4786923080682755
+20666,380,Sandro Sirigu,Darmstadt,M S,6,119,0,0.0,2,1.0383075177669523,0,2,0,0,0,0.0,1.0383075177669523,0.0

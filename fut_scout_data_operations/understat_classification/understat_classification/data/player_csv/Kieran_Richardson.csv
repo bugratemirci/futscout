@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12796,899,Kieran Richardson,Aston Villa,D M S,11,722,0,0.1554975565522909,1,0.1637585759162902,7,4,4,0,0,0.1554975565522909,0.8549433890730143,0.6551993042230606
+12797,899,Kieran Richardson,Aston Villa,D F M S,22,1349,0,0.7576621742919087,1,1.1378548545762897,9,8,2,1,0,0.7576621742919087,3.913324545137584,2.1866521472111344

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9668,9243,Ilaix Moriba,Barcelona,M S,14,530,1,0.7794596925377846,2,0.7094910964369774,13,7,1,0,1,0.7794596925377846,3.326352246105671,2.5444036461412907
+9669,9243,Ilaix Moriba,RasenBallsport Leipzig,S,2,27,0,0.0423646569252014,0,0.0,1,0,0,0,0,0.0423646569252014,0.0672701895236969,0.0249055325984954

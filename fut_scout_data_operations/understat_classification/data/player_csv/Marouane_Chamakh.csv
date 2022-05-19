@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15241,905,Marouane Chamakh,Crystal Palace,F M S,18,1163,2,2.013119178358465,0,0.683624979108572,11,18,4,0,2,2.013119178358465,2.5799614135175943,1.0949442461133003
+15242,905,Marouane Chamakh,Crystal Palace,F S,10,239,0,0.4842877201735973,0,0.1751471422612667,2,4,1,0,0,0.4842877201735973,0.6829483658075333,0.0885532051324844

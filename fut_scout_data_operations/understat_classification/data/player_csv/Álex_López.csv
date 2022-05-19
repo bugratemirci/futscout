@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24351,4039,Álex López,Celta Vigo,M S,25,1120,1,2.071941675618291,0,0.856701223179698,23,15,5,0,1,2.071941675618291,5.24425383657217,2.641173416748643
+24352,6934,Álex López,Espanyol,M S,4,107,0,0.0166021399199962,0,0.0,1,0,1,0,0,0.0166021399199962,0.7001858800649643,0.6835837513208389

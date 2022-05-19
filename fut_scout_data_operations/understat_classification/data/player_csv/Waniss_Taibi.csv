@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23495,8633,Waniss Taibi,Angers,M S,2,85,0,0.0735598132014274,0,0.0,1,0,1,0,0,0.0735598132014274,0.1013419330120086,0.1013419330120086
+23496,8633,Waniss Taibi,Angers,S,2,31,0,0.0,0,0.0186805482953786,0,1,0,0,0,0.0,0.067548194900155,0.0488676447421312

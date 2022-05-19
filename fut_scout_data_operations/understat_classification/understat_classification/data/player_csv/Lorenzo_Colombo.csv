@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13594,8478,Lorenzo Colombo,AC Milan,F S,4,89,0,0.417863093316555,0,0.0,4,0,0,0,0,0.417863093316555,0.417863093316555,0.0
+13595,8478,Lorenzo Colombo,AC Milan,S,1,5,0,0.0,0,0.0346284583210945,0,1,0,0,0,0.0,0.0346284583210945,0.0

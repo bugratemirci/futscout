@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20018,8370,Roman Minaev,Arsenal Tula,S,3,28,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+20019,8370,Roman Minaev,"Arsenal Tula,FC Tambov",F S,10,234,0,0.1683907471597194,0,0.1718736216425895,3,2,0,0,0,0.1683907471597194,0.9549562633037568,0.7020346820354462

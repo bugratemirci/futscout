@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22751,977,Tyias Browning,Everton,D S,5,299,0,0.2205908149480819,0,0.0394110381603241,2,2,1,0,0,0.2205908149480819,0.9883920662105083,0.9489810299128294
+22752,977,Tyias Browning,Everton,S,2,24,0,0.0,0,0.0325691848993301,0,1,0,0,0,0.0,0.065367080271244,0.0327978953719139

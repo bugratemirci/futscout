@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8701,1630,Giovanni Marchese,Genoa,D S,11,670,0,0.1428203359246254,0,0.052939255721867,4,2,4,0,0,0.1428203359246254,0.9115878492593764,0.8709930572658777
+8702,1630,Giovanni Marchese,Genoa,S,1,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8703,1630,Giovanni Marchese,Genoa,D M S,11,854,1,0.2305900156497955,2,0.239413296803832,4,6,2,0,1,0.2305900156497955,2.408870045095682,2.169456740841269

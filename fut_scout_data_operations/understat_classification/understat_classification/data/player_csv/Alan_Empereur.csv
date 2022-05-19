@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+544,7929,Alan Empereur,Verona,D,4,222,0,0.0705036222934722,0,0.0,1,0,1,0,0,0.0705036222934722,0.7109030783176422,0.6403994560241699
+545,7929,Alan Empereur,Verona,D S,13,845,0,0.0339352032169699,0,0.0567444004118442,2,1,3,0,0,0.0339352032169699,1.3586957920342684,1.3586957920342684

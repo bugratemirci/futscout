@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6154,8821,Donny van de Beek,Manchester United,M S,19,486,1,0.2947287252172827,1,1.0433875694870949,2,3,1,0,1,0.2947287252172827,3.5466001369059086,2.2084838151931763
+6155,8821,Donny van de Beek,Manchester United,S,7,58,1,0.6744329929351807,0,0.3933870494365692,1,3,0,0,1,0.6744329929351807,1.568616360425949,0.5554127991199493

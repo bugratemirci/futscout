@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23615,7459,Will Norris,Burnley,GK,2,180,0,0.0,0,0.0476219616830349,0,1,0,0,0,0.0,0.0933512076735496,0.0457292459905147
+23616,7459,Will Norris,Wolverhampton Wanderers,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22022,2743,Svyatoslav Georgievsky,Kuban Krasnodar,M S,5,276,0,0.1609384380280971,0,1.0002145674079657,3,11,1,0,0,0.1609384380280971,0.2457529455423355,0.0
+22023,2743,Svyatoslav Georgievsky,Anzhi Makhachkala,M S,10,616,0,0.5304571324959397,2,0.237159488722682,9,8,0,0,0,0.5304571324959397,1.0648534363135695,0.470192895270884

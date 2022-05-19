@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20014,2845,Roman Gerus,Arsenal Tula,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1215358022600412,0.1215358022600412
+20015,2845,Roman Gerus,Amkar,GK,27,2430,0,0.0,0,0.2712694108486175,0,1,3,0,0,0.0,1.864347955211997,1.5930785443633797
+20016,2845,Roman Gerus,Amkar,GK,7,630,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0969249019399285,0.0969249019399285

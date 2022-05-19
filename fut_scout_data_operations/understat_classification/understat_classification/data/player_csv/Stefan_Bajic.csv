@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21667,8057,Stefan Bajic,Saint-Etienne,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.071080207824707,0.071080207824707
+21668,8057,Stefan Bajic,Saint-Etienne,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21669,8057,Stefan Bajic,Saint-Etienne,GK S,6,417,0,0.0179427675902843,0,0.0,1,0,0,0,0,0.0179427675902843,0.0880646519362926,0.0701218843460083

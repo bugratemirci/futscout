@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8724,5467,Giuliano,Zenit St. Petersburg,F S,2,98,0,0.0617987606674432,0,0.040626835078001,2,2,0,0,0,0.0617987606674432,0.1845288760960102,0.0821032747626304
+8725,5467,Giuliano,Zenit St. Petersburg,M S,28,2369,8,6.8414800260216,7,4.089461820200086,51,46,1,0,5,4.578654052689672,11.901001796126366,5.045446394011378

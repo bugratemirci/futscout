@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7850,1989,Francesco Bardi,Chievo,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1293310057371854,0.1293310057371854
+7851,1989,Francesco Bardi,Frosinone,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0482822395861148,0.0482822395861148
+7852,1989,Francesco Bardi,Frosinone,GK,2,119,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3857890665531158,0.3857890665531158

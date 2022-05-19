@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12006,1519,Juan Pablo Carrizo,Inter,GK,2,163,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1502019688487053,0.1502019688487053
+12007,1519,Juan Pablo Carrizo,Inter,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0808251053094863,0.0808251053094863
+12008,1519,Juan Pablo Carrizo,Inter,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6594592928886414,0.6594592928886414

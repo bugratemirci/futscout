@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5711,145,Diego Benaglio,Monaco,GK S,23,2058,0,0.0,0,0.0,0,0,2,0,0,0.0,1.166294226422906,1.166294226422906
+5712,145,Diego Benaglio,Wolfsburg,GK,14,1260,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5973590826615691,0.5973590826615691
+5713,145,Diego Benaglio,Wolfsburg,GK,21,1890,0,0.0,0,0.0,0,0,1,0,0,0.0,2.639331120997668,2.639331120997668
+5714,145,Diego Benaglio,Monaco,GK S,3,223,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0934467762708664,1.0934467762708664
+5715,145,Diego Benaglio,Wolfsburg,GK,31,2790,0,0.0,0,0.0448343493044376,0,1,2,0,0,0.0,2.4329723585397005,2.388138005509973

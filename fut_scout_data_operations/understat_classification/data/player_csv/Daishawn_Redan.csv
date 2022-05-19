@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4646,7918,Daishawn Redan,Hertha Berlin,S,1,16,0,0.1282183229923248,0,0.0,1,0,0,0,0,0.1282183229923248,0.1282183229923248,0.0
+4647,7918,Daishawn Redan,Hertha Berlin,S,7,87,0,0.5963745266199112,0,0.0134377740323543,3,1,0,0,0,0.5963745266199112,0.6404543146491051,0.0306420400738716

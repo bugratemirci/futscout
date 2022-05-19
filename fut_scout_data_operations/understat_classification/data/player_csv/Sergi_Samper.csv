@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21127,2492,Sergi Samper,Barcelona,S,1,29,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0723270699381828,0.0723270699381828
+21128,2492,Sergi Samper,Granada,M S,22,1267,0,0.2473175730556249,1,0.5415018517524004,6,6,6,0,0,0.2473175730556249,2.131817908026278,1.6164199942722917
+21129,2492,Sergi Samper,Las Palmas,M,2,150,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1841292418539524,0.1841292418539524

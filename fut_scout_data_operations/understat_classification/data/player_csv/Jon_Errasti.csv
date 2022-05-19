@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11244,2620,Jon Errasti,Eibar,M S,25,1723,0,0.145466374233365,0,0.0467748995870351,5,3,3,0,0,0.145466374233365,0.9875466749072076,0.8361518196761608

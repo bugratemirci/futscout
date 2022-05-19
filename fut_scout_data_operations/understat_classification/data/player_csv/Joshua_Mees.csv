@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11716,7885,Joshua Mees,Union Berlin,S,1,3,0,0.0633665844798088,0,0.0,2,0,0,0,0,0.0633665844798088,0.015080040320754,0.0
+11717,7885,Joshua Mees,Union Berlin,M S,15,294,0,0.4208128601312637,1,0.2747098105028271,9,4,1,0,0,0.4208128601312637,0.7507955320179462,0.2847319263964891

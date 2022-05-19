@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22950,6167,Vanja Milinkovic-Savic,SPAL 2013,GK,2,165,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0,0.0
+22951,6167,Vanja Milinkovic-Savic,Torino,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0212521310895681,0.0212521310895681
+22952,6167,Vanja Milinkovic-Savic,Torino,GK,17,1530,0,0.0793048739433288,0,0.0,1,0,3,0,0,0.0793048739433288,3.2313617300242186,3.2313617300242186
+22953,6167,Vanja Milinkovic-Savic,Torino,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6707817893475294,0.6707817893475294

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6962,2741,Evgeni Frolov,"Krylya Sovetov Samara,PFC Sochi",GK,11,990,0,0.0,0,0.0222549438476562,0,1,1,0,0,0.0,0.1560448724776506,0.1337899286299944
+6963,2741,Evgeni Frolov,FC Orenburg,GK,22,1980,0,0.0,0,0.0,0,0,2,0,0,0.0,1.496752746403217,1.496752746403217

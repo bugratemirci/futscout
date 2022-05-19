@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1679,4934,Andrea Beghetto,Genoa,M S,3,150,0,0.0088383769616484,0,0.0648280456662178,1,2,0,0,0,0.0088383769616484,0.0736664226278662,0.0
+1680,4934,Andrea Beghetto,Frosinone,D M S,27,2229,0,0.9400012055411936,3,3.894458858296275,23,55,3,0,0,0.9400012055411936,6.135538967326284,3.8119908794760704

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14015,2602,Luis Fariña,Rayo Vallecano,S,3,50,0,0.0,0,0.0212953444570302,0,1,0,0,0,0.0,0.0588363520801067,0.0375410094857215
+14016,2602,Luis Fariña,Deportivo La Coruna,M S,21,1197,1,0.8671318776905537,0,0.7172828502953053,14,10,1,1,1,0.8671318776905537,1.4406623877584934,0.5176226757466793

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15562,3283,Mathieu Gorgelin,Lyon,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0288932658731937,0.0288932658731937
+15563,3283,Mathieu Gorgelin,Lyon,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1636763960123062,0.1636763960123062
+15564,3283,Mathieu Gorgelin,Lyon,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4161108266562223,0.4161108266562223
+15565,3283,Mathieu Gorgelin,Lyon,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4443119838833809,0.4443119838833809

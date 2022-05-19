@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6230,3435,Dusan Veskovac,Toulouse,D,13,1055,0,0.0,0,0.0850294791162014,0,2,1,0,0,0.0,1.2219297885894775,1.1691381335258484
+6231,3435,Dusan Veskovac,Troyes,D S,13,1056,0,0.0,0,0.0,0,0,2,0,0,0.0,1.580604676157236,1.580604676157236
+6232,3435,Dusan Veskovac,Toulouse,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

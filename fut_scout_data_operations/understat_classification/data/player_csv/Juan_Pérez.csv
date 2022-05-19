@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12010,5172,Juan Pérez,Osasuna,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3333934233523905,0.3333934233523905
+12011,5172,Juan Pérez,Osasuna,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0480253808200359,0.0480253808200359
+12012,5172,Juan Pérez,Osasuna,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0070744636468589,0.0070744636468589

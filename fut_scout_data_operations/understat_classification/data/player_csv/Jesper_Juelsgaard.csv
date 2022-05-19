@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10904,4711,Jesper Juelsgaard,Evian Thonon Gaillard,D S,11,873,0,0.1364130675792694,0,0.5320614278316498,2,9,2,0,0,0.1364130675792694,0.5234472658485174,0.324319090694189

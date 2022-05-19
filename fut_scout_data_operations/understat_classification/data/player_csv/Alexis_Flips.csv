@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1367,9298,Alexis Flips,Reims,S,2,36,1,0.0325004272162914,0,0.0,2,0,0,0,1,0.0325004272162914,0.0325004272162914,0.0
+1368,9298,Alexis Flips,Reims,D F M S,13,587,1,0.9844370288774372,3,2.4608262591063976,9,15,2,0,0,0.2243418656289577,2.7371769454330206,1.0417244844138622

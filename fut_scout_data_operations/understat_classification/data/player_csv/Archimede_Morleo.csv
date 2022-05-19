@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2416,1596,Archimede Morleo,Bologna,S,1,23,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1216114982962608,0.1216114982962608
+2417,1596,Archimede Morleo,Bologna,D,5,402,0,0.1018170118331909,0,0.1279644081369042,4,3,0,0,0,0.1018170118331909,1.173052097670734,1.0580896688625216

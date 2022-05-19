@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17561,8847,Niklas Tauer,Mainz 05,M S,4,235,0,0.3453195989131927,0,0.0,2,0,1,0,0,0.3453195989131927,0.627438098192215,0.2821184992790222
+17562,8847,Niklas Tauer,Mainz 05,S,5,56,0,0.0,0,0.0636558011174202,0,1,0,0,0,0.0,0.0636558011174202,0.0

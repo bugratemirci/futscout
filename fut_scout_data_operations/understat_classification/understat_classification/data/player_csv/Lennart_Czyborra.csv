@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13347,8298,Lennart Czyborra,Arminia Bielefeld,D S,4,128,0,0.0,0,0.0,0,0,1,0,0,0.0,0.1824495643377304,0.1824495643377304
+13348,8298,Lennart Czyborra,Atalanta,S,1,16,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13349,8298,Lennart Czyborra,Genoa,D S,17,1182,1,0.1561848251149058,0,0.2227930277585983,5,4,2,0,1,0.1561848251149058,1.728183912113309,1.472681101411581

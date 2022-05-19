@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2860,8746,Aïmen Moueffek,Saint-Etienne,D M S,19,719,0,0.0790674164891243,0,0.3110473370179534,1,8,3,0,0,0.0790674164891243,2.370638081803918,2.048968003131449
+2861,8746,Aïmen Moueffek,Saint-Etienne,M S,5,263,0,0.0972470212727785,0,0.0,4,0,0,0,0,0.0972470212727785,0.1217059884220361,0.0400277860462665

@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2788,934,Axel Tuanzebe,Manchester United,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2789,934,Axel Tuanzebe,Aston Villa,D S,8,506,0,0.1548681333661079,0,0.0,2,0,1,0,0,0.1548681333661079,0.8887575045228004,0.8887575045228004
+2790,934,Axel Tuanzebe,Manchester United,D M,4,307,0,0.0403218083083629,0,0.0550887659192085,2,1,0,0,0,0.0403218083083629,0.2715342380106449,0.2477843388915062
+2791,934,Axel Tuanzebe,Manchester United,D S,5,186,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1738492473959922,0.1738492473959922
+2792,934,Axel Tuanzebe,Manchester United,D S,9,401,0,0.0,0,0.0,0,0,2,0,0,0.0,1.078361839056015,1.078361839056015

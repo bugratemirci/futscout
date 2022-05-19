@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6742,8632,Enzo Ebosse,Angers,D M S,11,541,0,0.0,0,0.1668610721826553,0,2,0,0,0,0.0,1.6873576194047928,1.6873576194047928
+6743,8632,Enzo Ebosse,Angers,D S,6,254,0,0.0,0,0.5376933813095093,0,1,1,0,0,0.0,1.0552882105112076,0.5175948292016983

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15229,8037,Marley Aké,Marseille,S,9,120,0,1.1943220421671867,0,0.0,4,0,0,0,0,1.1943220421671867,0.7987281447276473,0.1499981125816702
+15230,8037,Marley Aké,Marseille,S,9,78,0,0.137475399300456,0,0.0,3,0,1,0,0,0.137475399300456,0.7433704305440187,0.6570330560207367

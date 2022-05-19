@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2271,1481,Antonino Ragusa,Sassuolo,D F S,30,787,0,3.384374015033245,1,0.6397301442921162,21,9,6,0,0,3.384374015033245,4.185732899233699,0.7729549091309309
+2272,1481,Antonino Ragusa,Genoa,S,1,16,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+2273,1481,Antonino Ragusa,Sassuolo,F M S,25,1429,4,4.00482826679945,2,1.519213933497667,28,15,5,0,4,4.00482826679945,7.277005722746253,3.034353205934167

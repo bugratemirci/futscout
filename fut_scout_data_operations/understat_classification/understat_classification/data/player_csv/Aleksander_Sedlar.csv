@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+755,7845,Aleksander Sedlar,Mallorca,D S,7,198,0,0.0,0,0.0241024568676948,0,1,2,1,0,0.0,0.0241024568676948,0.0
+756,7845,Aleksander Sedlar,Mallorca,D S,12,811,0,0.0360257253050804,0,0.0301116704940795,1,1,3,1,0,0.0360257253050804,1.144207514822483,1.1140958443284037

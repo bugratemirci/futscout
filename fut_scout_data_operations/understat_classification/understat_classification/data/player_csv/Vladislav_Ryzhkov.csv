@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23338,4572,Vladislav Ryzhkov,Arsenal Tula,F M S,9,243,0,0.458051037043333,1,0.3700220342725515,10,11,1,0,0,0.458051037043333,0.941525174304843,0.2012776099145412
+23339,4572,Vladislav Ryzhkov,Arsenal Tula,F M S,26,1564,0,1.4993650978431106,4,1.6799969403073192,29,26,2,1,0,1.4993650978431106,4.962332868948579,2.32944480702281

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13292,6078,Leandro Chichizola,Getafe,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13293,6078,Leandro Chichizola,Las Palmas,GK,27,2430,0,0.0,0,0.0368848890066146,0,1,2,0,0,0.0,2.139769517816603,2.139769517816603

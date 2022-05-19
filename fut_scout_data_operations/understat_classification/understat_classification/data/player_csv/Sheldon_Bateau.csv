@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21310,3002,Sheldon Bateau,Krylya Sovetov Samara,D M S,20,1495,0,0.8436661455780268,0,0.5189708508551121,12,5,2,0,0,0.8436661455780268,2.071047990582884,1.7249615024775269
+21311,3002,Sheldon Bateau,Krylya Sovetov Samara,D M S,18,858,0,0.0143030267208814,1,0.7533065639436245,1,6,1,0,0,0.0143030267208814,1.5204720366746187,0.822765477001667

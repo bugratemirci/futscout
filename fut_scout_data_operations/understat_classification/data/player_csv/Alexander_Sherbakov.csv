@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1261,2806,Alexander Sherbakov,Ural,M S,4,103,0,0.0209675412625074,0,0.0,1,0,0,0,0,0.0209675412625074,0.0209675412625074,0.0209675412625074
+1262,2806,Alexander Sherbakov,Ural,M S,2,91,0,0.0189038421958684,0,0.0,1,0,1,0,0,0.0189038421958684,0.1440593339502811,0.1251554898917675

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20509,1013,Sam Field,West Bromwich Albion,M S,10,545,1,0.5942728370428085,0,0.1794712170958519,5,4,2,0,1,0.5942728370428085,1.0633237874135375,0.3097419133409858
+20510,1013,Sam Field,West Bromwich Albion,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+20511,1013,Sam Field,West Bromwich Albion,M S,8,278,0,0.0495008751749992,0,0.1092850118875503,1,3,2,0,0,0.0495008751749992,0.325926125049591,0.1671402473002672
+20512,1013,Sam Field,West Bromwich Albion,S,3,56,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

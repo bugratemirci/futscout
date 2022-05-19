@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3191,3012,Berat Sadik,Krylya Sovetov Samara,S,6,50,0,0.5325207002460957,0,0.0,5,0,0,0,0,0.5325207002460957,0.5230876095592976,0.0895322114229202
+3192,3012,Berat Sadik,Krylya Sovetov Samara,F S,11,382,0,0.6406175922602415,1,0.79164585378021,10,6,1,0,0,0.6406175922602415,1.711752450093627,0.4754129573702812

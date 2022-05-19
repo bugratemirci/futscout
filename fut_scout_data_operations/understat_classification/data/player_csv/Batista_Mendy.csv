@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2986,8283,Batista Mendy,Angers,M S,15,1074,0,0.1305332109332084,0,0.1380224302411079,5,3,2,0,0,0.1305332109332084,1.0585318338125944,1.008251971565187
+2987,8283,Batista Mendy,Nantes,S,2,69,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

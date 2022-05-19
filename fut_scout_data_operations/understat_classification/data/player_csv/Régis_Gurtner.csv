@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20325,5957,Régis Gurtner,Amiens,GK,28,2520,0,0.0,0,0.0730297416448593,0,1,0,0,0,0.0,0.8058501239866018,0.7328203823417425
+20326,5957,Régis Gurtner,Amiens,GK,37,3330,0,0.0,0,0.0,0,0,2,0,0,0.0,1.3934535449370742,1.3934535449370742
+20327,5957,Régis Gurtner,Amiens,GK,38,3420,0,0.0,0,0.0337383300065994,0,2,4,0,0,0.0,1.8217566143721344,1.7880182843655348

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2578,6780,Artem Kulishev,FC Orenburg,F S,9,157,1,0.560403048992157,1,0.0533746816217899,1,2,1,0,1,0.560403048992157,0.6720957234501839,0.0583179928362369
+2579,6780,Artem Kulishev,FC Orenburg,D F M S,18,971,3,4.044965788722038,2,0.8466401286423206,17,7,2,0,2,3.290690466761589,4.502115022391081,1.2851141011342406

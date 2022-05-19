@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21805,6202,Stephane Omeonga,Genoa,D M S,19,771,0,0.6416602386161685,0,0.4420109800994396,14,9,2,1,0,0.6416602386161685,2.513113694265485,1.5045800767838955
+21806,6202,Stephane Omeonga,Genoa,S,3,52,0,0.0,0,0.1202524714171886,0,2,1,0,0,0.0,0.1202524714171886,0.0

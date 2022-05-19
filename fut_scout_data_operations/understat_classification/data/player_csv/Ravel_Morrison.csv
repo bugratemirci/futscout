@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19241,1883,Ravel Morrison,Sheffield United,S,1,11,0,0.0266937743872404,0,0.0,1,0,0,0,0,0.0266937743872404,0.0,0.0
+19242,1883,Ravel Morrison,Lazio,S,4,56,0,0.0,0,0.056311722844839,0,1,0,0,0,0.0,0.1983142495155334,0.1420025303959846
+19243,1883,Ravel Morrison,West Ham,S,1,31,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

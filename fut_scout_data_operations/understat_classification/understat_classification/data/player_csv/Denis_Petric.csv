@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5570,3502,Denis Petric,"Angers,Troyes",GK,11,990,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2542765196412802,0.2542765196412802
+5571,3502,Denis Petric,Angers,GK,9,810,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5277856504544616,0.5277856504544616
+5572,3502,Denis Petric,Nantes,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

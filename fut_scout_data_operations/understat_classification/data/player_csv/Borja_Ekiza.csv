@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3367,2140,Borja Ekiza,Eibar,D,11,932,0,0.1237212419509887,0,0.0559361893683671,2,2,5,0,0,0.1237212419509887,0.1470653656870126,0.1136817168444395
+3368,2140,Borja Ekiza,Eibar,D S,4,192,0,0.0,0,0.0,0,0,1,0,0,0.0,0.3424452319741249,0.3424452319741249

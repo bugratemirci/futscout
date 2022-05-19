@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5374,1558,Davide Bassi,Empoli,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5617906209081411,0.5617906209081411
+5375,1558,Davide Bassi,Atalanta,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

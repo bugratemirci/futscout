@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8399,3083,Georgy Makhatadze,SKA-Khabarovsk,S,1,18,0,0.0,0,0.0717894583940506,0,1,0,0,0,0.0,0.0717894583940506,0.0
+8400,3083,Georgy Makhatadze,FC Rostov,M S,10,496,1,0.2750596031546592,0,0.1718833963386714,8,4,1,0,1,0.2750596031546592,1.5114637222141027,1.1430155374109745
+8401,3083,Georgy Makhatadze,Lokomotiv Moscow,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8402,3083,Georgy Makhatadze,Rubin Kazan,S,3,32,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1288033053278923,0.1288033053278923

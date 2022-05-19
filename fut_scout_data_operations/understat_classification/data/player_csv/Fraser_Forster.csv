@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8008,831,Fraser Forster,Southampton,GK,8,720,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1139454767107964,1.1139454767107964
+8009,831,Fraser Forster,Southampton,GK,38,3420,0,0.0,0,0.3446774184703827,0,1,3,0,0,0.0,3.662928997538984,3.662928997538984
+8010,831,Fraser Forster,Southampton,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+8011,831,Fraser Forster,Southampton,GK,18,1620,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5442581046372652,0.5442581046372652
+8012,831,Fraser Forster,Southampton,GK,20,1800,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1555679105222223,1.1555679105222223
+8013,831,Fraser Forster,Southampton,GK,30,2623,0,0.0,0,0.0186374764889478,0,1,1,0,0,0.0,2.293366087600589,2.2747286166995764

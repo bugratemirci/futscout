@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24421,2154,Álvaro Vadillo,Real Betis,M S,3,85,0,0.0220991745591163,0,0.1872303783893585,1,2,0,0,0,0.0220991745591163,0.7053908780217171,0.4960612952709198
+24422,2154,Álvaro Vadillo,Espanyol,S,3,5,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+24423,2154,Álvaro Vadillo,Granada,M S,22,1230,3,1.9807005850598216,1,1.6098756957799196,17,21,0,0,2,1.2374229421839118,4.594807897694409,3.306119041517377

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14484,3688,Mamadou Samassa,Troyes,GK,21,1890,0,0.0,0,0.0217123050242662,0,1,1,0,0,0.0,2.3454153798520565,2.3237030748277903
+14485,3688,Mamadou Samassa,Guingamp,GK S,9,730,0,0.0,0,0.0194824896752834,0,1,0,1,0,0.0,0.3201434947550297,0.3201434947550297
+14486,3688,Mamadou Samassa,Guingamp,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3394267559051513,0.3394267559051513

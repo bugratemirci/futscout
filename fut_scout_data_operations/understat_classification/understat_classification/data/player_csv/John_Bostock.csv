@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11174,6815,John Bostock,Toulouse,M S,16,984,0,0.1856896597892046,0,0.6441709902137518,7,7,1,0,0,0.1856896597892046,2.3330029249191284,1.7456634398549795

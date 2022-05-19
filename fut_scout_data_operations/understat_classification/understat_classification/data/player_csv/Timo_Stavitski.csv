@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22446,6486,Timo Stavitski,Caen,F M S,9,396,0,0.0179572626948356,0,0.3451031185686588,1,6,1,0,0,0.0179572626948356,0.4365721084177494,0.0735117252916097
+22447,6486,Timo Stavitski,Caen,S,1,13,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10186,8795,Jacob Laursen,Arminia Bielefeld,D M,13,1054,2,0.186197368428111,0,0.491589879617095,8,4,1,0,2,0.186197368428111,1.4290773943066597,0.9897215571254492
+10187,8795,Jacob Laursen,Arminia Bielefeld,D S,16,1110,0,0.0445616757497191,1,1.0362590439617634,2,4,1,0,0,0.0445616757497191,2.335157170891762,2.230361731722951

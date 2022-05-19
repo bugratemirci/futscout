@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11318,3562,Jonathan Brison,Saint-Etienne,D S,7,440,0,0.0114049762487411,0,0.0185601729899644,1,1,2,0,0,0.0114049762487411,1.0041080694645643,0.97414293512702
+11319,3562,Jonathan Brison,Saint-Etienne,D M S,18,952,1,0.0526993311941623,0,0.4243501704186201,4,7,5,0,1,0.0526993311941623,2.071448177099228,1.8361278437078

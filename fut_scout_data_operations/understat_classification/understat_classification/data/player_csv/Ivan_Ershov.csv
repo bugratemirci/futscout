@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9932,4561,Ivan Ershov,Arsenal Tula,D,5,415,0,0.0818068198859691,0,0.0,2,0,0,0,0,0.0818068198859691,0.3411497101187706,0.2593429014086723
+9933,4561,Ivan Ershov,Arsenal Tula,D S,15,1040,1,0.3856869135051965,0,0.4617661507800221,3,4,1,0,1,0.3856869135051965,1.62774093542248,0.8094762908294797

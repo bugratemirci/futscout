@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13881,9019,Lucas Martínez Quarta,Fiorentina,D S,21,1486,1,1.7068059733137488,0,0.2857524808496237,17,6,4,1,1,1.7068059733137488,3.2530731316655874,2.141294537112117
+13882,9019,Lucas Martínez Quarta,Fiorentina,D,12,1047,1,0.6634356360882521,0,0.3819453930482268,9,3,5,0,1,0.6634356360882521,3.580619730055332,3.541061080992222

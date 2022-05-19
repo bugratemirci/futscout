@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20373,6875,Rúnar Alex Rúnarsson,Arsenal,S,1,11,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+20374,6875,Rúnar Alex Rúnarsson,Dijon,GK S,11,890,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0813994370400906,1.0813994370400906
+20375,6875,Rúnar Alex Rúnarsson,Dijon,GK,25,2250,0,0.0,0,0.0,0,0,0,0,0,0.0,1.2813217686489224,1.2813217686489224

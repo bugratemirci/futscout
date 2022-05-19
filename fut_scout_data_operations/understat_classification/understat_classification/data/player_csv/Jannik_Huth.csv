@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10456,51,Jannik Huth,Mainz 05,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2521382737904787,0.2521382737904787
+10457,51,Jannik Huth,Paderborn,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1845936123281717,0.1845936123281717

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9942,6373,Ivan Ivanchenko,Anzhi Makhachkala,M S,9,463,0,0.2157116364687681,0,0.0720816701650619,7,1,1,1,0,0.2157116364687681,0.3764187209308147,0.1163482796400785
+9943,6373,Ivan Ivanchenko,Anzhi Makhachkala,M S,3,77,0,0.689301609992981,0,0.0811410471796989,3,1,0,0,0,0.689301609992981,0.6728764176368713,0.0

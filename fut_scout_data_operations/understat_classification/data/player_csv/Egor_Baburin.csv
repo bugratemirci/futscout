@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6427,4628,Egor Baburin,Rubin Kazan,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0149042662233114,0.0149042662233114
+6428,4628,Egor Baburin,FC Rostov,GK,12,1080,0,0.0,0,0.0,0,0,0,0,0,0.0,1.205720392987132,1.205720392987132
+6429,4628,Egor Baburin,FC Rostov,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+6430,4628,Egor Baburin,Zenit St. Petersburg,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.247796431183815,0.247796431183815
+6431,4628,Egor Baburin,Zenit St. Petersburg,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+6432,4628,Egor Baburin,"FC Krasnodar,FC Rostov",GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2747592609375715,0.2747592609375715

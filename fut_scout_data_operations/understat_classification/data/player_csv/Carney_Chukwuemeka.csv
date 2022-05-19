@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3850,9356,Carney Chukwuemeka,Aston Villa,S,2,16,0,0.056043904274702,0,0.0,1,0,0,0,0,0.056043904274702,0.056043904274702,0.0
+3851,9356,Carney Chukwuemeka,Aston Villa,M S,3,94,0,0.4084951281547546,0,0.055809661746025,1,1,0,0,0,0.4084951281547546,0.4643047899007797,0.055809661746025

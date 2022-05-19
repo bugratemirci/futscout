@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1186,3188,Alexander Buttner,Dinamo Moscow,S,1,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1187,3188,Alexander Buttner,Dinamo Moscow,D S,19,1441,0,0.6960541438311338,0,0.5524905566126108,25,7,6,1,0,0.6960541438311338,4.037398687563837,3.276246277615428

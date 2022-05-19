@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15952,8248,Maxence Rivera,Saint-Etienne,M S,17,209,0,0.0941241979598999,0,0.0296770241111516,2,2,0,0,0,0.0941241979598999,0.1730261659249663,0.1566403349861502
+15953,8248,Maxence Rivera,Saint-Etienne,S,1,4,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15954,8248,Maxence Rivera,Saint-Etienne,S,1,24,0,0.0536136999726295,0,0.0,1,0,0,0,0,0.0536136999726295,0.0674215108156204,0.0138078117743134

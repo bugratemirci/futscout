@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6916,9294,Etienne Green,Saint-Etienne,GK,15,1200,0,0.0,0,0.0073509542271494,0,1,1,1,0,0.0,0.2084367191419005,0.2010857658460736
+6917,9294,Etienne Green,Saint-Etienne,GK,8,720,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2012739814817905,0.2012739814817905

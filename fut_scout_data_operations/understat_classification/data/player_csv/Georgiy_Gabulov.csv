@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8396,3017,Georgiy Gabulov,Krylya Sovetov Samara,F M S,22,1865,4,2.610173037275672,1,1.7046785624697804,49,23,1,0,4,2.610173037275672,4.178460780531168,1.1870359033346176
+8397,3017,Georgiy Gabulov,SKA-Khabarovsk,F M S,11,579,0,0.3503058571368456,0,0.2267695637419819,10,7,1,0,0,0.3503058571368456,0.54188940115273,0.2060130108147859

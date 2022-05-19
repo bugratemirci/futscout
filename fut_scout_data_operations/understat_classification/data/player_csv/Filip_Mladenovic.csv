@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7631,2644,Filip Mladenovic,FC Cologne,D M S,14,851,0,0.4786290638148784,2,1.7464648596942425,13,16,1,0,0,0.4786290638148784,3.9801867865026,2.5540600679814816
+7632,2644,Filip Mladenovic,FC Cologne,S,2,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

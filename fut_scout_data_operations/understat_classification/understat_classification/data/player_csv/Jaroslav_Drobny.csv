@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10480,178,Jaroslav Drobny,Hamburger SV,GK S,10,845,0,0.0,1,0.1907299906015396,0,1,1,0,0,0.0,1.5152837689965963,1.3245537783950567
+10481,178,Jaroslav Drobny,Werder Bremen,GK,10,848,0,0.0,0,0.0,0,0,0,1,0,0.0,0.8605995066463947,0.8605995066463947
+10482,178,Jaroslav Drobny,Fortuna Duesseldorf,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0882278829813003,0.0882278829813003
+10483,178,Jaroslav Drobny,Hamburger SV,GK,23,1998,0,0.0,0,0.2418420910835266,0,1,4,1,0,0.0,1.1963647585362196,0.954522667452693

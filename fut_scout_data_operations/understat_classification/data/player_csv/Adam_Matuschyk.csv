@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+225,4286,Adam Matuschyk,FC Cologne,M S,10,431,0,0.6214882275089622,1,0.2257017828524112,7,3,0,0,0,0.6214882275089622,0.7162659345194697,0.1612110109999776

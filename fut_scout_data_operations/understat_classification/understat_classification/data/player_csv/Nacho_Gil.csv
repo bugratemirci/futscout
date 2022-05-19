@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17011,2570,Nacho Gil,"Las Palmas,Valencia",F M S,20,956,0,0.4979958357289433,1,1.7519879639148712,10,12,1,0,0,0.4979958357289433,1.7542044557631016,1.1668725088238716
+17012,2570,Nacho Gil,Valencia,S,2,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

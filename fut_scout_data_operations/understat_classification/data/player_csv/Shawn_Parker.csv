@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21305,2677,Shawn Parker,Augsburg,S,2,40,0,0.0,0,0.0430119633674621,0,1,1,0,0,0.0,0.0,0.0
+21306,2677,Shawn Parker,Augsburg,M S,8,190,0,0.5647498983889818,1,0.1974955750629305,7,7,1,0,0,0.5647498983889818,0.7561363270506263,0.1540573118254542

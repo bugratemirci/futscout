@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21210,6154,Sergio Mora,Getafe,M S,26,788,0,0.1595560749992728,0,0.1693630404770374,6,6,5,0,0,0.1595560749992728,1.8191349636763328,1.6487140338867905

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1235,5400,Alexander Melikhov,FK Akhmat,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0722530856728553,0.0722530856728553
+1236,5400,Alexander Melikhov,Tom Tomsk,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1237,5400,Alexander Melikhov,FK Akhmat,S,1,30,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

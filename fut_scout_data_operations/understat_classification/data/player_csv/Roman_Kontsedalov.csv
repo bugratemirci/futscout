@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20017,2735,Roman Kontsedalov,Kuban Krasnodar,M S,7,261,0,0.0641503590159118,0,0.2412524335086345,3,7,1,0,0,0.0641503590159118,0.2491265870630741,0.1095961257815361

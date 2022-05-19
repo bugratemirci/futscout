@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2176,3710,Anthony Walongwa,Nantes,D,1,90,0,0.0862386748194694,0,0.0,1,0,0,0,0,0.0862386748194694,0.0791665911674499,0.0791665911674499
+2177,3710,Anthony Walongwa,Nantes,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.123468279838562,0.123468279838562
+2178,3710,Anthony Walongwa,Nantes,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2179,3710,Anthony Walongwa,Nantes,D,3,253,0,0.0,0,0.0,0,0,1,0,0,0.0,0.1223269095644354,0.1223269095644354

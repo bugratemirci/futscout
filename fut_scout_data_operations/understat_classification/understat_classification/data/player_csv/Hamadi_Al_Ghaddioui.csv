@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9083,8810,Hamadi Al Ghaddioui,VfB Stuttgart,S,6,33,0,0.2885917723178863,0,0.0,1,0,0,0,0,0.2885917723178863,0.3241652362048626,0.0355734638869762
+9084,8810,Hamadi Al Ghaddioui,VfB Stuttgart,F S,9,491,2,2.132163554430008,2,0.9650881513953208,12,8,2,0,2,2.132163554430008,3.887250285595656,0.9538511745631696

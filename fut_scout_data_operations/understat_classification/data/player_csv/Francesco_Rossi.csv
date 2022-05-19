@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7883,4940,Francesco Rossi,Atalanta,S,1,10,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+7884,4940,Francesco Rossi,Atalanta,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+7885,4940,Francesco Rossi,Atalanta,S,1,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0878262668848037,0.0878262668848037

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21201,7859,Sergio Herrera,Osasuna,GK S,19,1658,0,0.0,0,0.0256372299045324,0,1,2,1,0,0.0,0.498193509876728,0.4725562799721956
+21202,7859,Sergio Herrera,Osasuna,GK S,33,2958,0,0.0,0,0.1201750412583351,0,1,2,0,0,0.0,2.542409513145685,2.42223447188735
+21203,7859,Sergio Herrera,Osasuna,GK,16,1440,0,0.0,0,0.0161437727510929,0,1,2,0,0,0.0,0.6242142636328936,0.608070494607091

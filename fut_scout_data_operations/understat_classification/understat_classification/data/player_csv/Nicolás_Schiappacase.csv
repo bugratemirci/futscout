@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17459,5195,Nicolás Schiappacase,Sassuolo,S,1,13,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0508094131946563,0.0508094131946563
+17460,5195,Nicolás Schiappacase,Parma Calcio 1913,F S,3,82,0,0.0255970153957605,0,0.0,1,0,0,0,0,0.0255970153957605,0.0255970153957605,0.0

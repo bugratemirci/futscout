@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22284,3751,Thomas Henry,Nantes,S,2,25,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+22285,3751,Thomas Henry,Venezia,F S,16,886,2,3.0756535790860653,3,1.9419531151652336,23,9,2,0,2,3.0756535790860653,4.86146941781044,0.6022725030779839

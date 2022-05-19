@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3347,1926,Boris Radunovic,Verona,GK,3,270,0,0.0,0,0.0,0,0,1,0,0,0.0,0.1874609068036079,0.1874609068036079
+3348,1926,Boris Radunovic,Atalanta,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+3349,1926,Boris Radunovic,Cagliari,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

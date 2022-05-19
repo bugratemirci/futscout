@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10895,972,Jerome Sinclair,Watford,F S,5,110,0,0.0575342327356338,0,0.0240631885826587,1,1,0,0,0,0.0575342327356338,0.0240631885826587,0.0
+10896,972,Jerome Sinclair,Watford,S,4,26,0,0.0,0,0.0784712731838226,0,1,0,0,0,0.0,0.3549391627311706,0.276467889547348
+10897,972,Jerome Sinclair,Liverpool,S,2,22,0,0.0,0,0.0521583370864391,0,1,0,0,0,0.0,0.0521583370864391,0.0

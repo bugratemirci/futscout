@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21428,1894,Simone Colombi,Parma Calcio 1913,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0142946010455489,0.0142946010455489
+21429,1894,Simone Colombi,"Carpi,Palermo",GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1337195187807083,0.1337195187807083
+21430,1894,Simone Colombi,Cagliari,GK,3,270,0,0.0,0,0.0327740386128425,0,1,1,0,0,0.0,0.0381718128919601,0.0381718128919601
+21431,1894,Simone Colombi,Parma Calcio 1913,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0219709184020757,0.0219709184020757

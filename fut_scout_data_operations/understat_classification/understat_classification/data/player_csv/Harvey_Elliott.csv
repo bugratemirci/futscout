@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9177,7546,Harvey Elliott,Liverpool,S,2,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9178,7546,Harvey Elliott,Liverpool,M S,4,251,0,0.4808208048343658,0,0.3615525886416435,7,5,0,0,0,0.4808208048343658,1.9827339053153992,1.2372965067625046
+9179,7546,Harvey Elliott,Fulham,S,2,16,0,0.0564982444047927,0,0.0,1,0,0,0,0,0.0564982444047927,0.0962790176272392,0.0397807769477367

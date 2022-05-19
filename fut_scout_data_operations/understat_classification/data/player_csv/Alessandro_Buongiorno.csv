@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1028,5025,Alessandro Buongiorno,Torino,D S,11,688,0,0.2997522726655006,2,0.591261887922883,3,3,3,0,0,0.2997522726655006,1.7852572994306684,1.2158401058986783
+1029,5025,Alessandro Buongiorno,Torino,S,1,6,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1030,5025,Alessandro Buongiorno,Torino,D S,12,852,0,0.181404149159789,0,0.0131291951984167,3,1,4,0,0,0.181404149159789,2.598685834556818,2.585556637495756

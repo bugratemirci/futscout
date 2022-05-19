@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18519,2756,Pavel Solomatin,Dinamo Moscow,S,2,46,0,0.0130300251767039,0,0.0,1,0,1,0,0,0.0130300251767039,0.1763620702549815,0.1633320450782776
+18520,2756,Pavel Solomatin,Amkar,F M S,7,427,0,0.5831092586740851,0,0.5847100969403982,9,3,0,0,0,0.5831092586740851,2.1098929112777114,0.960030809044838

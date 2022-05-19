@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1291,2939,Alexander Zhirov,"Anzhi Makhachkala,Tom Tomsk",D,26,2317,0,0.5669974628835917,0,0.1609825640916824,10,2,2,1,0,0.5669974628835917,1.7420088034123182,1.7420088034123182
+1292,2939,Alexander Zhirov,Anzhi Makhachkala,D,30,2700,1,0.5435575488954782,1,0.4958272147923708,7,11,3,0,1,0.5435575488954782,4.839183190837503,4.686560371890664

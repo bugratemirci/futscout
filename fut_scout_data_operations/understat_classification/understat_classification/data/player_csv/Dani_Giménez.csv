@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4752,2156,Dani Giménez,Real Betis,GK S,3,207,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0295769572257995,0.0295769572257995
+4753,2156,Dani Giménez,Real Betis,GK,4,308,0,0.0,0,0.0399720333516597,0,1,0,0,0,0.0,0.7205364145338535,0.6805643811821938
+4754,2156,Dani Giménez,Real Betis,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.113703578710556,0.113703578710556

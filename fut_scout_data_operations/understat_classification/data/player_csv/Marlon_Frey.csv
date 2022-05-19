@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15231,192,Marlon Frey,Bayer Leverkusen,M S,9,241,0,0.3493547514081001,0,0.0514589697122573,9,1,1,0,0,0.3493547514081001,0.3922652313485741,0.102819450199604

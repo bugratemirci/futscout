@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3511,3444,Brayan Perea,Troyes,F S,12,511,0,1.1010321602225304,0,0.2349209059029817,7,5,3,1,0,1.1010321602225304,1.5894518364220858,0.3769022598862648
+3512,3444,Brayan Perea,Lazio,S,5,39,0,0.0960825607180595,0,0.0,1,0,1,0,0,0.0960825607180595,0.0960825607180595,0.0

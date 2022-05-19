@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2117,9524,Anthony Elanga,Manchester United,S,1,13,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0270578078925609,0.0270578078925609
+2118,9524,Anthony Elanga,Manchester United,F M,2,157,1,0.5518713593482971,0,0.0207255706191062,2,1,0,0,1,0.5518713593482971,0.8420460820198059,0.8213205337524414

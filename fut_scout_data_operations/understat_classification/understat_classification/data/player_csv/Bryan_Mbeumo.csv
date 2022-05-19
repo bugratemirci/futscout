@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3636,6552,Bryan Mbeumo,Troyes,S,4,56,0,0.0746560860425233,0,0.0,3,0,0,0,0,0.0746560860425233,0.0445816963911056,0.0
+3637,6552,Bryan Mbeumo,Brentford,F,15,1294,3,5.262464558705688,1,1.3237284310162067,36,14,2,0,2,4.501295691356063,7.45658215880394,2.4760850183665752

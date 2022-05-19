@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7288,7905,Fede San Emeterio,Real Valladolid,M S,24,1465,0,0.0964386565610766,0,0.077149068005383,3,4,7,0,0,0.0964386565610766,1.495242165401578,1.4164203074760735
+7289,7905,Fede San Emeterio,Real Valladolid,M S,25,1755,0,0.0373706044629216,0,0.4548703171312809,3,6,4,0,0,0.0373706044629216,5.015078586526215,4.561957381665707

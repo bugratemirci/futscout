@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19037,8390,Rafa Soares,Eibar,D M,6,446,0,0.0,0,0.2373853521421551,0,7,1,0,0,0.0,0.8028006032109261,0.6620058864355087
+19038,8390,Rafa Soares,Eibar,D S,19,1132,0,0.0824162755161523,1,1.5675396146252751,2,16,2,0,0,0.0824162755161523,2.2318292409181595,1.4928375892341137

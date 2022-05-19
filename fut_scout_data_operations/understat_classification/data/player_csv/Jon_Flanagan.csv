@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11245,490,Jon Flanagan,Burnley,D S,6,360,0,0.0,0,0.0560050308704376,0,1,2,0,0,0.0,0.4323274865746498,0.3763224706053734
+11246,490,Jon Flanagan,Liverpool,D,5,422,0,0.0,1,0.1449427343904972,0,2,1,0,0,0.0,1.5134310834109783,1.368488342501223

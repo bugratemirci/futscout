@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3701,4476,Callum Robinson,West Bromwich Albion,F M S,28,1580,5,3.2030633985996246,0,1.0499632060527802,31,16,0,0,5,3.2030633985996246,5.2165407538414,1.5963355377316475
+3702,4476,Callum Robinson,Sheffield United,F S,16,674,1,1.561250001192093,1,0.6526464708149433,12,4,1,0,1,1.561250001192093,2.835600728169084,0.7018386432901025

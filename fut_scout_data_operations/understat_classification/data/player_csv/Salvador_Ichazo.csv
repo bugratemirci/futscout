@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20479,1608,Salvador Ichazo,Torino,GK S,3,251,0,0.0,0,0.0,0,0,0,0,0,0.0,0.103883683681488,0.103883683681488
+20480,1608,Salvador Ichazo,Torino,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3693193644285202,0.3693193644285202
+20481,1608,Salvador Ichazo,Torino,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0880930051207542,0.0880930051207542

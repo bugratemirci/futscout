@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4033,7758,Cheikh Niasse,Lille,S,1,13,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0662826672196388,0.0662826672196388
+4034,7758,Cheikh Niasse,Lille,S,2,21,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0872118026018142,0.0872118026018142

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16602,3193,Mitchell Donald,Mordovya,M S,2,94,1,1.1329234838485718,0,0.0,3,0,1,0,0,0.3786481618881225,0.3979849815368652,0.0193368196487426
+16603,3193,Mitchell Donald,Mordovya,M S,12,876,2,1.781409576535225,0,0.1751294573768973,10,6,1,0,2,1.781409576535225,2.665857844054699,1.2678309436887505

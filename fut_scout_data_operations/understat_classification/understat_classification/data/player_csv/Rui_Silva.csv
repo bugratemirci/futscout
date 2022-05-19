@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20226,5109,Rui Silva,Granada,GK,32,2880,0,0.0,0,0.0366312898695468,0,1,1,0,0,0.0,2.4324071779847145,2.395775888115168
+20227,5109,Rui Silva,Real Betis,GK,10,900,0,0.0,0,0.0,0,0,1,0,0,0.0,2.183177787810564,2.183177787810564
+20228,5109,Rui Silva,Granada,GK,35,3150,0,0.0,0,0.043129900470376,0,2,3,0,0,0.0,1.210678277537227,1.1675483714789152

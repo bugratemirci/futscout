@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12786,8351,Ki-Jana Hoever,Wolverhampton Wanderers,D S,12,568,0,0.0574560351669788,0,0.1842529661953449,1,3,1,0,0,0.0574560351669788,1.2225440330803394,1.020937990397215
+12787,8351,Ki-Jana Hoever,Wolverhampton Wanderers,D S,5,100,0,0.0338298976421356,0,0.0863142684102058,1,1,1,0,0,0.0338298976421356,0.1974177360534668,0.1111034676432609

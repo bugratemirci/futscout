@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1255,2831,Alexander Selikhov,Spartak Moscow,GK,21,1890,0,0.0,0,0.0,0,0,1,0,0,0.0,1.2996911136433482,1.2996911136433482
+1256,2831,Alexander Selikhov,Spartak Moscow,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1257,2831,Alexander Selikhov,Spartak Moscow,GK,5,450,0,0.0,0,0.0,0,0,1,0,0,0.0,0.361794589087367,0.361794589087367
+1258,2831,Alexander Selikhov,Spartak Moscow,GK,5,428,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6951048374176025,0.6951048374176025
+1259,2831,Alexander Selikhov,"Amkar,Spartak Moscow",GK,18,1620,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3783905105665326,0.3783905105665326
+1260,2831,Alexander Selikhov,Amkar,GK,23,2070,0,0.0,0,0.0302167125046253,0,1,3,0,0,0.0,0.1328607955947518,0.1026440830901265

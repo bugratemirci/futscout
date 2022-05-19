@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19298,2351,Raúl Lizoain,Las Palmas,GK S,8,708,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6553953532129526,0.6553953532129526
+19299,2351,Raúl Lizoain,Las Palmas,GK,11,990,0,0.0,0,0.0,0,0,0,0,0,0.0,1.033266048878431,1.033266048878431
+19300,2351,Raúl Lizoain,Las Palmas,GK,13,1170,0,0.0,0,0.0,0,0,2,0,0,0.0,0.5652768919244409,0.5652768919244409

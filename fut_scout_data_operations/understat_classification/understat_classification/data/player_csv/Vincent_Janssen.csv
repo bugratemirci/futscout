@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23103,1730,Vincent Janssen,Tottenham,F S,27,815,2,4.417055474594235,2,1.254039004445076,30,16,0,0,1,3.655886637046933,3.7925252318382254,0.896029019728303
+23104,1730,Vincent Janssen,Tottenham,S,3,34,0,0.3054769039154053,0,0.0,3,0,0,0,0,0.3054769039154053,0.3054769039154053,0.0
+23105,1730,Vincent Janssen,Tottenham,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

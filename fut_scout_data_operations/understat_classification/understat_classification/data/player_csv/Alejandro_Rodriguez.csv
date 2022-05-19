@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+710,1812,Alejandro Rodriguez,Cesena,F S,25,801,5,5.1266147792339325,0,0.4983766339719295,27,5,3,0,4,4.365315914154053,5.382503006607294,1.2836432103067636
+711,1812,Alejandro Rodriguez,Sampdoria,S,6,33,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+712,1812,Alejandro Rodriguez,Empoli,S,1,24,0,0.1280835419893264,0,0.0,1,0,0,0,0,0.1280835419893264,0.1467160880565643,0.0186325442045927

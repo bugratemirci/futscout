@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3234,1054,Bersant Celina,Manchester City,S,1,11,0,0.0,1,0.2556420266628265,0,2,0,0,0,0.0,0.0817310288548469,0.0817310288548469
+3235,1054,Bersant Celina,Dijon,F M S,32,2299,0,1.3062897836789489,5,3.8157347720116377,24,48,5,1,0,1.3062897836789489,6.135688805952668,2.818746562115848

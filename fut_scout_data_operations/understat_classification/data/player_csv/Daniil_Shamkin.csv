@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4981,8346,Daniil Shamkin,Zenit St. Petersburg,S,3,33,0,0.2050491124391555,1,0.3399802446365356,2,1,0,0,0,0.2050491124391555,0.5537515878677368,0.023046949878335
+4982,8346,Daniil Shamkin,Zenit St. Petersburg,M S,4,94,0,0.0466919504106044,0,0.0525527186691761,1,1,1,0,0,0.0466919504106044,0.1173183172941207,0.0647655948996543

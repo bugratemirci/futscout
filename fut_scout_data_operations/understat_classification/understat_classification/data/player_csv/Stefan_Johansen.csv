@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21683,6838,Stefan Johansen,Fulham,M S,12,406,0,0.0396057553589344,0,0.0521381720900535,1,1,4,0,0,0.0396057553589344,0.7726089730858803,0.7204708009958267

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8037,7048,Frederik Rönnow,Schalke 04,GK S,11,943,0,0.0,0,0.0,0,0,0,0,0,0.0,0.201495693065226,0.201495693065226
+8038,7048,Frederik Rönnow,Eintracht Frankfurt,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0305266752839088,1.0305266752839088
+8039,7048,Frederik Rönnow,Eintracht Frankfurt,GK S,2,120,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15221,1696,Markus Henriksen,Hull,M S,15,623,0,0.1254808064550161,0,0.1958780270069837,3,3,1,0,0,0.1254808064550161,0.5049772132188082,0.2456665318459272

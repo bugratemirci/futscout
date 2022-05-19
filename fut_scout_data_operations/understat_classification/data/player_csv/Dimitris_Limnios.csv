@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5869,8876,Dimitris Limnios,FC Cologne,M S,12,364,0,0.3280465230345726,0,0.6474879533052444,6,5,0,0,0,0.3280465230345726,0.950709693133831,0.246720072813332

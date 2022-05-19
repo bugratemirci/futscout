@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15697,4441,Matthew James,Leicester,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15698,4441,Matthew James,Leicester,M S,27,1884,0,1.7331528449431062,1,2.1965580601245165,27,37,2,1,0,1.7331528449431062,5.696064792573452,3.534255433827638
+15699,4441,Matthew James,Leicester,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15700,4441,Matthew James,Leicester,M S,13,997,0,0.8669818062335253,0,0.1140854395925998,11,2,2,0,0,0.8669818062335253,1.3232965543866158,0.9102419521659612

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3455,662,Brad Guzan,Aston Villa,GK,28,2520,0,0.0,0,0.0446328558027744,0,1,2,0,0,0.0,1.3892125207930803,1.344579664990306
+3456,662,Brad Guzan,Middlesbrough,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5046864720061421,0.5046864720061421
+3457,662,Brad Guzan,Aston Villa,GK,34,3060,0,0.0,0,0.0,0,0,2,0,0,0.0,1.110716718249023,1.110716718249023

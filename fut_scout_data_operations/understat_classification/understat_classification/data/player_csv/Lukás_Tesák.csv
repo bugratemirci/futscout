@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14223,4597,Lukás Tesák,Arsenal Tula,D,12,1047,0,0.2085208445787429,1,1.762608602643013,9,22,1,0,0,0.2085208445787429,2.635121200233698,1.4256464634090662
+14224,4597,Lukás Tesák,"Arsenal Tula,Torpedo Moscow",D M S,29,2531,0,2.19440530333668,3,2.6375778345391154,24,35,1,0,0,1.4401299813762307,5.415308894589543,2.766969399526716

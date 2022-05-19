@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+882,5422,Aleksandr Rudenko,FC Orenburg,GK,7,630,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0491776447743177,0.0491776447743177
+883,7620,Aleksandr Rudenko,PFC Sochi,F M S,20,676,2,2.126232039183378,1,0.6479068519547582,19,5,1,0,2,2.126232039183378,3.409143578261137,1.2683731634169817
+884,5422,Aleksandr Rudenko,FC Orenburg,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2186744511127472,0.2186744511127472

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15614,4339,Mats Møller Dæhli,Freiburg,S,2,20,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1289272606372833,0.1289272606372833
+15615,4339,Mats Møller Dæhli,Freiburg,F,2,180,0,0.0482416749000549,0,0.5003160685300827,1,3,0,0,0,0.0482416749000549,0.6933263055980206,0.5767787043005228

@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21466,1158,Simone Scuffet,Udinese,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21467,1158,Simone Scuffet,Udinese,GK S,2,152,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0123809799551963,0.0123809799551963
+21468,1158,Simone Scuffet,Udinese,GK S,6,459,0,0.0,0,0.0258521754294633,0,1,0,0,0,0.0,0.4195493143051862,0.3936971388757229
+21469,1158,Simone Scuffet,Udinese,GK,6,540,0,0.0,0,0.011935694143176,0,1,0,0,0,0.0,0.2109504342079162,0.2109504342079162
+21470,1158,Simone Scuffet,Udinese,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2649591490626335,0.2649591490626335

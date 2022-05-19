@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2372,6075,Antonio Sivera,Alaves,GK,3,270,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+2373,6075,Antonio Sivera,Alaves,GK,1,63,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2374,6075,Antonio Sivera,Alaves,GK,1,72,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2375,6075,Antonio Sivera,Alaves,GK,3,270,0,0.0,0,0.073450431227684,0,1,0,0,0,0.0,0.1125389970839023,0.0390885658562183
+2376,6075,Antonio Sivera,Alaves,GK S,3,186,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5197935700416565,0.5197935700416565

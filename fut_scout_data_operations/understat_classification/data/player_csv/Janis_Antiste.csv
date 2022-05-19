@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10448,8311,Janis Antiste,Toulouse,S,1,10,0,0.0459399819374084,0,0.0,1,0,0,0,0,0.0459399819374084,0.0459399819374084,0.0
+10449,8311,Janis Antiste,Spezia,F M S,10,602,1,1.2202031426131723,0,0.2469819914549589,11,4,0,0,1,1.2202031426131723,1.4529484957456589,0.3233342058956623

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21367,3829,Silvestre Varela,Parma,D F M,19,1619,3,1.036973498761654,1,0.958586797118187,26,25,3,0,3,1.036973498761654,3.736684547737241,2.263061845675111
+21368,3829,Silvestre Varela,West Bromwich Albion,M S,7,330,1,0.981028588488698,0,0.3591510588303208,10,6,1,0,1,0.981028588488698,2.2558431830257177,0.9910140000283718

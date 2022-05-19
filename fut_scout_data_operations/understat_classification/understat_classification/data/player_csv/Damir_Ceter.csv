@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4699,6551,Damir Ceter,Cagliari,S,1,4,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+4700,6551,Damir Ceter,Cagliari,F S,6,184,0,0.0596645437180995,0,0.2566108927130699,1,4,0,0,0,0.0596645437180995,0.3162754364311695,0.0

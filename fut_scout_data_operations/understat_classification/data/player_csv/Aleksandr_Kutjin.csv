@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+849,4577,Aleksandr Kutjin,Arsenal Tula,F S,16,989,2,2.7914201840758324,2,2.2241375260055065,25,20,2,0,2,2.037144862115383,4.918100528419018,1.2925621401518583
+850,4577,Aleksandr Kutjin,FC Yenisey Krasnoyarsk,F M S,18,951,3,3.008126735687256,2,1.6552920434623957,20,11,2,0,2,2.253852903842926,4.398240076377988,0.961452616378665

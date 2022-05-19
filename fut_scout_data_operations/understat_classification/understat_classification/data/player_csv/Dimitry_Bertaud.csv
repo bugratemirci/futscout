@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5872,3591,Dimitry Bertaud,Montpellier,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0444554686546325,0.0444554686546325
+5873,3591,Dimitry Bertaud,Montpellier,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2672977373003959,0.2672977373003959
+5874,3591,Dimitry Bertaud,Montpellier,GK S,9,742,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4998578540980816,0.4998578540980816
+5875,3591,Dimitry Bertaud,Montpellier,GK,3,196,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0318438820540905,0.0318438820540905

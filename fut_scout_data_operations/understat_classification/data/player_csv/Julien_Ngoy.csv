@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12160,1777,Julien Ngoy,Stoke,S,1,16,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12161,1777,Julien Ngoy,Stoke,S,5,39,0,0.1273771822452545,0,0.0921394750475883,2,1,0,0,0,0.1273771822452545,0.2195166572928428,0.0

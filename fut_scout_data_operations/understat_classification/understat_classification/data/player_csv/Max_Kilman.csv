@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15927,7332,Max Kilman,Wolverhampton Wanderers,D,16,1440,1,1.078040711581707,0,0.1449058810248971,9,3,3,0,1,1.078040711581707,3.39474581182003,3.224408745765686
+15928,7332,Max Kilman,Wolverhampton Wanderers,D S,3,183,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0350345708429813,0.0350345708429813
+15929,7332,Max Kilman,Wolverhampton Wanderers,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15930,7332,Max Kilman,Wolverhampton Wanderers,D S,18,1291,0,0.3080163653939962,1,0.3130578696727752,6,5,4,0,0,0.3080163653939962,2.029524303972721,1.8352278247475624

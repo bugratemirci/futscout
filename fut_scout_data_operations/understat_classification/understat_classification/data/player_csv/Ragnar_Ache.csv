@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19117,8869,Ragnar Ache,Eintracht Frankfurt,S,8,77,0,0.2781138513237238,1,0.5343145728111267,5,3,0,0,0,0.2781138513237238,0.4061175007373094,0.068707600235939
+19118,8869,Ragnar Ache,Eintracht Frankfurt,S,7,76,1,0.1751464307308197,0,0.0,2,0,1,0,1,0.1751464307308197,0.2810036391019821,0.1058572009205818

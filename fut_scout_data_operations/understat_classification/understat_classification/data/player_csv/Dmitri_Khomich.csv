@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5961,3143,Dmitri Khomich,Amkar,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+5962,3143,Dmitri Khomich,Amkar,GK,13,1170,0,0.0,0,0.0,0,0,2,0,0,0.0,0.0547201242297887,0.0547201242297887
+5963,3143,Dmitri Khomich,Amkar,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0762870535254478,0.0762870535254478

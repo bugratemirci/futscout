@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9929,3093,Ivan Cherenchikov,Amkar,D S,12,1005,0,0.0,0,0.0649901051074266,0,2,6,0,0,0.0,2.318322725594044,2.253332607448101
+9930,3093,Ivan Cherenchikov,Amkar,D S,26,2003,0,0.0843125404790043,0,0.1386843919754028,3,3,8,1,0,0.0843125404790043,2.733725033700466,2.581158701330424
+9931,3093,Ivan Cherenchikov,Amkar,D,1,73,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

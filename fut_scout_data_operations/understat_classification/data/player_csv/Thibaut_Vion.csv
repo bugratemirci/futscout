@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22238,4859,Thibaut Vion,Metz,F M S,13,529,2,1.3874160461127758,1,0.5904583632946014,12,2,2,0,2,1.3874160461127758,1.1203833557665348,0.2404197342693805
+22239,4859,Thibaut Vion,Metz,F S,5,112,0,0.0402112416923046,0,0.0,2,0,1,0,0,0.0402112416923046,0.0402112416923046,0.0

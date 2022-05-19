@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19596,66,Robbie Kruse,"Bayer Leverkusen,VfB Stuttgart",F M S,12,435,0,0.4623594842851162,0,0.2528819665312767,7,6,2,0,0,0.4623594842851162,1.5859282463788986,0.9018853828310966
+19597,66,Robbie Kruse,Bayer Leverkusen,S,4,44,0,0.0920039415359497,1,0.0721279084682464,1,1,0,0,0,0.0920039415359497,0.4571478962898254,0.2930160462856293

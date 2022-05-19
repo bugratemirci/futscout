@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18190,3685,Pantxi Sirieix,Toulouse,D M S,14,585,1,0.4476665947586298,0,0.0535081811249256,4,1,2,0,1,0.4476665947586298,0.9597756061702968,0.4892812948673963
+18191,3685,Pantxi Sirieix,Toulouse,S,5,65,0,0.0,2,0.5965149253606796,0,3,1,0,0,0.0,0.6359756365418434,0.0394607111811637
+18192,3685,Pantxi Sirieix,Toulouse,S,4,38,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

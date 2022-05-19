@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4200,1220,Christian Puggioni,"Benevento,Sampdoria",GK,23,1986,0,0.0,0,0.0,0,0,0,1,0,0.0,2.059605884365737,2.059605884365737
+4201,1220,Christian Puggioni,Sampdoria,GK,21,1890,0,0.0,0,0.1431670486927032,0,2,3,0,0,0.0,2.16406960086897,2.020902552176267

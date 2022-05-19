@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19784,6962,Robin Olsen,Cagliari,GK,17,1530,0,0.0,0,0.0,0,0,0,1,0,0.0,0.3852008851245045,0.3852008851245045
+19785,6962,Robin Olsen,Roma,GK,27,2430,0,0.0,0,0.0573745109140872,0,1,2,0,0,0.0,5.992856588214636,5.935482081025839
+19786,6962,Robin Olsen,Everton,GK,7,630,0,0.0,0,0.0,0,0,1,0,0,0.0,0.8195910453796387,0.8195910453796387

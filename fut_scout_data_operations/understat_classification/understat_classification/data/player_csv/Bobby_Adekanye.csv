@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3311,7942,Bobby Adekanye,Cadiz,S,3,25,0,0.353874921798706,0,0.0,1,0,0,0,0,0.353874921798706,0.3725797422230243,0.0187048204243183
+3312,7942,Bobby Adekanye,Lazio,S,11,159,1,1.5980397462844849,0,0.2020156607031822,5,3,1,0,1,1.5980397462844849,2.15525983273983,0.9431149065494536

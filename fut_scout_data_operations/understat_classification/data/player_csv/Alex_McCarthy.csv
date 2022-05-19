@@ -1,0 +1,8 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1141,635,Alex McCarthy,Southampton,GK,28,2520,0,0.0,0,0.0236935354769229,0,1,0,0,0,0.0,3.154215794056654,3.130522258579731
+1142,635,Alex McCarthy,Queens Park Rangers,GK S,3,237,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5550839975476265,0.5550839975476265
+1143,635,Alex McCarthy,Southampton,GK,15,1350,0,0.0,0,0.0234091021120548,0,1,1,0,0,0.0,2.008901508525014,1.985492406412959
+1144,635,Alex McCarthy,Southampton,GK,18,1620,0,0.0,0,0.0,0,0,2,0,0,0.0,1.055135564878583,1.055135564878583
+1145,635,Alex McCarthy,Southampton,GK,25,2250,0,0.0,0,0.0,0,0,1,0,0,0.0,1.7642888268455863,1.7642888268455863
+1146,635,Alex McCarthy,Crystal Palace,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1147,635,Alex McCarthy,Southampton,GK,30,2700,0,0.0,0,0.0,0,0,2,0,0,0.0,2.76343253813684,2.76343253813684

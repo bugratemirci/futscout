@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15738,3433,Matthieu Dreyer,Caen,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.516147255897522,0.516147255897522
+15739,3433,Matthieu Dreyer,Lorient,GK,15,1350,0,0.0,0,0.0,0,0,1,0,0,0.0,1.3585861325263977,1.3585861325263977
+15740,3433,Matthieu Dreyer,Troyes,GK,15,1350,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0641835629940033,1.0641835629940033

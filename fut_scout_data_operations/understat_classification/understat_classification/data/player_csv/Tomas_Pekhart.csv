@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22623,253,Tomas Pekhart,Ingolstadt,F S,4,82,0,0.1904548797756433,0,0.0531136579811573,4,1,1,0,0,0.1904548797756433,0.2634683772921562,0.0198998413980007

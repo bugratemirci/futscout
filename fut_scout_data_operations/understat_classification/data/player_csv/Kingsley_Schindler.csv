@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12865,7788,Kingsley Schindler,FC Cologne,F M S,13,853,0,0.871051493100822,2,1.3895667986944318,13,10,0,0,0,0.871051493100822,3.5383387338370085,1.981187772937119
+12866,7788,Kingsley Schindler,FC Cologne,D S,5,136,0,0.0,0,0.0,0,0,1,0,0,0.0,0.6941717118024826,0.6941717118024826

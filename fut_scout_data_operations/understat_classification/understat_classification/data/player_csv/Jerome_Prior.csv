@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10892,3631,Jerome Prior,Bordeaux,GK S,13,1074,0,0.0,0,0.0,0,0,0,0,0,0.0,1.121784806251526,1.121784806251526
+10893,3631,Jerome Prior,Bordeaux,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10894,3631,Jerome Prior,Bordeaux,GK,14,1260,0,0.0,0,0.0332834459841251,0,1,0,0,0,0.0,0.7555638272315264,0.7222803775221109

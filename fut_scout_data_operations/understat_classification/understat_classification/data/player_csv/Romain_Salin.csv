@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19971,5766,Romain Salin,Guingamp,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0209855232387781,0.0209855232387781
+19972,5766,Romain Salin,Rennes,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1097414270043373,0.1097414270043373
+19973,5766,Romain Salin,Rennes,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3906421139836311,0.3906421139836311
+19974,5766,Romain Salin,Rennes,GK,15,1350,0,0.0,0,0.0,0,0,1,0,0,0.0,1.297975242137909,1.297975242137909

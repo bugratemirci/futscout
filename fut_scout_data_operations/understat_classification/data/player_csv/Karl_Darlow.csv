@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12407,780,Karl Darlow,Newcastle United,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2745024501346051,0.2745024501346051
+12408,780,Karl Darlow,Newcastle United,GK,8,720,0,0.0,0,0.0,0,0,1,0,0,0.0,0.558485004119575,0.558485004119575
+12409,780,Karl Darlow,Newcastle United,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1505295597016811,0.1505295597016811
+12410,780,Karl Darlow,Newcastle United,GK,25,2250,0,0.0,0,0.0,0,0,2,0,0,0.0,0.9974323827773331,0.9974323827773331

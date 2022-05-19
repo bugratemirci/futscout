@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20520,5602,Sam Surridge,Bournemouth,S,4,20,0,0.8971610069274902,0,0.0657119080424308,2,1,0,0,0,0.8971610069274902,0.4857648536562919,0.0
+20521,5602,Sam Surridge,Bournemouth,S,2,9,0,0.3793920278549194,0,0.0378567725419998,2,1,0,0,0,0.3793920278549194,0.4172488152980804,0.0

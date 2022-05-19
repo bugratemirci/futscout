@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11172,31,Johannes van den Bergh,Hertha Berlin,D S,6,379,0,0.0260682962834835,0,0.0,2,0,2,0,0,0.0260682962834835,0.0137625532224774,0.0
+11173,31,Johannes van den Bergh,Hertha Berlin,M S,13,222,0,0.0657864362001419,1,0.6965249180793762,1,3,1,0,0,0.0657864362001419,2.245864070951938,2.0934963822364807

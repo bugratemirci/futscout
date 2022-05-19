@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11753,2129,Josip Radosevic,Napoli,S,1,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11754,2129,Josip Radosevic,Eibar,M S,8,406,0,0.0126374932006001,0,0.0982185527682304,1,1,1,1,0,0.0126374932006001,0.3248090567067265,0.3121715635061264

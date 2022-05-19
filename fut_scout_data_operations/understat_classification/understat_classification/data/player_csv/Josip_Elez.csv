@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11741,6505,Josip Elez,Hannover 96,D S,10,644,0,0.0435973023995757,0,0.0918411668390035,3,2,1,0,0,0.0435973023995757,1.2931426521390676,1.17228452116251
+11742,6505,Josip Elez,Hannover 96,D S,11,781,0,0.0,0,0.0,0,0,1,0,0,0.0,1.6158677954226732,1.6158677954226732

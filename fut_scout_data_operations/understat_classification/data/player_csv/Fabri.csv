@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7189,2587,Fabri,Mallorca,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+7190,2587,Fabri,Fulham,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.543460488319397,0.543460488319397
+7191,2587,Fabri,Deportivo La Coruna,GK,31,2790,0,0.0,0,0.0172486715018749,0,1,2,0,0,0.0,1.3468565233051777,1.3296078499406576

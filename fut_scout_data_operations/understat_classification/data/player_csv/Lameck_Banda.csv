@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13168,7628,Lameck Banda,Arsenal Tula,S,2,29,0,0.0,0,0.0,0,0,0,0,0,0.0,0.089791789650917,0.089791789650917
+13169,7628,Lameck Banda,Arsenal Tula,F S,9,126,0,0.2824554797261953,1,0.2593626827001571,4,3,2,0,0,0.2824554797261953,0.8137978762388229,0.3095211992040276

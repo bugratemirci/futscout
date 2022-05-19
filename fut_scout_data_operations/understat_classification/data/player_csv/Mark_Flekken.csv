@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15131,7047,Mark Flekken,Freiburg,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2099952399730682,0.2099952399730682
+15132,7047,Mark Flekken,Freiburg,GK,15,1350,0,0.0,0,0.0176056697964668,0,1,0,0,0,0.0,1.7557092839851975,1.7557092839851975
+15133,7047,Mark Flekken,Freiburg,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0678926333785057,0.0678926333785057
+15134,7047,Mark Flekken,Freiburg,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.9332454763352872,0.9332454763352872

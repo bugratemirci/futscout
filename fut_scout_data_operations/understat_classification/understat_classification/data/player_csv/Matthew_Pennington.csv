@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15712,920,Matthew Pennington,Everton,D,4,298,0,0.0790696665644645,0,0.0,2,0,1,0,0,0.0790696665644645,0.1603309251368045,0.1467036195099353
+15713,920,Matthew Pennington,Everton,D S,3,180,1,0.6383316516876221,0,0.1736417561769485,1,1,0,0,1,0.6383316516876221,0.2130596786737442,0.0394179224967956

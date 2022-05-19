@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18918,7718,Predrag Rajkovic,Reims,GK,37,3286,0,0.0,0,0.0176211316138505,0,1,2,0,0,0.0,4.732016733847559,4.714395602233708
+18919,7718,Predrag Rajkovic,Reims,GK,27,2430,0,0.0,0,0.0104491058737039,0,1,1,0,0,0.0,1.6264606770128012,1.6160115711390972
+18920,7718,Predrag Rajkovic,Reims,GK,18,1620,0,0.0,0,0.0105342054739594,0,1,0,0,0,0.0,0.3880935488268733,0.3775593433529138

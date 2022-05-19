@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12422,7390,Karlan Grant,Huddersfield,F M S,13,868,4,3.27635857090354,0,0.2673431690782308,21,8,0,0,4,3.27635857090354,3.6710612140595913,0.2814026940613985
+12423,7390,Karlan Grant,West Bromwich Albion,F M S,21,1140,1,1.6942405216395855,0,0.149186473339796,16,2,1,0,1,1.6942405216395855,1.810006550513208,0.5052706673741341

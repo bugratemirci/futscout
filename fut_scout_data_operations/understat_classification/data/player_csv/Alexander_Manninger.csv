@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1229,277,Alexander Manninger,Augsburg,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6321330778300762,0.6321330778300762
+1230,277,Alexander Manninger,Augsburg,GK S,2,93,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6927787661552429,0.6927787661552429

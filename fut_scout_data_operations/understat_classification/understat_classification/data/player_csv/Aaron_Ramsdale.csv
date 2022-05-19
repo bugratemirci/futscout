@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+32,5603,Aaron Ramsdale,Arsenal,GK,13,1170,0,0.0,0,0.0,0,0,0,0,0,0.0,1.3431678842753172,1.3431678842753172
+33,5603,Aaron Ramsdale,Bournemouth,GK,37,3330,0,0.0,1,0.5314233936369419,0,2,0,0,0,0.0,2.167375199496746,1.635951802134514
+34,5603,Aaron Ramsdale,Sheffield United,GK,38,3420,0,0.0,0,0.0776716265827417,0,2,1,0,0,0.0,2.899687459692359,2.822015842422843

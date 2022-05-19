@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4224,274,Christoph Janker,Augsburg,D M S,12,362,0,0.0739785209298133,0,0.0,1,0,2,0,0,0.0739785209298133,0.4858578220009804,0.4858578220009804
+4225,274,Christoph Janker,Augsburg,S,5,68,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+4226,274,Christoph Janker,Augsburg,D S,2,65,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0,0.0
+4227,274,Christoph Janker,Augsburg,M S,4,69,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1408296823501587,0.1408296823501587
+4228,274,Christoph Janker,Augsburg,D S,15,1087,0,0.0461299233138561,0,0.0870044603943824,1,1,4,0,0,0.0461299233138561,0.9879137687385082,0.9879137687385082

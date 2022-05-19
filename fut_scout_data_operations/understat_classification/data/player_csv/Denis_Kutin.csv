@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5561,2825,Denis Kutin,Spartak Moscow,S,1,24,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+5562,2825,Denis Kutin,Spartak Moscow,D,1,90,0,0.0129401264712214,0,0.0110344216227531,1,1,0,0,0,0.0129401264712214,0.0110344216227531,0.0
+5563,2825,Denis Kutin,Tosno,D,4,325,0,0.0,0,0.0235454477369785,0,2,1,0,0,0.0,0.3978474615141749,0.3875974034890532
+5564,2825,Denis Kutin,Spartak Moscow,S,2,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

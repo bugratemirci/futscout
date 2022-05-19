@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20877,7797,Sebastian Vasiliadis,Arminia Bielefeld,M S,4,218,0,0.1739925630390644,0,0.0,6,0,1,0,0,0.1739925630390644,0.9537411369383336,0.8254917897284031
+20878,7797,Sebastian Vasiliadis,Paderborn,M,32,2812,1,1.2893570633605125,1,2.3311391258612275,37,27,10,0,1,1.2893570633605125,5.872351852245629,3.7955147847533226

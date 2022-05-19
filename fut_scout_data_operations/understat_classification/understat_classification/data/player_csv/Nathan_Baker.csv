@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17102,1041,Nathan Baker,Aston Villa,D S,11,761,0,0.3110744934529066,0,0.2268700897693634,6,4,0,0,0,0.3110744934529066,0.8839892819523811,0.7373377345502377

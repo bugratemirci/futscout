@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12208,6678,Justin Hoogma,Greuther Fuerth,D,3,270,0,0.0573944225907325,0,0.0200491175055503,1,1,1,0,0,0.0573944225907325,0.5227088741958141,0.5026597492396832
+12209,6678,Justin Hoogma,Hoffenheim,D S,2,103,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3826409727334976,0.3826409727334976

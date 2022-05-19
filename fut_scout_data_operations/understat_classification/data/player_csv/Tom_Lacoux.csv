@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22600,9212,Tom Lacoux,Bordeaux,M S,13,520,0,0.0763779245316982,0,0.0,3,0,2,1,0,0.0763779245316982,0.9668018631637096,0.956846922636032
+22601,9212,Tom Lacoux,Bordeaux,M,3,249,0,0.0,0,0.0464337132871151,0,1,1,0,0,0.0,0.8526791296899319,0.8062454164028168

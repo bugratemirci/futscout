@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12162,3658,Julien Romain,SC Bastia,S,1,28,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12163,3658,Julien Romain,SC Bastia,F S,5,158,2,0.359531432390213,0,0.0385973621159791,2,2,0,0,2,0.359531432390213,0.4181979820132255,0.0438046399503946

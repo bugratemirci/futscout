@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+822,5435,Aleksandr Gutor,FC Orenburg,GK,12,1080,0,0.0,0,0.0210514683276414,0,1,2,0,0,0.0,0.3239244623109698,0.3028729939833283

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+854,3081,Aleksandr Maksimenko,Spartak Moscow,GK S,23,2002,0,0.0,0,0.0,0,0,0,0,0,0.0,1.9228789769113064,1.9228789769113064
+855,3081,Aleksandr Maksimenko,Spartak Moscow,GK,29,2610,0,0.0,0,0.2785594761371612,0,1,4,0,0,0.0,2.3980521708726883,2.119492694735527
+856,3081,Aleksandr Maksimenko,Spartak Moscow,GK,29,2610,0,0.0,0,0.0,0,0,1,0,0,0.0,1.4826207216829062,1.4826207216829062
+857,3081,Aleksandr Maksimenko,Spartak Moscow,GK,12,1080,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0201462786644695,1.0201462786644695

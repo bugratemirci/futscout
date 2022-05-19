@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4091,8430,Chris Richards,Bayern Munich,S,1,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+4092,8430,Chris Richards,"Bayern Munich,Hoffenheim",D S,13,755,1,0.5307857915759087,1,0.3276004195213318,3,1,0,0,1,0.5307857915759087,2.8625678792595863,2.8625678792595863
+4093,8430,Chris Richards,"Bayern Munich,Hoffenheim",D S,14,1036,0,0.2179320901632309,2,0.8344938335940242,1,7,1,0,0,0.2179320901632309,2.234513469040394,1.758046679198742

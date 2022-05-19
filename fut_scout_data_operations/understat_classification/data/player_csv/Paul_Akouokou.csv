@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18354,7355,Paul Akouokou,Real Betis,M S,10,374,0,0.0,0,0.5795641448348761,0,2,3,1,0,0.0,1.2481800261884928,0.6686158664524555
+18355,7355,Paul Akouokou,Real Betis,M S,3,182,0,0.0552506875246763,0,0.0384013764560222,2,1,1,0,0,0.0552506875246763,0.3124230802059173,0.2554755359888077

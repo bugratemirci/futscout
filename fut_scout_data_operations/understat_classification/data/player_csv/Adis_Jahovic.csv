@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+311,3003,Adis Jahovic,Krylya Sovetov Samara,F S,16,1103,3,3.449337778612972,1,1.5419925525784492,33,15,3,0,3,3.449337778612972,4.510423323139548,0.4838691297918558
+312,3003,Adis Jahovic,Krylya Sovetov Samara,F S,5,357,0,1.1788248866796494,0,0.1074757557362318,13,4,0,0,0,1.1788248866796494,1.4341077357530594,0.2234294898808002

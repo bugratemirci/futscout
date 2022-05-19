@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18772,7869,Philipp Pentke,Hoffenheim,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1583592444658279,0.1583592444658279
+18773,7869,Philipp Pentke,Hoffenheim,GK,4,360,0,0.0,0,0.0247135683894157,0,1,1,0,0,0.0,0.5995583571493626,0.5748447813093662
+18774,7869,Philipp Pentke,Hoffenheim,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.7444085031747818,0.7444085031747818

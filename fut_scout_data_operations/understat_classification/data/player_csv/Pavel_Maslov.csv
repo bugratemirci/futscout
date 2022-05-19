@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18500,7192,Pavel Maslov,Spartak Moscow,D M,9,794,0,0.0,1,0.0162211321294307,0,1,3,0,0,0.0,0.6757960431277752,0.6595749072730541
+18501,7192,Pavel Maslov,Spartak Moscow,D S,25,2112,0,0.0918905436992645,0,0.3994208015501499,2,8,6,1,0,0.0918905436992645,3.564473669975996,3.2196120880544186

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5075,247,Danilo Soares,Bochum,D,15,1350,0,0.1820368114858865,0,1.3468487113714218,6,9,2,0,0,0.1820368114858865,4.080712439492345,3.301414087414741
+5076,247,Danilo Soares,Ingolstadt,D,1,90,0,0.0147632556036114,0,0.0,1,0,0,0,0,0.0147632556036114,0.0461470447480678,0.0313837900757789

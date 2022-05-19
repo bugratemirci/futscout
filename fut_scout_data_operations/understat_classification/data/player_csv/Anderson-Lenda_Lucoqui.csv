@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1646,8788,Anderson-Lenda Lucoqui,Arminia Bielefeld,D S,21,1605,0,0.143899199552834,0,0.1937740836292505,8,6,5,0,0,0.143899199552834,1.5764587623998525,1.4279036037623882
+1647,8788,Anderson-Lenda Lucoqui,Mainz 05,D M S,7,501,1,0.4102606009691953,0,0.1783903185278177,7,4,1,0,1,0.4102606009691953,0.9362119846045972,0.371540361084044

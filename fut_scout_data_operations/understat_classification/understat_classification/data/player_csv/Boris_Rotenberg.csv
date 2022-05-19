@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3350,2767,Boris Rotenberg,FC Rostov,D S,15,775,0,0.0,0,0.0112095512449741,0,1,6,0,0,0.0,0.4517589723691344,0.4405494248494506
+3351,2767,Boris Rotenberg,Lokomotiv Moscow,S,2,15,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+3352,2767,Boris Rotenberg,Dinamo Moscow,D S,10,599,0,0.029786143451929,0,0.0331670204177498,1,2,4,0,0,0.029786143451929,0.614467091858387,0.5655192695558071
+3353,2767,Boris Rotenberg,Lokomotiv Moscow,S,1,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+3354,2767,Boris Rotenberg,Lokomotiv Moscow,M S,7,86,0,0.0133537398651242,0,0.0341944247484207,1,1,1,0,0,0.0133537398651242,0.1667361930012703,0.1533824540674686

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7627,8966,Filip Krovinovic,West Bromwich Albion,M S,11,537,0,0.2156818900257349,0,0.1718748062849044,8,5,0,0,0,0.2156818900257349,0.6958095971494913,0.4774555675685406

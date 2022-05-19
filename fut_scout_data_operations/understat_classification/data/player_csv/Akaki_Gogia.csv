@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+516,7995,Akaki Gogia,Union Berlin,F S,3,116,0,0.0184137299656867,0,0.3086832407861948,1,4,0,0,0,0.0184137299656867,0.3086832407861948,0.0
+517,7995,Akaki Gogia,Union Berlin,S,7,129,0,0.1467216592282056,1,0.6470531225204468,2,2,1,0,0,0.1467216592282056,1.018820494413376,0.2250457480549812

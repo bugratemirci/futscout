@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+466,3979,Ahmed Hegazy,West Bromwich Albion,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.184028148651123,0.184028148651123
+467,3979,Ahmed Hegazy,West Bromwich Albion,D,38,3389,2,2.3179473346099257,0,0.4174179751425981,14,6,4,0,2,2.3179473346099257,3.629150548018515,3.4427996277809143

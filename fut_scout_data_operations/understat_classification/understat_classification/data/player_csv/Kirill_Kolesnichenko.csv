@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12878,6605,Kirill Kolesnichenko,Ural,D M S,14,978,0,0.8352889372035861,0,0.3813531771302223,10,8,2,0,0,0.8352889372035861,1.5866408618167045,0.5000555729493499
+12879,6605,Kirill Kolesnichenko,SKA-Khabarovsk,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12880,6605,Kirill Kolesnichenko,FC Rotor Volgograd,M S,2,77,0,0.1095956284552812,0,0.0289062689989805,2,1,1,0,0,0.1095956284552812,0.1637853980064392,0.0541897732764482

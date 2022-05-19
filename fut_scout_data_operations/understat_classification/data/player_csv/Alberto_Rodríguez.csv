@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+641,5124,Alberto Rodríguez,Alaves,D S,12,851,0,0.138815201818943,0,0.1439542435109615,3,2,2,1,0,0.138815201818943,0.13735406473279,0.13735406473279
+642,5124,Alberto Rodríguez,Alaves,D S,6,233,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5080976486206055,0.5080976486206055
+643,5124,Alberto Rodríguez,Alaves,D S,2,96,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

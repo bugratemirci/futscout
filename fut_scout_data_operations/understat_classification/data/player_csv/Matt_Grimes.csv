@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15620,1045,Matt Grimes,Swansea,S,3,38,0,0.0,0,0.1382657438516616,0,1,0,0,0,0.0,0.1905175894498825,0.1905175894498825
+15621,1045,Matt Grimes,Swansea,M,1,90,0,0.0164777506142854,0,0.0222875848412513,1,1,0,0,0,0.0164777506142854,0.0222875848412513,0.0

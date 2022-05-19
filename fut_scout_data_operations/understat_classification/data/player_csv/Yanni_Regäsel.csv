@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23849,20,Yanni Regäsel,"Eintracht Frankfurt,Hertha Berlin",D S,16,1274,0,0.0954566048458218,0,0.8747986070811749,4,7,1,0,0,0.0954566048458218,3.656823948025704,2.855127287097276

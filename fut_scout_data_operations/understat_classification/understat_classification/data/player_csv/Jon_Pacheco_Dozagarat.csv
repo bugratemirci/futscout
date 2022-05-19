@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11257,8423,Jon Pacheco Dozagarat,Real Sociedad,S,3,34,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+11258,8423,Jon Pacheco Dozagarat,Real Sociedad,S,1,31,0,0.0650459751486778,0,0.0,1,0,0,0,0,0.0650459751486778,0.0,0.0
+11259,8423,Jon Pacheco Dozagarat,Real Sociedad,D,1,82,0,0.0,0,0.0,0,0,0,0,0,0.0,0.290260910987854,0.290260910987854

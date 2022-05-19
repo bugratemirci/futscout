@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1139,6707,Alex Matsukatov,FC Krasnodar,S,2,21,0,0.026737991720438,0,0.0,1,0,0,0,0,0.026737991720438,0.0694470647722482,0.0427090730518102
+1140,6707,Alex Matsukatov,FC Krasnodar,S,6,61,0,0.0402879640460014,0,0.0963770374655723,1,1,0,0,0,0.0402879640460014,0.2464373800903558,0.1097723860293626

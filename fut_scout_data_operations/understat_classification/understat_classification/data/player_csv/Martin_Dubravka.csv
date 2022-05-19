@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15278,6532,Martin Dubravka,Newcastle United,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2953330539166927,0.2953330539166927
+15279,6532,Martin Dubravka,Newcastle United,GK,12,1080,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5088649336248636,0.5088649336248636
+15280,6532,Martin Dubravka,Newcastle United,GK,38,3420,0,0.0,0,0.0,0,0,0,0,0,0.0,2.556713069789112,2.556713069789112
+15281,6532,Martin Dubravka,Newcastle United,GK,13,1170,0,0.0,0,0.0,0,0,0,0,0,0.0,2.120249611325562,2.120249611325562
+15282,6532,Martin Dubravka,Newcastle United,GK,38,3420,0,0.0,0,0.0,0,0,1,0,0,0.0,3.691717104054987,3.691717104054987

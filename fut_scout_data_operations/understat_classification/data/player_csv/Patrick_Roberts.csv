@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18323,925,Patrick Roberts,Norwich,S,3,19,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18324,925,Patrick Roberts,Troyes,S,1,11,0,0.09515430778265,0,0.0,1,0,0,0,0,0.09515430778265,0.09515430778265,0.0
+18325,925,Patrick Roberts,Manchester City,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18326,925,Patrick Roberts,Girona,M S,19,589,0,0.8708987832069397,0,0.3773142378777265,7,8,0,0,0,0.8708987832069397,2.572410626336932,1.324197556823492

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23566,6111,Wesley Sneijder,Nice,F M S,5,401,0,0.5327786281704903,0,0.8404372129589319,16,11,0,0,0,0.5327786281704903,1.8117253184318545,1.2605889923870564

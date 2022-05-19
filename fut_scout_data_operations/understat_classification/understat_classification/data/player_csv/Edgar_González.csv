@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6336,8142,Edgar González,Real Betis,M S,10,696,0,0.9781422205269336,0,0.0,6,0,3,0,0,0.9781422205269336,2.045816918835044,2.045816918835044
+6337,8142,Edgar González,Real Betis,D S,12,943,0,0.4171689487993717,1,0.5239228010177612,3,1,5,0,0,0.4171689487993717,1.9162022434175008,1.9162022434175008

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20242,9596,Ruslan Fischenko,FC Ufa,M S,15,743,0,0.3190742069855332,0,0.6523548308759928,6,8,1,2,0,0.3190742069855332,0.7180240880697966,0.2346781641244888

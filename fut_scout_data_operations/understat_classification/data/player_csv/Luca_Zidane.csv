@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13802,6269,Luca Zidane,Real Madrid,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13803,6269,Luca Zidane,Rayo Vallecano,GK,1,15,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0,0.0
+13804,6269,Luca Zidane,Real Madrid,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.096946857869625,0.096946857869625

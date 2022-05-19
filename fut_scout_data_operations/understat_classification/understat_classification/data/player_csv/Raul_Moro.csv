@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19235,8584,Raul Moro,Lazio,F S,10,164,0,0.203273132443428,1,0.1377093475311994,2,5,0,0,0,0.203273132443428,0.4449946777895093,0.2268694443628192
+19236,8584,Raul Moro,Lazio,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+19237,8584,Raul Moro,Lazio,S,1,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

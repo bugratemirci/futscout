@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5892,9448,Dion Moise Sahi,Strasbourg,S,4,50,0,0.750820204615593,0,0.0,3,0,0,0,0,0.750820204615593,0.750820204615593,0.0
+5893,9448,Dion Moise Sahi,Strasbourg,S,6,80,1,0.4043847061693668,0,0.0617440221831202,4,2,0,0,1,0.4043847061693668,0.5687032826244831,0.1643185690045356

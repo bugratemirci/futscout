@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22990,9002,Vedat Muriqi,Lazio,F S,27,809,1,3.2703414298594,0,0.6183617673814297,31,9,1,0,1,3.2703414298594,5.916455704718828,2.186856877990067
+22991,9002,Vedat Muriqi,Lazio,F S,10,183,0,0.774250864982605,0,0.0,3,0,1,0,0,0.774250864982605,0.841776417568326,0.0675255488604307

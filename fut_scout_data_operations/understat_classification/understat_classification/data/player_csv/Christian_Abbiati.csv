@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4110,1821,Christian Abbiati,AC Milan,S,1,72,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0364545583724975,0.0364545583724975
+4111,1821,Christian Abbiati,AC Milan,GK S,11,905,0,0.0,0,0.0,0,0,0,0,0,0.0,0.7898724917322397,0.7898724917322397

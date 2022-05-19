@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17510,7269,Nikita Chistyakov,Anzhi Makhachkala,D,3,267,0,0.115105397067964,0,0.0151734314858913,3,1,0,0,0,0.115105397067964,0.7199416011571884,0.6048362106084824

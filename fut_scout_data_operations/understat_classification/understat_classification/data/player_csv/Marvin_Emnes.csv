@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15378,829,Marvin Emnes,Swansea,F S,2,66,0,0.0244685690850019,0,0.0,1,0,0,0,0,0.0244685690850019,0.0244685690850019,0.0
+15379,829,Marvin Emnes,Swansea,M S,17,488,0,0.8800221690908074,0,0.7972889933735132,13,5,2,0,0,0.8800221690908074,1.8270481899380684,0.6900011170655489

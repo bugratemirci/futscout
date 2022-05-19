@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15969,3072,Maxim Palienko,Zenit St. Petersburg,S,2,16,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15970,3072,Maxim Palienko,Tosno,F M S,11,619,0,0.1329592876136303,0,0.2545173428952694,5,8,3,0,0,0.1329592876136303,1.6640436332672834,1.3736614249646664

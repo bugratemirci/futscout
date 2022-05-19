@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13555,2123,Lluis López,Espanyol,D S,4,299,0,0.1716855615377426,0,0.0,2,0,1,0,0,0.1716855615377426,0.3500054106116295,0.3500054106116295
+13556,2123,Lluis López,Espanyol,D S,6,521,0,0.5786527395248413,0,0.0,1,0,0,0,0,0.5786527395248413,0.9026849381625652,0.9026849381625652

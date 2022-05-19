@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7736,4344,Florian Kath,Freiburg,S,1,8,0,0.0,0,0.0808970555663108,0,1,0,0,0,0.0,0.0808970555663108,0.0808970555663108
+7737,4344,Florian Kath,Freiburg,F M S,24,625,1,0.8907767850905657,0,0.2632041228935122,16,6,3,0,1,0.8907767850905657,1.454894719645381,0.4066193541511893

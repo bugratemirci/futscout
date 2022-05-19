@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3279,3415,Birama Touré,Nantes,M S,23,1817,0,0.2848976897075772,2,1.0953459404408932,14,12,4,0,0,0.2848976897075772,4.820856131613255,3.635321030393243
+3280,3415,Birama Touré,Nantes,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

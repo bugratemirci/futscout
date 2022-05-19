@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18775,107,Philipp Tschauner,Hannover 96,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18776,107,Philipp Tschauner,Hannover 96,GK,31,2790,0,0.0527252182364463,0,0.0313438139855861,1,1,1,0,0,0.0527252182364463,1.161127120256424,1.1297833062708378

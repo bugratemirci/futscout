@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9913,9378,Issouf Sissokho,Bordeaux,M S,5,317,0,0.0827665366232395,0,0.2737527918070555,3,7,0,0,0,0.0827665366232395,0.9811278358101844,0.8035736940801144
+9914,9378,Issouf Sissokho,Bordeaux,S,6,69,1,0.0580409783869981,0,0.0,2,0,2,0,1,0.0580409783869981,0.5099423825740814,0.5099423825740814

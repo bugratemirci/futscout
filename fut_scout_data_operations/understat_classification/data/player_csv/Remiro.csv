@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19357,2555,Remiro,Real Sociedad,GK,15,1350,0,0.0,0,0.0,0,0,0,0,0,0.0,2.0596185699105263,2.0596185699105263
+19358,2555,Remiro,Real Sociedad,GK,38,3420,0,0.0,0,0.0,0,0,0,0,0,0.0,3.788505856879056,3.788505856879056
+19359,2555,Remiro,Real Sociedad,GK,25,2250,0,0.084768995642662,0,0.0164873022586107,1,1,0,0,0,0.084768995642662,1.8016184531152248,1.785131150856614

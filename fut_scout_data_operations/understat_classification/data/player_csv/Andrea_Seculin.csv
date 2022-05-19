@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1790,1345,Andrea Seculin,Chievo,GK S,2,91,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0663396194577217,0.0663396194577217
+1791,1345,Andrea Seculin,Chievo,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0196858197450637,0.0196858197450637
+1792,1345,Andrea Seculin,Chievo,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0208198614418506,0.0208198614418506

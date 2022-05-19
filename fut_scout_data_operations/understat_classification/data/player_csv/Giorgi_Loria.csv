@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8663,2989,Giorgi Loria,Krylya Sovetov Samara,GK,14,1260,0,0.0,0,0.0,0,0,1,0,0,0.0,0.422074131667614,0.422074131667614
+8664,2989,Giorgi Loria,Anzhi Makhachkala,GK,13,1145,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4517959356307983,0.4517959356307983
+8665,2989,Giorgi Loria,Krylya Sovetov Samara,GK,25,2250,0,0.0,0,0.0193724352866411,0,1,1,0,0,0.0,1.6731540877372026,1.653781654313207

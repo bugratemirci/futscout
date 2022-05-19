@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11166,358,Johannes Flum,Eintracht Frankfurt,M S,5,136,0,0.0655960068106651,1,0.4392887949943542,2,2,0,0,0,0.0655960068106651,0.909025602042675,0.4041408002376556
+11167,358,Johannes Flum,Eintracht Frankfurt,S,7,153,0,0.3320183157920837,0,0.1265642493963241,1,1,0,0,0,0.3320183157920837,0.6752843111753464,0.216701753437519

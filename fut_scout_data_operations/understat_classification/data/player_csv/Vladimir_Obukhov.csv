@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23296,7659,Vladimir Obukhov,"FC Rostov,FC Tambov",F S,19,736,0,1.9359005689620967,0,0.6212188573554158,15,13,2,0,0,1.181625247001648,2.4712803810834885,1.0002848766744137
+23297,7659,Vladimir Obukhov,"FC Tambov,PFC Sochi",F S,20,1564,7,4.591821732930839,2,2.2299834792502224,47,23,1,0,5,3.08327257912606,6.90893713477999,2.4362387284636497

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18808,8313,Pierre Kalulu Kyatengwa,AC Milan,D S,9,467,0,0.3861138075590133,1,0.489485315978527,4,4,1,0,0,0.3861138075590133,2.8990986347198486,2.150348111987114
+18809,8313,Pierre Kalulu Kyatengwa,AC Milan,D S,13,725,1,0.7651953622698784,1,0.6814028667286038,3,6,1,0,1,0.7651953622698784,2.8598673678934574,2.718352396041155

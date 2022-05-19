@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24204,4730,Zacharie Boucher,Angers,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0152993742376565,0.0152993742376565
+24205,4730,Zacharie Boucher,Toulouse,GK,15,1350,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3877053633332252,0.3877053633332252

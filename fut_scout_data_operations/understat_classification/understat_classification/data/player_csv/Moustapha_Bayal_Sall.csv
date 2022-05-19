@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16863,3506,Moustapha Bayal Sall,Saint-Etienne,D,23,2051,1,1.5534157641232014,0,0.1073506847023963,14,4,8,0,1,1.5534157641232014,4.8244751347228885,4.630892802029848
+16864,3506,Moustapha Bayal Sall,Saint-Etienne,D S,28,2358,3,2.879775032866746,0,0.5100403316318989,15,5,8,1,3,2.879775032866746,2.8163921255618334,2.414410598576069

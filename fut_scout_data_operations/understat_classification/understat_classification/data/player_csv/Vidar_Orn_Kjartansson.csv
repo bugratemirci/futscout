@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23064,7161,Vidar Orn Kjartansson,FC Rostov,F S,8,181,0,0.3092428520321846,1,0.7659927010536194,5,1,0,0,0,0.3092428520321846,0.8129361048340797,0.6485219933092594
+23065,7161,Vidar Orn Kjartansson,Rubin Kazan,F S,16,964,1,4.606274351477623,1,0.3643069509416818,29,5,1,0,1,4.606274351477623,4.553001407533884,0.5842720028012991

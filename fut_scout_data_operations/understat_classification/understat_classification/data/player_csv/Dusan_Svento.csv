@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6224,136,Dusan Svento,FC Cologne,D M S,19,1008,0,1.0753492526710031,1,0.8187325559556484,6,13,0,0,0,1.0753492526710031,2.0372913870960474,0.4341397490352392
+6225,136,Dusan Svento,FC Cologne,M S,7,220,1,0.5431296564638615,0,0.0524954982101917,3,1,0,0,1,0.5431296564638615,0.5398051142692566,0.0

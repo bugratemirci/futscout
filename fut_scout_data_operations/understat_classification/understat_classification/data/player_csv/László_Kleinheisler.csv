@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14257,2647,László Kleinheisler,Darmstadt,M S,12,789,1,0.5470484793186188,1,0.3841188475489616,14,3,0,0,1,0.5470484793186188,0.7467910386621952,0.3081532418727875
+14258,2647,László Kleinheisler,Werder Bremen,M S,6,184,0,0.1559179127216339,0,0.0527429059147834,5,1,0,0,0,0.1559179127216339,0.6825602725148201,0.502292700111866

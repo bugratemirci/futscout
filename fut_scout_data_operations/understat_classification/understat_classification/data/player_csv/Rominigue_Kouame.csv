@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20066,6014,Rominigue Kouame,Lille,D S,6,195,0,0.0,1,0.4883988983929157,0,6,0,0,0,0.0,0.7829145472496748,0.3914032261818647
+20067,6014,Rominigue Kouame,Troyes,M,18,1606,1,1.0070271901786327,1,0.9094224413856864,18,13,2,0,1,1.0070271901786327,5.312480427324772,3.9661639258265495

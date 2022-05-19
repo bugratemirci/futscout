@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20222,6849,Rui Patrício,Wolverhampton Wanderers,GK,37,3330,0,0.0,0,0.0,0,0,1,0,0,0.0,1.2272866610437632,1.2272866610437632
+20223,6849,Rui Patrício,Wolverhampton Wanderers,GK,37,3330,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1828956957906485,1.1828956957906485
+20224,6849,Rui Patrício,Roma,GK,16,1440,0,0.0,0,0.0,0,0,1,0,0,0.0,2.131211154162884,2.131211154162884
+20225,6849,Rui Patrício,Wolverhampton Wanderers,GK,38,3420,0,0.0,0,0.0,0,0,0,0,0,0.0,2.7981006279587746,2.7981006279587746

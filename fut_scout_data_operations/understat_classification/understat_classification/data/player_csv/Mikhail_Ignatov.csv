@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16457,6614,Mikhail Ignatov,Spartak Moscow,S,2,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+16458,6614,Mikhail Ignatov,Spartak Moscow,M S,8,292,1,0.0723104048520326,0,0.0992021895945072,5,2,0,0,1,0.0723104048520326,0.1798829063773155,0.1176821961998939
+16459,6614,Mikhail Ignatov,Spartak Moscow,S,1,24,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0259671881794929,0.0259671881794929
+16460,6614,Mikhail Ignatov,Spartak Moscow,F M S,14,417,0,0.705512885004282,0,0.1958789769560098,7,2,0,0,0,0.705512885004282,1.9353896863758564,1.2017387934029102

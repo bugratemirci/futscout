@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17629,5923,Nikolay Kalinskiy,SKA-Khabarovsk,M S,13,571,1,0.8301955834031105,0,0.0,9,0,0,0,1,0.8301955834031105,1.251264969818294,0.5395333869382739
+17630,5923,Nikolay Kalinskiy,Nizhny Novgorod,M,17,1530,5,3.383174346759916,2,1.7475257031619549,26,29,4,0,3,1.1203497424721718,3.650353351607919,2.118975632824004

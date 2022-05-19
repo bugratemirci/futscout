@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11701,3811,Joshua Brillante,"Empoli,Fiorentina",M S,3,39,0,0.9787847995758056,0,0.0,2,0,0,0,0,0.9787847995758056,0.9875220526009798,0.0087372530251741

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16327,8513,Miguel Gutiérrez,Real Madrid,D,3,266,0,0.0,1,0.4073594063520431,0,3,1,0,0,0.0,2.376029133796692,1.9686697497963903
+16328,8513,Miguel Gutiérrez,Real Madrid,D S,6,313,0,0.0,1,0.2926687374711036,0,4,0,0,0,0.0,0.7636312916874886,0.6966780498623848

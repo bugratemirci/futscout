@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24150,2980,Yuri Nesterenko,Rubin Kazan,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0146156204864382,0.0146156204864382
+24151,2980,Yuri Nesterenko,Rubin Kazan,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+24152,2980,Yuri Nesterenko,Rubin Kazan,S,1,55,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0404291488230228,0.0404291488230228
+24153,2980,Yuri Nesterenko,FC Yenisey Krasnoyarsk,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5215229783207178,0.5215229783207178

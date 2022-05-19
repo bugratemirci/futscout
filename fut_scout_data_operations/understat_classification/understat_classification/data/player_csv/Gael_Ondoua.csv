@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8150,6814,Gael Ondoua,Anzhi Makhachkala,M S,25,1759,0,0.3306796140968799,0,0.0810798164457082,14,4,5,0,0,0.3306796140968799,2.1894319686107337,1.8934578523039816

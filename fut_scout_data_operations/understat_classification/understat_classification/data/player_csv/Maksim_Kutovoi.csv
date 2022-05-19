@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14409,8364,Maksim Kutovoi,FC Krasnodar,S,3,24,0,0.0,0,0.1027157232165336,0,1,0,0,0,0.0,0.1204032693058252,0.0176875460892915
+14410,8364,Maksim Kutovoi,FC Krasnodar,M S,7,107,0,0.5195310786366463,0,0.4804287273436785,2,3,0,0,0,0.5195310786366463,1.064461538568139,0.1314922273159027

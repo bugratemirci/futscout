@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10823,8974,Jens Petter Hauge,AC Milan,M S,18,498,2,1.003197342157364,0,1.3209979329258204,7,11,0,0,2,1.003197342157364,3.349377265200019,1.141933998093009
+10824,8974,Jens Petter Hauge,Eintracht Frankfurt,F M S,12,572,2,1.8365369774401188,0,0.1671972069889307,12,5,1,0,2,1.8365369774401188,3.6363226547837257,2.511106844991445

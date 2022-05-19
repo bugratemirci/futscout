@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22854,7769,Vadim Karpov,CSKA Moscow,D S,13,992,0,0.0658934339880943,0,0.0,1,0,2,2,0,0.0658934339880943,2.462479993700981,2.462479993700981
+22855,7769,Vadim Karpov,CSKA Moscow,D S,12,825,0,0.1713364012539386,1,0.1439416706562042,4,1,1,0,0,0.1713364012539386,2.7195722721517086,2.4800367914140224

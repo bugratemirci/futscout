@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23617,6332,Willem Geubbels,Monaco,F M S,14,267,1,1.1336354576051235,0,0.294674783013761,6,3,3,1,1,1.1336354576051235,1.941045373678208,0.52860270999372
+23618,6332,Willem Geubbels,Lyon,S,2,29,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23619,6332,Willem Geubbels,Monaco,S,1,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23620,6332,Willem Geubbels,Nantes,M S,7,182,0,0.1189048960804939,1,0.6584226489067078,3,1,0,0,0,0.1189048960804939,0.7833833992481232,0.0380219966173172

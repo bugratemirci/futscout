@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18619,6278,Pedro Rocha,Spartak Moscow,F M S,11,418,1,1.5854610353708267,3,0.5191832967102528,15,7,0,0,1,1.5854610353708267,2.2012288235127926,0.3693086020648479
+18620,6278,Pedro Rocha,Spartak Moscow,F,1,66,0,0.0989681929349899,0,0.0,2,0,0,0,0,0.0989681929349899,0.1155917420983314,0.0166235510259866

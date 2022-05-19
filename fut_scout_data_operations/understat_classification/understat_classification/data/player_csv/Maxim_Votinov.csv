@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15972,4569,Maxim Votinov,Arsenal Tula,F S,9,347,0,0.8840120658278465,0,0.0280851423740386,12,1,1,0,0,0.8840120658278465,0.8469589576125145,0.0623554177582263

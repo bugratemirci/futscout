@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6266,5330,Dzenis Burnic,Borussia Dortmund,D,1,90,0,0.0,0,0.0558158196508884,0,1,1,0,0,0.0,0.1069572642445564,0.0511414483189582
+6267,5330,Dzenis Burnic,VfB Stuttgart,M S,6,306,0,0.1827570702880621,0,0.3025850094854831,7,5,2,1,0,0.1827570702880621,0.9566469397395848,0.6526876296848059

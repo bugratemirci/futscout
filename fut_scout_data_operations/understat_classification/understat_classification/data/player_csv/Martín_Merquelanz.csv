@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15351,7101,Martín Merquelanz,Real Sociedad,D M S,13,531,0,1.4106304068118334,1,2.064147947356105,11,9,0,0,0,1.4106304068118334,3.646683484315872,0.9469188041985036
+15352,7101,Martín Merquelanz,Rayo Vallecano,M S,4,174,0,0.1213455870747566,0,1.0979870557785034,2,7,0,0,0,0.1213455870747566,0.9989427179098128,0.5797908753156662
+15353,7101,Martín Merquelanz,Real Sociedad,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

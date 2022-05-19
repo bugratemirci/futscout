@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3284,5321,Birk Risa,FC Cologne,F S,2,78,0,0.1829259097576141,0,0.0216982644051313,2,1,0,0,0,0.1829259097576141,0.2046241760253906,0.0850511118769645

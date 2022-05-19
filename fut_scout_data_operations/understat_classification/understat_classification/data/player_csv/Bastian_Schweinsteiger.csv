@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2975,907,Bastian Schweinsteiger,Manchester United,M S,18,1199,1,1.46183530241251,0,0.2541703563183546,12,8,3,0,1,1.46183530241251,4.839490883052349,4.474496357142925
+2976,907,Bastian Schweinsteiger,Bayern Munich,M S,20,1361,5,2.1745135076344013,4,2.219082625582814,29,31,4,0,5,2.1745135076344013,7.0167625322937965,4.26438058540225

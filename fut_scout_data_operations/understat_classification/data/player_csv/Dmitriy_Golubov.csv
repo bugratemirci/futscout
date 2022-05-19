@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6015,4554,Dmitriy Golubov,FC Ufa,F M S,8,336,0,0.070568673312664,0,0.1759836981073022,3,4,2,0,0,0.070568673312664,0.6796229146420956,0.4897027909755707

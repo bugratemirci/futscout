@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6134,16,Dominik Stroh-Engel,Darmstadt,S,4,39,0,0.0,0,0.0742217004299163,0,1,0,0,0,0.0,0.0742217004299163,0.0
+6135,16,Dominik Stroh-Engel,Darmstadt,F S,15,506,0,0.8112824466079473,1,0.2874847687780857,6,5,0,0,0,0.8112824466079473,1.3152837734669447,0.8518401384353638

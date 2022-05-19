@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22013,231,Sven Ulreich,Bayern Munich,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,1.345590140670538,1.345590140670538
+22014,231,Sven Ulreich,VfB Stuttgart,GK,28,2520,0,0.0,0,0.3283444680273533,0,2,0,0,0,0.0,1.4504363108426332,1.12209184281528
+22015,231,Sven Ulreich,Bayern Munich,GK S,9,756,0,0.0,0,0.0,0,0,0,0,0,0.0,2.273210758343339,2.273210758343339
+22016,231,Sven Ulreich,Bayern Munich,GK,29,2610,0,0.0,0,0.0,0,0,1,0,0,0.0,5.735861884430051,5.735861884430051
+22017,231,Sven Ulreich,Bayern Munich,S,1,39,0,0.0,0,0.0,0,0,0,0,0,0.0,0.052080187946558,0.052080187946558
+22018,231,Sven Ulreich,Bayern Munich,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0602517127990725,1.0602517127990725

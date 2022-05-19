@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+53,2346,Aarón,Granada,GK S,4,282,0,0.0,0,0.0,0,0,1,0,0,0.0,0.214559718966484,0.214559718966484
+54,2346,Aarón,Granada,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.442865788936615,0.442865788936615
+55,2346,Aarón,Granada,GK,5,450,0,0.0,0,0.0,0,0,1,0,0,0.0,0.4901685118675232,0.4901685118675232

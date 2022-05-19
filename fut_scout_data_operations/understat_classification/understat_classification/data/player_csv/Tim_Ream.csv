@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22419,7184,Tim Ream,Fulham,D,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.8088049665093422,0.8088049665093422
+22420,7184,Tim Ream,Fulham,D S,26,2057,0,0.0195436310023069,0,0.2394207268953323,1,3,1,0,0,0.0195436310023069,2.7600162550807,2.520595528185368

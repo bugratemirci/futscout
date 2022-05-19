@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20532,7720,Sambou Sissoko,Reims,S,6,85,0,0.1385924303904175,0,0.1501135677099228,3,2,0,0,0,0.1385924303904175,0.5060345977544785,0.2173286080360412
+20533,7720,Sambou Sissoko,Reims,S,3,25,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

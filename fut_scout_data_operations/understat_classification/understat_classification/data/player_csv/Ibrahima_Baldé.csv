@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9470,10125,Ibrahima Baldé,Lens,S,1,15,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9471,2732,Ibrahima Baldé,Kuban Krasnodar,F M S,21,1034,4,2.6377632468938828,1,1.297712678089738,20,13,3,0,4,1.883487928658724,4.6071147713810205,1.572285651229322
+9472,2732,Ibrahima Baldé,Kuban Krasnodar,F S,19,1199,5,6.54386131092906,1,1.1373893320560455,37,15,1,0,5,6.54386131092906,8.78357718884945,1.8556738775223487

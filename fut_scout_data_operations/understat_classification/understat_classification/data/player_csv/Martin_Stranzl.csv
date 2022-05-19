@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15321,439,Martin Stranzl,Borussia M.Gladbach,D S,19,1548,0,0.4707725495100021,0,0.143111702054739,9,2,3,0,0,0.4707725495100021,5.472704492509365,5.365447126328945
+15322,439,Martin Stranzl,Borussia M.Gladbach,D S,4,164,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1312910066917538,0.1312910066917538

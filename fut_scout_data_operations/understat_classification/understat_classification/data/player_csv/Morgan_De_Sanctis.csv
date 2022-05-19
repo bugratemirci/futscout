@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16736,1825,Morgan De Sanctis,Roma,GK,35,3150,0,0.0,1,0.0159300956875085,0,1,1,0,0,0.0,2.0716190794482827,2.05568898562342
+16737,1825,Morgan De Sanctis,Roma,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1398083642125129,0.1398083642125129
+16738,1825,Morgan De Sanctis,Monaco,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0142257530242204,0.0142257530242204

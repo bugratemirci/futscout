@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22823,5185,Unai Simón,Athletic Club,GK,15,1350,0,0.0,0,0.0,0,0,1,0,0,0.0,1.6543634794652462,1.6543634794652462
+22824,5185,Unai Simón,Athletic Club,GK,37,3330,0,0.0,0,0.0052167819812893,0,1,1,0,0,0.0,2.029684867244214,2.0244680852629244
+22825,5185,Unai Simón,Athletic Club,GK,7,630,0,0.0,0,0.0,0,0,2,0,0,0.0,0.2526325955986976,0.2526325955986976
+22826,5185,Unai Simón,Athletic Club,GK,34,2991,0,0.0,0,0.0,0,0,2,1,0,0.0,1.886619292199612,1.886619292199612

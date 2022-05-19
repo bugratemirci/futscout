@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14116,400,Lukas Fröde,Werder Bremen,M S,8,115,0,0.0492818616330623,0,0.0,1,0,0,0,0,0.0492818616330623,0.7456603571772575,0.7456603571772575
+14117,400,Lukas Fröde,Werder Bremen,S,3,12,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14118,400,Lukas Fröde,Werder Bremen,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

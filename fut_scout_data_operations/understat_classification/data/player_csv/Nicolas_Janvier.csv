@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17383,3733,Nicolas Janvier,Rennes,S,3,25,0,0.0904189124703407,0,0.0387809630483388,1,2,0,0,0,0.0904189124703407,0.1291998755186796,0.0
+17384,3733,Nicolas Janvier,Rennes,M S,3,72,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+17385,3733,Nicolas Janvier,Rennes,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+17386,3733,Nicolas Janvier,Rennes,M S,4,87,0,0.0212038662284612,0,0.1013095285743475,1,2,0,0,0,0.0212038662284612,0.1122443550266325,0.0910404869355261

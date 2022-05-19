@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3993,103,Charlison Benschop,Hannover 96,F M S,9,338,1,1.031155526638031,0,0.0124649051576852,7,1,0,0,1,1.031155526638031,1.4698901660740376,0.4262697603553533
+3994,103,Charlison Benschop,Hannover 96,M S,7,181,1,0.2632071487605572,0,0.0551571883261203,5,1,0,0,1,0.2632071487605572,0.3455983065068722,0.1511568427085876

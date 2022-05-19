@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2407,2870,Apti Ahyadov,Anzhi Makhachkala,D F S,22,1199,0,0.6864267904311419,1,0.9584528375416994,11,11,2,0,0,0.6864267904311419,2.2568404600024223,0.8129197005182505
+2408,2870,Apti Ahyadov,FK Akhmat,D S,3,138,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0426566451787948,0.0426566451787948
+2409,2870,Apti Ahyadov,FK Akhmat,S,1,6,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0929573625326156,0.0929573625326156

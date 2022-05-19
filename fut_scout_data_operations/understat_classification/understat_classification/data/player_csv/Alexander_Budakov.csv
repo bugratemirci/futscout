@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1184,4545,Alexander Budakov,Torpedo Moscow,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0182730220258235,0.0182730220258235
+1185,4545,Alexander Budakov,Anzhi Makhachkala,GK S,11,925,0,0.0,0,0.0553090628236532,0,2,0,0,0,0.0,0.0553090628236532,0.0

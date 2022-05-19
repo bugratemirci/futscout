@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24377,5191,Álvaro Fernández,Osasuna,S,1,43,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+24378,5191,Álvaro Fernández,Brentford,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2183597534894943,0.2183597534894943
+24379,5191,Álvaro Fernández,SD Huesca,GK,22,1980,0,0.0269115567207336,0,0.0159561093896627,1,1,0,0,0,0.0269115567207336,1.1386974295601249,1.122741318307817

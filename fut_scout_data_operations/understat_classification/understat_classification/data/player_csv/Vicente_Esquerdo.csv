@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23004,8149,Vicente Esquerdo,Valencia,S,3,10,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23005,8149,Vicente Esquerdo,Valencia,M S,4,241,0,0.0198755040764808,0,0.0550091415643692,1,2,1,0,0,0.0198755040764808,0.7701885029673576,0.732795849442482

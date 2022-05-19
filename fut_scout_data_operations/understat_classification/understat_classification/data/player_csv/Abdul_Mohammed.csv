@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+136,6901,Abdul Mohammed,Arsenal Tula,D M S,11,811,2,0.4184051156044006,0,0.0655903927981853,14,3,1,0,2,0.4184051156044006,1.3018652945756912,0.9740177933126688
+137,6901,Abdul Mohammed,Arsenal Tula,D M S,22,1800,1,1.198537467047572,2,0.6090362370014191,25,8,4,0,1,1.198537467047572,4.673051189631224,3.7625488992780447

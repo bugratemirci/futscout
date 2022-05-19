@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8635,1967,Gilberto,"Fiorentina,Verona",M S,10,453,0,0.3372958935797214,0,0.2155968695878982,7,4,2,0,0,0.3372958935797214,1.4280929267406464,0.913352900184691

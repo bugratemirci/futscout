@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7980,1980,Franco Zuculini,Verona,M S,11,319,0,0.1775787957012653,0,0.1432173773646354,5,5,1,0,0,0.1775787957012653,0.5444003138691187,0.297451639547944
+7981,1980,Franco Zuculini,Bologna,S,1,16,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0331991016864776,0.0331991016864776

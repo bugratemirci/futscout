@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2087,8989,Ansgar Knauff,Borussia Dortmund,S,5,103,0,0.0999152362346649,0,0.0771585330367088,1,1,0,0,0,0.0999152362346649,0.1926820268854499,0.0156082501634955
+2088,8989,Ansgar Knauff,Borussia Dortmund,S,4,59,1,0.1087397560477256,1,0.9649253077805042,2,4,0,0,1,0.1087397560477256,1.022614262998104,0.1061763800680637

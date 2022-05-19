@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18456,7053,Pavao Pervan,Wolfsburg,GK,8,720,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3070219671353698,0.3070219671353698
+18457,7053,Pavao Pervan,Wolfsburg,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.768328070640564,0.768328070640564
+18458,7053,Pavao Pervan,Wolfsburg,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0507669784128665,0.0507669784128665
+18459,7053,Pavao Pervan,Wolfsburg,GK S,9,761,0,0.0,0,0.0178837142884731,0,1,0,0,0,0.0,1.111137866973877,1.0932541517540812

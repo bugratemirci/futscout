@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18425,3639,Paulin Puel,Nice,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18426,3639,Paulin Puel,Nice,F S,11,182,0,0.0636724233627319,0,0.0109442276880145,2,1,0,0,0,0.0636724233627319,0.5560628464445472,0.481446205638349

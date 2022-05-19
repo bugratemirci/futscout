@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10887,8692,Jerome Hergault,Lorient,D M S,22,1625,2,0.4266997072845697,0,0.2871567802503705,4,6,0,0,2,0.4266997072845697,3.7793096378445625,3.102727195248008
+10888,8692,Jerome Hergault,Lorient,D S,6,262,0,0.0,0,0.0835545063018798,0,1,0,2,0,0.0,0.302394799888134,0.2188402935862541

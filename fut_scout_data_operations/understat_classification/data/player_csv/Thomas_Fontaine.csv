@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22281,6881,Thomas Fontaine,Reims,D S,7,417,0,0.0,1,0.318092193454504,0,2,1,0,0,0.0,0.6775408275425434,0.3965382799506187
+22282,6881,Thomas Fontaine,Lorient,D,4,322,0,0.253193786367774,0,0.0,2,0,0,0,0,0.253193786367774,0.0787041494622826,0.0694469334557652
+22283,6881,Thomas Fontaine,Lorient,D,2,169,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5328077077865601,0.5328077077865601

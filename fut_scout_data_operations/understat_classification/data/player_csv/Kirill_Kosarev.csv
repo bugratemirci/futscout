@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12888,8621,Kirill Kosarev,Nizhny Novgorod,F S,9,227,1,0.3640721123665571,0,0.1316714137792587,5,1,1,0,1,0.3640721123665571,0.4957435261458158,0.0212504249066114
+12889,8621,Kirill Kosarev,Rubin Kazan,S,3,52,0,0.1837053671479225,0,0.0536182485520839,2,1,1,0,0,0.1837053671479225,0.2373236157000064,0.0

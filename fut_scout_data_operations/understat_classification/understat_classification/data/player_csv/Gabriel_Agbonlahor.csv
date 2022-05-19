@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8095,890,Gabriel Agbonlahor,Aston Villa,F M S,15,1051,1,1.2428802624344826,2,1.477277654223144,10,13,0,0,1,1.2428802624344826,2.83076698705554,0.2617861628532409
+8096,890,Gabriel Agbonlahor,Aston Villa,F S,34,2698,6,5.630619659088552,1,1.5529494481161237,53,16,7,1,6,5.630619659088552,8.03916365839541,1.656528471969068

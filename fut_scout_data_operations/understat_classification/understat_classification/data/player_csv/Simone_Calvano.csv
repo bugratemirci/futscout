@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21427,6406,Simone Calvano,Verona,M S,15,641,0,0.1729380814358592,0,0.2745315730571747,5,2,1,0,0,0.1729380814358592,0.8323933724313974,0.5178358582779765

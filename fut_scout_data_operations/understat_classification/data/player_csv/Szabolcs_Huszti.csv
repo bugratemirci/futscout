@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22036,2660,Szabolcs Huszti,Eintracht Frankfurt,M S,15,1185,1,1.010664401575923,2,2.3408807069063187,20,33,5,0,1,1.010664401575923,4.72484415024519,3.65688362531364
+22037,2660,Szabolcs Huszti,Eintracht Frankfurt,M S,15,1060,2,0.9784024022519588,2,0.6034894306212664,11,16,3,1,2,0.9784024022519588,3.984577748924494,2.932675767689944

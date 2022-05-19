@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2167,3726,Anthony Ribelin,Montpellier,M,1,59,0,0.0,0,0.01788947917521,0,1,0,0,0,0.0,0.01788947917521,0.0
+2168,3726,Anthony Ribelin,Montpellier,S,7,50,0,0.0235028322786092,0,0.0,1,0,0,0,0,0.0235028322786092,0.5023686941713095,0.4788658618927002

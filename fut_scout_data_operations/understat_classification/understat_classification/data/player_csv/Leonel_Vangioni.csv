@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13457,1560,Leonel Vangioni,AC Milan,D S,15,946,0,0.4272399749606848,0,0.3826766759157181,6,7,4,0,0,0.4272399749606848,2.0450548231601715,1.910861941054464

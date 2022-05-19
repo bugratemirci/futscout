@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8894,5288,Gregor Kobel,VfB Stuttgart,GK,33,2970,0,0.0,0,0.0244360696524381,0,1,0,0,0,0.0,3.3467252561822534,3.322289186529815
+8895,5288,Gregor Kobel,"Augsburg,Hoffenheim",GK,17,1479,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5629573836922646,0.5629573836922646
+8896,5288,Gregor Kobel,Borussia Dortmund,GK,15,1309,0,0.0,0,0.0,0,0,0,0,0,0.0,1.8159702932462096,1.8159702932462096

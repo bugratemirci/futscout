@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20127,36,Roy Beerens,Hertha Berlin,M S,27,2078,4,2.698116360232234,1,1.63964725099504,27,21,2,0,4,2.698116360232234,5.420404476113617,1.861295179463923
+20128,36,Roy Beerens,Hertha Berlin,M,2,113,0,0.0143787246197462,0,0.0,1,0,0,1,0,0.0143787246197462,0.1161377057433128,0.1017589792609214

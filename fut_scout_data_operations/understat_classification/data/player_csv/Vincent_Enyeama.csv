@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23100,3353,Vincent Enyeama,Lille,GK,35,3129,0,0.0,0,0.0224753301590681,0,1,3,1,0,0.0,1.2652033669874072,1.2427280386909842
+23101,3353,Vincent Enyeama,Lille,GK,32,2855,0,0.0,0,0.032799020409584,0,2,4,0,0,0.0,1.148667749017477,1.115868728607893
+23102,3353,Vincent Enyeama,Lille,GK,38,3420,0,0.0,0,0.0744069460779428,0,2,2,0,0,0.0,2.2223657090216875,2.2021081019192934

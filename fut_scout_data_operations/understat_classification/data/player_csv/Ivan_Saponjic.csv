@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10017,7894,Ivan Saponjic,Atletico Madrid,S,2,2,0,0.3238925635814667,0,0.0,1,0,0,0,0,0.3238925635814667,0.3238925635814667,0.0
+10018,7894,Ivan Saponjic,Cadiz,F S,9,377,1,1.881349254399538,0,0.0,11,0,2,0,0,1.138199556618929,0.791918683797121,0.1601716838777065

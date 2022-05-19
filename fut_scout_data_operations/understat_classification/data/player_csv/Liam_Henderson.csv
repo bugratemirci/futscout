@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13510,7925,Liam Henderson,Verona,M S,4,193,0,0.04947130382061,0,0.3734488189220428,3,2,1,0,0,0.04947130382061,0.0346105322241783,0.0
+13511,7925,Liam Henderson,Empoli,F M S,17,973,0,0.9561021318659186,2,2.109347643330693,21,20,1,0,0,0.9561021318659186,3.498291692696512,2.3829825464636087

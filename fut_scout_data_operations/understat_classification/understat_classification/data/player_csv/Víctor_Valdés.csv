@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23433,1705,Víctor Valdés,Manchester United,GK S,2,105,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0359524711966514,0.0359524711966514
+23434,1705,Víctor Valdés,Middlesbrough,GK,28,2520,0,0.0,0,0.0,0,0,1,0,0,0.0,2.234283898025751,2.234283898025751

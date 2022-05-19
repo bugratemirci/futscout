@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20623,6985,Samuel Mráz,Spezia,S,2,47,0,0.0127623043954372,0,0.0,1,0,0,0,0,0.0127623043954372,0.0127623043954372,0.0
+20624,6985,Samuel Mráz,Empoli,F S,6,163,1,0.640663169324398,0,0.3549434980377555,2,2,0,0,1,0.640663169324398,0.9478889554738998,0.0261293752118945

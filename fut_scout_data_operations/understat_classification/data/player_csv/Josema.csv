@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11662,8892,Josema,Elche,D S,29,1968,0,0.1219624290242791,1,0.6559756994247437,6,6,3,0,0,0.1219624290242791,2.957811454311013,2.882465058937669
+11663,8892,Josema,Elche,D S,4,156,0,0.0,0,0.0840644836425781,0,1,0,0,0,0.0,0.1052713375538587,0.1052713375538587

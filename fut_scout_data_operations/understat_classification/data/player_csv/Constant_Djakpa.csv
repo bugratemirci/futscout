@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4440,298,Constant Djakpa,Eintracht Frankfurt,D M S,12,751,0,0.1321773608215153,0,0.8839800339192152,4,8,2,0,0,0.1321773608215153,1.1832525134086609,0.3094103448092937
+4441,298,Constant Djakpa,Eintracht Frankfurt,D M S,6,437,0,0.0580008625984191,0,0.2315852753818035,2,5,1,0,0,0.0580008625984191,1.22552340477705,1.1507031619548798

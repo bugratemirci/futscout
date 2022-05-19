@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11108,5222,Joel Pohjanpalo,Bayer Leverkusen,F S,11,180,6,4.0892100147902966,0,0.8296817503869534,18,4,0,0,6,4.0892100147902966,5.2767606899142265,0.4985174126923084
+11109,5222,Joel Pohjanpalo,Bayer Leverkusen,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11110,5222,Joel Pohjanpalo,Bayer Leverkusen,S,2,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11111,5222,Joel Pohjanpalo,Bayer Leverkusen,S,7,101,1,1.0716769620776176,0,0.0,5,0,0,0,1,1.0716769620776176,1.147277057170868,0.0756000950932502
+11112,5222,Joel Pohjanpalo,"Bayer Leverkusen,Union Berlin",F S,20,868,6,6.772308342158794,0,0.9927613828331232,31,8,0,0,6,6.772308342158794,6.066355209797621,1.0101482905447483

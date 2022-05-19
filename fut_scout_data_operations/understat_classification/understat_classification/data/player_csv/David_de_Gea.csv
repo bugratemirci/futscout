@@ -1,0 +1,9 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5362,546,David de Gea,Manchester United,GK,26,2298,0,0.0,0,0.0,0,0,0,0,0,0.0,2.113249460235238,2.113249460235238
+5363,546,David de Gea,Manchester United,GK,34,3060,0,0.0,0,0.0,0,0,0,0,0,0.0,2.857072966173291,2.857072966173291
+5364,546,David de Gea,Manchester United,GK,37,3315,0,0.0,0,0.0,0,0,0,0,0,0.0,3.7251814398914576,3.7251814398914576
+5365,546,David de Gea,Manchester United,GK,38,3420,0,0.0,0,0.0,0,0,1,0,0,0.0,3.325026017613709,3.325026017613709
+5366,546,David de Gea,Manchester United,GK,16,1440,0,0.0,0,0.0,0,0,0,0,0,0.0,1.2774804392829535,1.2774804392829535
+5367,546,David de Gea,Manchester United,GK,35,3150,0,0.0,0,0.0,0,0,2,0,0,0.0,4.725033780559897,4.725033780559897
+5368,546,David de Gea,Manchester United,GK,38,3420,0,0.0,0,0.0,0,0,2,0,0,0.0,4.69521068315953,4.69521068315953
+5369,546,David de Gea,Manchester United,GK,37,3330,0,0.0,0,0.0333254598081111,0,1,0,0,0,0.0,4.918443707749248,4.885118247941136

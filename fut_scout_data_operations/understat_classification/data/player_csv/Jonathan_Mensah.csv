@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11358,2952,Jonathan Mensah,Anzhi Makhachkala,D,6,540,0,0.1924668494611978,1,0.1836669947952032,6,5,0,0,0,0.1924668494611978,0.8132815752178431,0.5658776853233576
+11359,2952,Jonathan Mensah,Evian Thonon Gaillard,D S,11,915,1,0.4732316499575972,0,0.0,8,0,3,0,1,0.4732316499575972,1.033719778060913,0.95628272742033
+11360,2952,Jonathan Mensah,Anzhi Makhachkala,D S,9,601,0,0.0,0,0.0110075343400239,0,1,2,0,0,0.0,0.932057423517108,0.921049876138568

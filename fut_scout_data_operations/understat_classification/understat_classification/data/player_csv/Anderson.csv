@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1643,4272,Anderson,Eintracht Frankfurt,D S,22,1687,0,0.3354437444359064,1,1.4758034646511078,6,4,5,0,0,0.3354437444359064,3.6248205192387104,3.6248205192387104
+1644,4525,Anderson,Manchester United,S,1,19,0,0.0,0,0.0881339833140373,0,1,0,0,0,0.0,0.0,0.0

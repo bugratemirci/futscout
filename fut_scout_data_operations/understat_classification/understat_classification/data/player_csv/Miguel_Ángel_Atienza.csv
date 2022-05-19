@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16350,8209,Miguel Ángel Atienza,Eibar,M S,12,837,0,0.2566599063575268,0,0.1417819457128644,5,4,1,0,0,0.2566599063575268,2.004623392596841,1.7004139050841331
+16351,8209,Miguel Ángel Atienza,Eibar,S,3,27,0,0.0716126002371311,0,0.0,2,0,0,0,0,0.0716126002371311,0.1883835978806018,0.1290790252387523

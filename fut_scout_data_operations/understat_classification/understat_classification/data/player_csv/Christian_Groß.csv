@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4156,7815,Christian Groß,Werder Bremen,D M S,14,873,0,0.2102477364242077,0,0.1256452649831771,3,2,2,0,0,0.2102477364242077,1.4065448008477688,1.372599747031927
+4157,7815,Christian Groß,Werder Bremen,D M S,23,1477,0,0.2194812484085559,1,0.598940797150135,7,6,6,1,0,0.2194812484085559,3.31094610132277,2.9859348591417074

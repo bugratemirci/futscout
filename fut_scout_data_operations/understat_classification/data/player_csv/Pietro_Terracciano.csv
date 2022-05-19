@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18865,6977,Pietro Terracciano,"Empoli,Fiorentina",GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.568504586815834,0.568504586815834
+18866,6977,Pietro Terracciano,Fiorentina,GK,7,627,0,0.0,0,0.0167427938431501,0,1,0,0,0,0.0,0.557464336976409,0.5407215412706137
+18867,6977,Pietro Terracciano,Fiorentina,GK S,13,1151,0,0.0,0,0.0,0,0,0,0,0,0.0,3.513696577399969,3.513696577399969
+18868,6977,Pietro Terracciano,Fiorentina,GK S,4,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0880728624761104,0.0880728624761104

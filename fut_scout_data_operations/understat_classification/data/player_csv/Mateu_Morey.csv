@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15495,8070,Mateu Morey,Borussia Dortmund,D S,5,196,0,0.5200632810592651,1,0.2953760623931885,2,1,0,0,0,0.5200632810592651,1.4445197619497776,0.629080418497324
+15496,8070,Mateu Morey,Borussia Dortmund,D S,13,842,0,0.09144536126405,2,0.9053364358842372,2,7,1,0,0,0.09144536126405,5.561501860618591,5.409184679389

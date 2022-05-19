@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17894,7198,Oliver Skipp,Tottenham,M S,8,207,0,0.057319501414895,0,0.0285570286214351,2,1,0,0,0,0.057319501414895,0.4829076752066612,0.4829076752066612
+17895,7198,Oliver Skipp,Tottenham,M S,13,1036,0,0.0789750963449478,0,0.4244561903178692,2,4,5,0,0,0.0789750963449478,2.36766155064106,1.8642302192747595
+17896,7198,Oliver Skipp,Tottenham,M S,7,70,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

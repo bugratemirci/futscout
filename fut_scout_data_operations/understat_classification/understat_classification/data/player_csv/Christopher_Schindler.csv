@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4282,6031,Christopher Schindler,Huddersfield,D,37,3269,0,0.7634111996740103,1,2.446706094779074,10,9,6,1,0,0.7634111996740103,4.538166689686477,3.743956960737705
+4283,6031,Christopher Schindler,Huddersfield,D,37,3266,1,1.0413239188492298,0,0.4046871960163116,13,2,4,1,1,1.0413239188492298,3.203480489552021,2.518889032304287

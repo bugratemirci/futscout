@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5799,2174,Diego Mariño,Sporting Gijon,GK,2,180,0,0.0,0,0.0200961697846651,0,1,0,0,0,0.0,0.5580670237541199,0.5379708409309387
+5800,2174,Diego Mariño,Levante,GK,32,2880,0,0.0,0,0.0147855523973703,0,1,1,0,0,0.0,1.3239971506409347,1.3239971506409347
+5801,2174,Diego Mariño,Levante,GK,23,2070,0,0.0,0,0.0094160726293921,0,1,1,0,0,0.0,0.8894067229703069,0.8799906568601727

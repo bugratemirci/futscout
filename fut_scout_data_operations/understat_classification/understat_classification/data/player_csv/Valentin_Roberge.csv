@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22877,4530,Valentin Roberge,Sunderland,D,1,90,0,0.2825593948364258,0,0.0,1,0,1,0,0,0.2825593948364258,0.0,0.0
+22878,4530,Valentin Roberge,Reims,D,11,921,0,0.1495334422215819,0,0.0176694318652153,4,2,3,0,0,0.1495334422215819,1.162600197829306,1.1447475142776966

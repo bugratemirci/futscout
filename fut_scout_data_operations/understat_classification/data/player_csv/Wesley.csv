@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23539,7724,Wesley,Aston Villa,S,3,14,0,0.0328821875154972,0,0.0,1,0,0,0,0,0.0328821875154972,0.118235345929861,0.0853531584143638
+23540,7724,Wesley,Aston Villa,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23541,7724,Wesley,Aston Villa,F,21,1806,5,7.270558223128319,1,0.8836160395294428,36,11,3,0,5,6.509389266371727,8.00793587975204,2.6747646359726787

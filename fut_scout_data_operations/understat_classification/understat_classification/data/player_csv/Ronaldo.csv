@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20085,2028,Ronaldo,Empoli,M S,2,88,0,0.0942473001778125,0,0.0533092319965362,6,1,1,0,0,0.0942473001778125,0.3098018020391464,0.2508139908313751

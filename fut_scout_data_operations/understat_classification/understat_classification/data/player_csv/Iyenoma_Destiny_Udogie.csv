@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10094,8831,Iyenoma Destiny Udogie,Verona,S,6,160,0,0.4777647852897644,0,0.025652103126049,1,1,1,0,0,0.4777647852897644,0.70932362601161,0.70932362601161
+10095,8831,Iyenoma Destiny Udogie,Udinese,D S,15,948,0,0.5569478459656239,0,0.1262419898994267,9,5,1,0,0,0.5569478459656239,2.782199013978243,2.31173737347126

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+337,8607,Adolfo Gaich,Benevento,F S,15,771,2,2.71655554510653,0,0.4256262071430683,24,5,1,0,2,2.71655554510653,2.529622685164213,0.1540378723293543
+338,8607,Adolfo Gaich,CSKA Moscow,F S,13,296,0,1.1756798438727856,1,1.3145547807216644,8,8,2,0,0,1.1756798438727856,2.6717444844543934,0.2734410502016544
+339,8607,Adolfo Gaich,CSKA Moscow,S,1,4,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

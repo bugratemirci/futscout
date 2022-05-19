@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13132,3383,Kévin Mayi,Brest,S,2,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13133,3383,Kévin Mayi,GFC Ajaccio,F M S,23,935,3,2.538154482841492,1,0.7845859676599503,29,4,1,0,3,2.538154482841492,3.330443187616765,0.5026792660355568

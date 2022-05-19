@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+111,3545,Abdoulaye Diallo,Rennes,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.078077046200633,0.078077046200633
+112,3545,Abdoulaye Diallo,Rennes,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.452257327735424,0.452257327735424
+113,3545,Abdoulaye Diallo,Rennes,GK,6,497,0,0.0,0,0.0,0,0,0,0,0,0.0,0.7393611576408148,0.7393611576408148

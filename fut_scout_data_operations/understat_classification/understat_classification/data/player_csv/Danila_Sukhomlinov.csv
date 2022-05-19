@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5029,8779,Danila Sukhomlinov,FC Rostov,M S,15,593,1,0.5049074124544859,1,0.2808302007615566,12,9,4,0,1,0.5049074124544859,1.2525855600833893,0.6829883717000484
+5030,8779,Danila Sukhomlinov,FC Rostov,S,3,101,0,0.0703174918889999,0,0.0,2,0,1,0,0,0.0703174918889999,0.1315307468175888,0.0612132512032985

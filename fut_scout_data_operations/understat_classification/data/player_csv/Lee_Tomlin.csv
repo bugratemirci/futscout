@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13337,975,Lee Tomlin,Bournemouth,M S,6,298,0,0.2082293629646301,0,0.497168730944395,5,7,1,0,0,0.2082293629646301,0.7405250389128923,0.096217343583703

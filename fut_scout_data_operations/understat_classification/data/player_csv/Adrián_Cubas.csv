@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+417,4904,Adrián Cubas,Pescara,S,1,7,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+418,4904,Adrián Cubas,Nimes,M,27,2270,1,0.3502105306833982,0,0.5225258739665151,11,10,4,1,1,0.3502105306833982,5.705083752050996,5.419241702184081

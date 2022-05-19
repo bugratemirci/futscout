@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21043,2730,Sergey Karetnik,Kuban Krasnodar,S,1,19,0,0.0421638526022434,0,0.0,1,0,0,0,0,0.0421638526022434,0.0218958314508199,0.0218958314508199
+21044,2730,Sergey Karetnik,Kuban Krasnodar,M S,12,545,1,1.5344148427248,0,0.1203261418268084,12,4,0,0,1,1.5344148427248,1.89087725430727,0.2920568138360977

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2863,3443,Babacar Gueye,Paderborn,F S,3,108,0,0.6361046433448792,0,0.1054061576724052,2,2,0,0,0,0.6361046433448792,0.0232727397233247,0.0
+2864,3443,Babacar Gueye,Troyes,F S,10,589,1,2.449261233210564,2,0.5340761542320251,14,8,0,0,1,2.449261233210564,2.342743393033743,0.2792329434305429

@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13661,37,Loris Karius,Liverpool,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,1.90140113979578,1.90140113979578
+13662,37,Loris Karius,Mainz 05,GK,34,3060,0,0.0,0,0.0,0,0,1,0,0,0.0,2.97482618317008,2.97482618317008
+13663,37,Loris Karius,Union Berlin,GK S,4,290,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6107327900826931,0.6107327900826931
+13664,37,Loris Karius,Liverpool,GK,19,1710,0,0.0,0,0.0,0,0,1,0,0,0.0,4.033255411311984,4.033255411311984
+13665,37,Loris Karius,Mainz 05,GK,33,2911,0,0.0,0,0.018567644059658,0,1,1,1,0,0.0,2.943930195644498,2.943930195644498

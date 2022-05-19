@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13389,7266,Leon Dajaku,VfB Stuttgart,S,2,20,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+13390,7266,Leon Dajaku,Bayern Munich,S,2,11,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3660001158714294,0.3660001158714294
+13391,7266,Leon Dajaku,Union Berlin,S,2,34,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0290920659899711,0.0290920659899711

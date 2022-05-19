@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12875,6254,Kirill Kaplenko,FC Orenburg,S,1,22,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+12876,6254,Kirill Kaplenko,Zenit St. Petersburg,M S,2,62,0,0.0119969174265861,0,0.0,1,0,0,0,0,0.0119969174265861,0.0087481485679745,0.0087481485679745

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1724,6375,Andrea Danzi,Verona,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1725,6375,Andrea Danzi,Verona,M S,2,106,0,0.0189129393547773,0,0.0586920045316219,1,1,1,0,0,0.0189129393547773,0.4374017715454101,0.3787097632884979
+1726,6375,Andrea Danzi,Verona,M S,5,391,0,0.0,0,0.0431683324277401,0,1,1,0,0,0.0,0.2173755578696727,0.1742072217166423

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8100,9397,Gabriel Iancu,FK Akhmat,S,6,49,1,0.3614774700254202,0,0.0558789484202861,9,2,0,0,1,0.3614774700254202,0.2570085227489471,0.0931864529848098
+8101,9397,Gabriel Iancu,FK Akhmat,M S,6,175,0,0.3696003397926688,0,0.0,9,0,1,0,0,0.3696003397926688,0.8922090074047446,0.5226086662150919

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22793,399,Ulisses García,Werder Bremen,D M S,7,348,0,0.1868701875209808,1,0.9402101635932922,2,3,1,0,0,0.1868701875209808,1.5511316880583763,0.4240513369441032
+22794,399,Ulisses García,Werder Bremen,M,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+22795,399,Ulisses García,Werder Bremen,D M S,11,592,0,0.4330722875893116,1,0.9015756985172628,11,5,3,0,0,0.4330722875893116,1.1574026830494404,0.4796338714659214

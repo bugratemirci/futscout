@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22509,7761,Timur Suleymanov,Lokomotiv Moscow,F S,4,95,0,0.414521723985672,0,0.0,1,0,0,0,0,0.414521723985672,0.414521723985672,0.0
+22510,7761,Timur Suleymanov,Nizhny Novgorod,F M S,16,982,1,2.3944358727894723,1,0.676295293495059,18,9,5,0,1,1.640160535927862,2.8508255998604,1.3498045355081558

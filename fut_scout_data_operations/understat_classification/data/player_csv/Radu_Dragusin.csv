@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19027,9105,Radu Dragusin,Juventus,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+19028,9105,Radu Dragusin,Sampdoria,D S,9,359,0,0.1155090220272541,0,0.0274793207645416,2,1,1,0,0,0.1155090220272541,0.7360813729465008,0.6946021988987923

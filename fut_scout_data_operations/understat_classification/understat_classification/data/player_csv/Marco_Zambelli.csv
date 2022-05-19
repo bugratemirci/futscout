@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14942,1323,Marco Zambelli,Empoli,D S,10,390,0,0.0500447042286396,0,1.0705274976789951,1,5,1,0,0,0.0500447042286396,1.82363872975111,0.7538743251934648
+14943,1323,Marco Zambelli,Empoli,D S,19,1246,0,0.0,0,0.2191831711679697,0,3,3,0,0,0.0,2.7005119267851114,2.5021970625966787

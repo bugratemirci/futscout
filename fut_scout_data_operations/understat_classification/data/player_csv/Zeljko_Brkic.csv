@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24258,1974,Zeljko Brkic,Cagliari,GK,21,1890,0,0.0,1,0.0837291106581687,0,1,0,0,0,0.0,1.08150234259665,0.997773239389062
+24259,1974,Zeljko Brkic,Carpi,GK S,4,332,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2819469273090362,0.2819469273090362

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14701,4803,Marc-Aurele Caillard,Metz,GK S,2,91,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2765666246414184,0.2765666246414184
+14702,4803,Marc-Aurele Caillard,Guingamp,GK,21,1890,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4573391266167164,0.4573391266167164
+14703,4803,Marc-Aurele Caillard,Metz,GK S,5,361,0,0.0,0,0.0,0,0,1,0,0,0.0,0.094594357535243,0.094594357535243

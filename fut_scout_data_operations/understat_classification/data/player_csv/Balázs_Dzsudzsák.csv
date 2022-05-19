@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2910,3187,Balázs Dzsudzsák,Dinamo Moscow,M,1,46,0,0.012341920286417,0,0.3117036819458008,1,1,0,0,0,0.012341920286417,0.3240455985069275,0.0
+2911,3187,Balázs Dzsudzsák,Dinamo Moscow,M S,29,1748,7,3.609334161505103,6,5.496572848409414,46,53,1,0,7,3.609334161505103,8.905240971595049,2.448202360421419

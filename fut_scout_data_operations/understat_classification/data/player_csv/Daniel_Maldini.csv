@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4860,8163,Daniel Maldini,AC Milan,S,5,17,0,0.1779614984989166,0,0.0,1,0,0,0,0,0.1779614984989166,0.1779614984989166,0.0
+4861,8163,Daniel Maldini,AC Milan,S,2,24,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+4862,8163,Daniel Maldini,AC Milan,M S,5,120,1,0.4364453181624412,0,0.0502075776457786,2,1,1,0,1,0.4364453181624412,0.600175179541111,0.113522283732891

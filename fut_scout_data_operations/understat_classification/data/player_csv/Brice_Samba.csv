@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3547,4748,Brice Samba,Caen,GK S,4,315,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0167472977191209,0.0167472977191209
+3548,4748,Brice Samba,Caen,GK,38,3420,0,0.0,0,0.0,0,0,1,0,0,0.0,1.1080011669546366,1.1080011669546366

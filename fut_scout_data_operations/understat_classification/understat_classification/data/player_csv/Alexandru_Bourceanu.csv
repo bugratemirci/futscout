@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1330,5369,Alexandru Bourceanu,Arsenal Tula,M,13,1170,0,0.0175958704203367,0,0.2096711862832307,1,5,3,0,0,0.0175958704203367,1.1358460690826178,1.031116547062993
+1331,5369,Alexandru Bourceanu,Arsenal Tula,M S,20,1676,0,0.0689267991110682,0,0.4145518820732832,3,14,1,0,0,0.0689267991110682,4.256143137812614,3.9772725738585

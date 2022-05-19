@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1851,2931,Andrei Sinitsyn,FC Krasnodar,GK S,12,968,0,0.0,0,0.0,0,0,1,0,0,0.0,0.383029131218791,0.383029131218791
+1852,2931,Andrei Sinitsyn,Nizhny Novgorod,GK,1,90,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+1853,2931,Andrei Sinitsyn,FC Krasnodar,GK S,6,532,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1865872498601675,0.1865872498601675
+1854,2931,Andrei Sinitsyn,FC Krasnodar,GK,25,2250,0,0.0,0,0.0505160484462976,0,2,0,0,0,0.0,1.5786362932994962,1.5281202429905534
+1855,2931,Andrei Sinitsyn,FC Krasnodar,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.10780063085258,0.10780063085258
+1856,2931,Andrei Sinitsyn,FC Krasnodar,GK S,5,425,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1205234788358211,0.1205234788358211

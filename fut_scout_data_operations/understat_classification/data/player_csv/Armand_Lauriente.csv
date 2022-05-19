@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2466,6697,Armand Lauriente,Lorient,F M S,29,1616,3,3.3867620080709457,5,5.295001839287579,58,38,4,0,3,3.3867620080709457,10.16346642188728,4.170085542835295
+2467,6697,Armand Lauriente,Rennes,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2468,6697,Armand Lauriente,Lorient,F S,15,993,4,2.695480700582266,0,0.632388524711132,28,13,1,0,3,1.9353856109082697,3.05575480312109,1.207665603607893

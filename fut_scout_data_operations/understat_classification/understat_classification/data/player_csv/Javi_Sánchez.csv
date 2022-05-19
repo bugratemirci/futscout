@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10602,7245,Javi Sánchez,Real Valladolid,D S,16,922,0,0.0858645979315042,0,0.0757565218955278,3,3,3,0,0,0.0858645979315042,0.4660817603580653,0.4308131239376962
+10603,7245,Javi Sánchez,Real Valladolid,D S,8,499,0,0.2503386791795492,1,0.0709444433450698,3,1,1,0,0,0.2503386791795492,0.4604382794350385,0.4604382794350385
+10604,7245,Javi Sánchez,Real Madrid,S,1,45,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0

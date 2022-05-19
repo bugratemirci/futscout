@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14615,9702,Manuel Riemann,Bochum,GK,14,1260,0,0.75777667760849,0,0.0292268646880984,1,2,2,0,0,0.0,1.7490933407098057,1.719866474159062

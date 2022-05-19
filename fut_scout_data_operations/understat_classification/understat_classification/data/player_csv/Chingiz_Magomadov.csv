@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4066,5528,Chingiz Magomadov,Ural,D,1,90,0,0.0255979429930448,0,0.0401064231991767,2,1,1,0,0,0.0255979429930448,0.1041275188326835,0.050906915217638
+4067,5528,Chingiz Magomadov,Ural,S,2,68,0,0.0,0,0.0,0,0,1,0,0,0.0,0.259442925453186,0.259442925453186

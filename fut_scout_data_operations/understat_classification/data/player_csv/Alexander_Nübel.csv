@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1242,2639,Alexander Nübel,Schalke 04,GK,18,1589,0,0.0,0,0.0,0,0,1,1,0,0.0,1.2284246729686856,1.2284246729686856
+1243,2639,Alexander Nübel,Monaco,GK,18,1620,0,0.0,0,0.0,0,0,0,0,0,0.0,2.04076586291194,2.04076586291194
+1244,2639,Alexander Nübel,Schalke 04,GK,26,2319,0,0.0,0,0.0,0,0,1,1,0,0.0,1.683960447087884,1.683960447087884
+1245,2639,Alexander Nübel,Schalke 04,S,1,43,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1246,2639,Alexander Nübel,Schalke 04,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+1247,2639,Alexander Nübel,Bayern Munich,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0925398170948028,0.0925398170948028

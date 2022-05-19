@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10080,5157,Iván Márquez,Osasuna,D,4,360,0,0.0,1,0.0576193481683731,0,1,4,0,0,0.0,0.1558858454227447,0.1558858454227447

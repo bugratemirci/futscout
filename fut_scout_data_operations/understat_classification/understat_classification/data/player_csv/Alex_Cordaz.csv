@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1119,1351,Alex Cordaz,Crotone,GK,38,3420,0,0.0,0,0.1785324178636074,0,2,2,0,0,0.0,1.6063634441234171,1.4278310178779066
+1120,1351,Alex Cordaz,Crotone,GK,36,3240,0,0.0,0,0.0089352335780859,0,1,1,0,0,0.0,2.7494118828326464,2.7404766492545605
+1121,1351,Alex Cordaz,Crotone,GK,36,3237,0,0.0,0,0.0,0,0,2,1,0,0.0,1.1483843075111508,1.1483843075111508

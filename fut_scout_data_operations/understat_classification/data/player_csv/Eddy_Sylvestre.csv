@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6297,7329,Eddy Sylvestre,Nice,F S,4,97,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0949225910007953,0.0949225910007953
+6298,7329,Eddy Sylvestre,Nice,F S,5,270,0,0.5927978008985519,1,0.1170043498277664,2,2,0,0,0,0.5927978008985519,1.3401241842657328,0.6303220633417368
+6299,7329,Eddy Sylvestre,Nice,S,1,33,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0502915754914283,0.0502915754914283

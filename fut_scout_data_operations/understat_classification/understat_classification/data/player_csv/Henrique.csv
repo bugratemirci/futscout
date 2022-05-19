@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9223,9778,Henrique,Lyon,D M S,4,215,0,0.0,0,0.0313763581216335,0,1,0,0,0,0.0,0.2964604161679744,0.2650840580463409
+9224,2030,Henrique,Napoli,D S,11,816,0,0.208020294085145,1,0.4608601108193397,4,3,2,1,0,0.208020294085145,2.505545354448259,2.1111231660470366

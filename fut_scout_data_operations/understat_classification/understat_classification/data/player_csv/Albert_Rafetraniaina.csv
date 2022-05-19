@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+575,3778,Albert Rafetraniaina,Nice,M S,21,980,0,0.0923403361812233,0,0.398745758458972,6,4,3,0,0,0.0923403361812233,2.1875239657238126,1.7772929463535547
+576,3778,Albert Rafetraniaina,Nice,S,1,1,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0

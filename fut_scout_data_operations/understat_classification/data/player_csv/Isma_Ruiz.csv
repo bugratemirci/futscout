@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9846,9111,Isma Ruiz,Granada,M,1,69,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9847,9111,Isma Ruiz,Granada,S,2,34,0,0.0319279916584491,0,0.0,1,0,0,0,0,0.0319279916584491,0.1306172907352447,0.1306172907352447

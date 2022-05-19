@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20415,2777,Saeid Ezatolahi,FC Rostov,S,1,8,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+20416,2777,Saeid Ezatolahi,Amkar,M S,15,999,1,1.2224306678399444,0,0.6035805344581604,20,5,4,0,1,1.2224306678399444,2.168276817537844,1.623598820529878
+20417,2777,Saeid Ezatolahi,"Anzhi Makhachkala,FC Rostov",M S,20,912,1,1.2245595855638385,0,0.2673730961978435,21,7,3,1,1,1.2245595855638385,1.6280031641945245,0.6809308910742402

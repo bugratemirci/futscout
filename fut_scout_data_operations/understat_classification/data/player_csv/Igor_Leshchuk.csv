@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9611,2759,Igor Leshchuk,Dinamo Moscow,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1223428137600421,0.1223428137600421
+9612,2759,Igor Leshchuk,Dinamo Moscow,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9613,2759,Igor Leshchuk,Dinamo Moscow,GK S,8,707,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2244835840538144,0.2244835840538144

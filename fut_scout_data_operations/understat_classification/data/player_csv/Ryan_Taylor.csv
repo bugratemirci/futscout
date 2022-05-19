@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20318,4404,Ryan Taylor,Newcastle United,D M S,14,909,0,0.6939946431666613,1,0.8286028914153576,16,14,3,0,0,0.6939946431666613,0.6176115050911903,0.4123231060802936

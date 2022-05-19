@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21384,6597,Simon Asta,Greuther Fuerth,D S,3,172,0,0.0,0,0.0192390624433755,0,1,0,0,0,0.0,0.4132571518421173,0.3940180912613868
+21385,6597,Simon Asta,Augsburg,S,1,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21386,6597,Simon Asta,Augsburg,D,1,90,0,0.0451817698776721,0,0.0,2,0,1,0,0,0.0451817698776721,0.0451817698776721,0.0

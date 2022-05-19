@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23061,1908,Vid Belec,Salernitana,GK,17,1530,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4810005575418472,0.4810005575418472
+23062,1908,Vid Belec,Carpi,GK,30,2700,0,0.0,0,0.0,0,0,1,0,0,0.0,1.042936036363244,1.042936036363244
+23063,1908,Vid Belec,"Benevento,Sampdoria",GK,15,1293,0,0.0,0,0.0174171645194292,0,1,1,1,0,0.0,0.6554939681664109,0.6380768036469817

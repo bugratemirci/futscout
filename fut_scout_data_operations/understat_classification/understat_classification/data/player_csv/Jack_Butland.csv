@@ -1,0 +1,6 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10133,856,Jack Butland,Stoke,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0675305873155593,0.0675305873155593
+10134,856,Jack Butland,Stoke,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,1.2550196442753077,1.2550196442753077
+10135,856,Jack Butland,Stoke,GK,35,3150,0,0.0,0,0.0240447223186492,0,1,0,0,0,0.0,1.5365939028561115,1.5125491805374622
+10136,856,Jack Butland,Crystal Palace,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10137,856,Jack Butland,Stoke,GK,31,2790,0,0.0,0,0.0282734185457229,0,1,0,0,0,0.0,2.104469575919211,2.076196157373488

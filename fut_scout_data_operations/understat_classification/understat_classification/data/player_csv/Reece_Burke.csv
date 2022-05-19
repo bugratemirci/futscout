@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19321,1771,Reece Burke,West Ham,D S,5,417,0,0.1679459810256958,0,0.0650555416941642,4,1,0,0,0,0.1679459810256958,0.1157592870295047,0.0540378168225288

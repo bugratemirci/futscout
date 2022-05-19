@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21781,4255,Stefanos Kapino,Mainz 05,GK S,2,147,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2787611484527588,0.2787611484527588
+21782,4255,Stefanos Kapino,Werder Bremen,S,1,44,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21783,4255,Stefanos Kapino,Werder Bremen,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4677780866622925,0.4677780866622925

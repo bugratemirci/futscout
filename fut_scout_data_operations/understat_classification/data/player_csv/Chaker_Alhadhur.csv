@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3925,3534,Chaker Alhadhur,Caen,D S,10,786,0,0.0,0,0.0827686572447419,0,4,2,0,0,0.0,0.6352064907550812,0.5675269961357117
+3926,3534,Chaker Alhadhur,Nantes,D S,15,1101,0,0.8357488047331572,0,0.5361144840717316,6,5,3,1,0,0.0756536480039358,1.58727796562016,1.3891003243625164

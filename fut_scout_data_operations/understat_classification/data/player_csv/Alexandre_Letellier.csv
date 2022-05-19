@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1309,3485,Alexandre Letellier,Angers,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.187796413898468,0.187796413898468
+1310,3485,Alexandre Letellier,Angers,GK,17,1530,0,0.0,0,0.0637024603784084,0,2,1,0,0,0.0,0.536383718252182,0.4726812578737736
+1311,3485,Alexandre Letellier,Angers,GK,13,1170,0,0.0,0,0.0,0,0,0,0,0,0.0,2.0579937882721424,2.0579937882721424

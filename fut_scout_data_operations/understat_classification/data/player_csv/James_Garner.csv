@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10305,7438,James Garner,Manchester United,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10306,7438,James Garner,Manchester United,S,1,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0362557768821716,0.0362557768821716

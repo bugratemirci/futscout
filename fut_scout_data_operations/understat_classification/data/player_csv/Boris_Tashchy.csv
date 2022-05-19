@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3355,68,Boris Tashchy,VfB Stuttgart,S,9,142,0,0.1008642017841339,0,0.0362546257674694,2,1,0,0,0,0.1008642017841339,0.0755737870931625,0.0755737870931625

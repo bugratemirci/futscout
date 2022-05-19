@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+853,5895,Aleksandr Makarov,"CSKA Moscow,Tosno",D S,7,158,0,0.1013179495930671,0,0.4269889593124389,2,3,1,1,0,0.1013179495930671,0.5735864909365773,0.0452795885503292

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2628,455,Artur Boruc,Bournemouth,GK,32,2880,0,0.0,0,0.0938414558768272,0,1,2,0,0,0.0,2.945115691050887,2.945115691050887
+2629,455,Artur Boruc,Bournemouth,GK,35,3150,0,0.0,0,0.0229060817509889,0,1,2,0,0,0.0,2.689791745506227,2.666885665617883
+2630,455,Artur Boruc,Bournemouth,GK,12,1080,0,0.0,0,0.0,0,0,2,0,0,0.0,1.5033307075500488,1.5033307075500488

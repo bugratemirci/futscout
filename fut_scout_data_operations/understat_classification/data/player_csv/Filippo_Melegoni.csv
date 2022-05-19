@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7655,4959,Filippo Melegoni,Atalanta,M,1,47,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+7656,4959,Filippo Melegoni,Genoa,D M S,14,376,0,0.4740241840481758,0,0.3352485299110412,4,4,1,0,0,0.4740241840481758,0.8327359966933727,0.252906110137701
+7657,4959,Filippo Melegoni,Genoa,M S,5,135,0,0.0174880530685186,0,0.0695872642099857,1,2,0,0,0,0.0174880530685186,0.3787285983562469,0.324078768491745

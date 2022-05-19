@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+616,2209,Alberto Lora,Sporting Gijon,D S,7,373,0,0.0321759856306016,0,0.0,3,0,0,1,0,0.0321759856306016,0.1403741654939949,0.1326799392700195
+617,2209,Alberto Lora,Sporting Gijon,D M S,31,2412,0,0.1450546812266111,4,2.544518070295453,7,21,7,0,0,0.1450546812266111,5.391201397404075,4.089940435253084

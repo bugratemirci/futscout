@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23298,5428,Vladimir Parnyakov,FC Orenburg,M S,9,678,0,0.254671711474657,0,0.5187848024070263,5,4,2,0,0,0.254671711474657,1.2898305281996727,0.578066498041153

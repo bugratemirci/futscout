@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10605,2367,Javi Varas,Las Palmas,GK,31,2710,0,0.0,0,0.0,0,0,1,1,0,0.0,3.055488124489784,3.055488124489784
+10606,2367,Javi Varas,Las Palmas,GK,25,2250,0,0.0,0,0.0,0,0,0,0,0,0.0,1.858342416584492,1.858342416584492

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5707,2373,Diego Alves,Valencia,GK,13,1170,0,0.0,0,0.0,0,0,1,0,0,0.0,1.0916659720242023,1.0916659720242023
+5708,2373,Diego Alves,Valencia,GK,37,3313,0,0.0,0,0.2331199552863836,0,2,4,0,0,0.0,2.4051820784807205,2.172062123194337
+5709,2373,Diego Alves,Valencia,GK,33,2970,0,0.0,0,0.3046630620956421,0,1,4,0,0,0.0,3.697791054844856,3.393127992749214

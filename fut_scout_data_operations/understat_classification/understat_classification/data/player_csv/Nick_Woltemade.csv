@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17272,8117,Nick Woltemade,Werder Bremen,M S,6,138,0,0.3291265107691288,0,0.1195883769541978,5,3,1,0,0,0.3291265107691288,0.5930240489542484,0.1443091407418251
+17273,8117,Nick Woltemade,Werder Bremen,F S,5,86,0,0.0234666857868433,0,0.0608486859127879,1,2,0,0,0,0.0234666857868433,0.0328577058389782,0.0

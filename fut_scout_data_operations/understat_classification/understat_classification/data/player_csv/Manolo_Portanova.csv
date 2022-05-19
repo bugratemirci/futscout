@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14515,7625,Manolo Portanova,"Genoa,Juventus",M S,5,132,0,0.5161369717679918,0,0.0,6,0,1,0,0,0.5161369717679918,0.7442462928593159,0.3092914707958698
+14516,7625,Manolo Portanova,Juventus,S,1,32,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+14517,7625,Manolo Portanova,Genoa,S,4,86,0,0.0071426751092076,0,0.0,1,0,0,0,0,0.0071426751092076,0.0071426751092076,0.0

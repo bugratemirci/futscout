@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10025,2992,Ivan Taranov,Krylya Sovetov Samara,D S,21,1764,0,0.4180611819028854,0,0.2238618470728397,11,9,7,0,0,0.4180611819028854,3.275410559028387,3.161703374236822
+10026,2992,Ivan Taranov,Krylya Sovetov Samara,D,26,2294,1,1.3002976588904858,1,0.4248810559511184,12,6,6,0,1,1.3002976588904858,3.080497052520513,2.6542652808129787

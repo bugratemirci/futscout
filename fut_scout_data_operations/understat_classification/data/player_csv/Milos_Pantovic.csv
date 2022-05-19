@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16542,378,Milos Pantovic,Bochum,F M S,12,534,2,1.148422434926033,1,1.80325572565198,7,7,0,0,2,1.148422434926033,2.913809098303318,0.3800548370927572
+16543,378,Milos Pantovic,Bayern Munich,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

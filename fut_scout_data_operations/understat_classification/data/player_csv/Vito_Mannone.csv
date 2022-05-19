@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23219,726,Vito Mannone,Monaco,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,2.014022283256054,2.014022283256054
+23220,726,Vito Mannone,Sunderland,GK,19,1710,0,0.0,0,0.0,0,0,2,0,0,0.0,0.20777378231287,0.20777378231287
+23221,726,Vito Mannone,Sunderland,GK,10,900,0,0.0,0,0.0431760624051094,0,1,0,0,0,0.0,0.6401904504746199,0.5970143880695105
+23222,726,Vito Mannone,Sunderland,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

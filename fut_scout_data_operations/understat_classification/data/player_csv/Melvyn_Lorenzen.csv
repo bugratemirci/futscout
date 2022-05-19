@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16141,121,Melvyn Lorenzen,Werder Bremen,M S,9,139,0,0.1094950959086418,0,0.0,1,0,0,0,0,0.1094950959086418,0.1414748653769493,0.0319797694683074
+16142,121,Melvyn Lorenzen,Werder Bremen,F S,3,146,1,0.1763654761016369,0,0.0408324934542179,2,2,0,0,1,0.1763654761016369,0.6125109195709229,0.3953129351139068

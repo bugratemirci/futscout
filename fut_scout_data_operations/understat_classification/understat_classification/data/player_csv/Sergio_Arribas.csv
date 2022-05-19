@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21142,5194,Sergio Arribas,Leganes,S,1,22,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+21143,8862,Sergio Arribas,Real Madrid,S,8,123,0,0.027904437854886,0,0.0507846437394619,1,1,1,0,0,0.027904437854886,1.232134135439992,1.153445079922676

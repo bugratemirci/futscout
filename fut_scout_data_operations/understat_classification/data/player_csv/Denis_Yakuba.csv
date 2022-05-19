@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5608,3050,Denis Yakuba,Kuban Krasnodar,M S,13,1096,0,0.1053682835772633,1,0.6775576509535313,6,10,3,0,0,0.1053682835772633,2.0903599206358194,1.8456824496388435
+5609,3050,Denis Yakuba,Krylya Sovetov Samara,M S,10,303,0,0.0956366509199142,0,0.2743668183684349,3,5,2,0,0,0.0956366509199142,1.1979177854955196,0.9934860058128834

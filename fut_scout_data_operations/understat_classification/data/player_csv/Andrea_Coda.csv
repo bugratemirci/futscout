@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1701,1530,Andrea Coda,Pescara,D S,13,1008,0,0.3806754369288683,0,0.070488890632987,3,2,6,1,0,0.3806754369288683,1.3950991798192265,1.317751083523035
+1702,1530,Andrea Coda,Sampdoria,D S,4,117,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0624077208340168,0.0624077208340168
+1703,1530,Andrea Coda,Sampdoria,S,2,59,0,0.0,0,0.0306744184345006,0,1,1,0,0,0.0,0.0306744184345006,0.0

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7063,7030,Fabian Bredlow,VfB Stuttgart,GK,4,360,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5360391102731228,0.5360391102731228
+7064,7030,Fabian Bredlow,VfB Stuttgart,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6642634272575378,0.6642634272575378
+7065,7030,Fabian Bredlow,Nuernberg,GK S,13,1127,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1091578379273417,1.1091578379273417

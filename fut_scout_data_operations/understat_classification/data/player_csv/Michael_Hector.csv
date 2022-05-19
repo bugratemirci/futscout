@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16222,5274,Michael Hector,Eintracht Frankfurt,D S,22,1358,1,0.3060885267332196,0,0.0,7,0,4,1,1,0.3060885267332196,2.013700060546398,1.8874716758728027
+16223,5274,Michael Hector,Fulham,D S,4,266,0,0.0863973423838615,0,0.0194981582462787,1,1,2,0,0,0.0863973423838615,0.4653734043240547,0.4458752647042274

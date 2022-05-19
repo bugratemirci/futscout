@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12863,6704,Kingsley Michael,Bologna,M S,2,81,0,0.0107261594384908,0,0.0,1,0,0,0,0,0.0107261594384908,0.1095143985003233,0.0987882446497678
+12864,6704,Kingsley Michael,Bologna,M,1,79,0,0.0,0,0.1346753090620041,0,1,0,0,0,0.0,0.2464341074228286,0.2464341074228286

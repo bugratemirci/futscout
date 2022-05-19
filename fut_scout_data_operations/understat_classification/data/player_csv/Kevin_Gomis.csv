@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12617,3722,Kevin Gomis,Nice,D S,3,178,0,0.0,0,0.1395301073789596,0,2,0,0,0,0.0,0.2677683234214782,0.2677683234214782
+12618,3722,Kevin Gomis,Nice,D S,16,1189,0,0.3039697408676147,0,0.0141771845519542,1,1,3,1,0,0.3039697408676147,2.159308366477489,2.145131181925535

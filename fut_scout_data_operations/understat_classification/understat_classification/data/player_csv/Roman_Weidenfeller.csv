@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20041,325,Roman Weidenfeller,Borussia Dortmund,GK S,2,91,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+20042,325,Roman Weidenfeller,Borussia Dortmund,GK,25,2250,0,0.0,0,0.0,0,0,0,0,0,0.0,1.1712424205616117,1.1712424205616117
+20043,325,Roman Weidenfeller,Borussia Dortmund,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,1.0831219255924225,1.0831219255924225
+20044,325,Roman Weidenfeller,Borussia Dortmund,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

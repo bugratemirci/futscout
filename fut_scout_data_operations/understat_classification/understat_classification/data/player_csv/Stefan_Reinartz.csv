@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21714,286,Stefan Reinartz,Bayer Leverkusen,M S,17,960,1,0.8425863301381469,0,0.9348327610641718,16,11,2,0,1,0.8425863301381469,3.082213915884495,2.1587105859071016
+21715,286,Stefan Reinartz,Eintracht Frankfurt,M S,15,1198,1,0.4931956548243761,1,0.7822554865851998,8,8,2,0,1,0.4931956548243761,4.42861461173743,3.3055341131985188

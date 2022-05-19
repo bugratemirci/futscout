@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2692,1675,Ashley Fletcher,Watford,S,3,24,0,0.4376538190990686,0,0.0,2,0,0,0,0,0.4376538190990686,0.4376538190990686,0.0
+2693,1675,Ashley Fletcher,West Ham,F S,16,329,0,1.03699953481555,0,0.3355152904987335,9,4,2,0,0,1.03699953481555,1.5228869579732418,0.2279279585927724

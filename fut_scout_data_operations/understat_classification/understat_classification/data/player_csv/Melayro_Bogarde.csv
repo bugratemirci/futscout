@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16135,8192,Melayro Bogarde,Hoffenheim,D S,2,49,0,0.0417272187769413,0,0.0,1,0,1,0,0,0.0417272187769413,0.0,0.0
+16136,8192,Melayro Bogarde,Hoffenheim,D S,9,272,0,0.1065627094358205,1,0.1982034891843795,4,5,1,0,0,0.1065627094358205,0.8018709272146225,0.5660993494093418

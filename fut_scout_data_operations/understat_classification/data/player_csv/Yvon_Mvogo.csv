@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24201,6110,Yvon Mvogo,RasenBallsport Leipzig,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1059203073382377,0.1059203073382377
+24202,6110,Yvon Mvogo,RasenBallsport Leipzig,GK S,2,130,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+24203,6110,Yvon Mvogo,RasenBallsport Leipzig,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6623524129390717,0.6623524129390717

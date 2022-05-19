@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+295,2474,Aderlan Santos,Valencia,D S,12,1000,0,0.1400329023599624,0,0.0,2,0,1,0,0,0.1400329023599624,0.7033656090497971,0.7033656090497971
+296,2474,Aderlan Santos,Valencia,D,17,1520,0,0.9548511672765015,0,0.0334661118686199,7,1,0,1,0,0.9548511672765015,1.6924705421552062,1.6348375780507922

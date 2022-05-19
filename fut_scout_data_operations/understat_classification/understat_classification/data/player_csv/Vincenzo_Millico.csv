@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23160,6460,Vincenzo Millico,Torino,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23161,6460,Vincenzo Millico,Torino,S,3,16,0,0.0,0,0.0227063223719596,0,1,0,0,0,0.0,0.0,0.0
+23162,6460,Vincenzo Millico,Torino,S,11,185,0,0.1289127953350544,0,0.2512038610875606,6,3,0,0,0,0.1289127953350544,0.6496906466782093,0.3125213459134102

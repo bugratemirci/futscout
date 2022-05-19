@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24115,3127,Yura Movsisyan,Spartak Moscow,F S,11,673,3,2.58721474558115,2,1.6066320464015007,16,10,1,0,3,2.58721474558115,4.819065049290657,0.9102336019277572
+24116,3127,Yura Movsisyan,Spartak Moscow,F S,16,828,2,4.173825979232788,3,1.4943212624639273,26,7,1,0,2,4.173825979232788,5.421166226267815,0.7620828337967396

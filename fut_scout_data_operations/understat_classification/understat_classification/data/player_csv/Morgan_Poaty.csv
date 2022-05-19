@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16743,5791,Morgan Poaty,Montpellier,D,1,90,0,0.0200670100748538,0,0.0818190351128578,1,1,0,0,0,0.0200670100748538,0.101886048913002,0.0
+16744,5791,Morgan Poaty,Montpellier,D S,3,46,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0675424858927726,0.0675424858927726
+16745,5791,Morgan Poaty,Montpellier,D M S,3,171,0,0.0,0,0.0401507467031478,0,1,1,0,0,0.0,0.1386203318834304,0.098469577729702

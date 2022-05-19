@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18176,5317,Pal Dardai,Hertha Berlin,S,2,24,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0
+18177,5317,Pal Dardai,Hertha Berlin,M S,7,106,0,0.0305982250720262,0,0.419380190782249,1,3,0,0,0,0.0305982250720262,0.5573658086359501,0.2086267471313476

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20339,3398,Rémy Riou,Nantes,GK,32,2880,0,0.0,0,0.0,0,0,2,0,0,0.0,0.8867646222934127,0.8867646222934127
+20340,3398,Rémy Riou,Nantes,GK,22,1980,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5552321886643767,0.5552321886643767
+20341,3398,Rémy Riou,Nantes,GK,31,2790,0,0.0,0,0.0136405266821384,0,1,2,0,0,0.0,1.8412505220621824,1.827609995380044

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1238,5821,Alexander Merkel,Udinese,M,1,59,0,0.0084571819752454,0,0.0473563559353351,1,1,1,0,0,0.0084571819752454,0.0653617978096008,0.0095482561737298

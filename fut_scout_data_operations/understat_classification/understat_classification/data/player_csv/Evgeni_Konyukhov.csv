@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6971,3007,Evgeni Konyukhov,Krylya Sovetov Samara,GK,16,1377,0,0.0,0,0.0,0,0,1,0,0,0.0,0.430926626548171,0.430926626548171
+6972,3007,Evgeni Konyukhov,Krylya Sovetov Samara,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1238738149404525,0.1238738149404525
+6973,3007,Evgeni Konyukhov,Krylya Sovetov Samara,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0518085109069943,0.0518085109069943

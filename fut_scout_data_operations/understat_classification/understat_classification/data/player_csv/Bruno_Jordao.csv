@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3595,6336,Bruno Jordao,Wolverhampton Wanderers,S,1,1,0,0.0,0,0.0461256131529808,0,1,0,0,0,0.0,0.0,0.0
+3596,6336,Bruno Jordao,Lazio,M S,3,85,0,0.0091972295194864,0,0.0225506257265806,1,1,0,0,0,0.0091972295194864,0.1354471649974584,0.1128965392708778

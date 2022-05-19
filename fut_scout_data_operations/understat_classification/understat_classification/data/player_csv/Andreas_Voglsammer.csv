@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1831,9128,Andreas Voglsammer,Union Berlin,F S,15,261,1,0.6899517439305782,1,0.7302983291447163,12,5,0,0,1,0.6899517439305782,1.5076729729771614,0.3445858247578144
+1832,9128,Andreas Voglsammer,Arminia Bielefeld,F M S,18,1010,2,3.829120598733425,2,2.2063317075371742,32,12,1,0,2,3.829120598733425,5.662306748330593,0.5737434811890125

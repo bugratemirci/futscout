@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11248,5179,Jon Guridi,Real Sociedad,S,1,6,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11249,5179,Jon Guridi,Real Sociedad,M S,17,825,0,0.7070416510105133,1,0.8434659671038389,8,4,2,0,0,0.7070416510105133,4.988990984857082,4.268719485029578
+11250,5179,Jon Guridi,Real Sociedad,S,4,47,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0892504379153251,0.0892504379153251
+11251,5179,Jon Guridi,Real Sociedad,M,1,75,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0408892333507537,0.0408892333507537

@@ -1,0 +1,7 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1815,5260,Andreas Luthe,Augsburg,GK,10,900,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1652454612776637,0.1652454612776637
+1816,5260,Andreas Luthe,Union Berlin,GK,31,2770,0,0.0,0,0.0,0,0,1,0,0,0.0,2.496423464268446,2.496423464268446
+1817,5260,Andreas Luthe,Augsburg,GK S,15,1311,0,0.0,0,0.0,0,0,0,0,0,0.0,1.5235715210437777,1.5235715210437777
+1818,5260,Andreas Luthe,Union Berlin,GK,15,1350,0,0.0,0,0.0,0,0,2,0,0,0.0,1.5335728228092194,1.5335728228092194
+1819,5260,Andreas Luthe,Augsburg,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1202309429645538,0.1202309429645538
+1820,5260,Andreas Luthe,Augsburg,GK,2,180,0,0.0,0,0.0654489174485206,0,2,0,0,0,0.0,0.0454034358263015,0.0

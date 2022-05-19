@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13512,4495,Liam Moore,Leicester,D S,11,934,0,0.7805146910250187,0,0.0113374395295977,4,1,4,0,0,0.7805146910250187,1.110407947562635,0.459401149302721

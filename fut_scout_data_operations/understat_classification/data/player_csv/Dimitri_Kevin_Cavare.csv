@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5851,4833,Dimitri Kevin Cavare,Lens,D S,20,1477,0,0.1183142093941569,1,0.9048805022612214,6,11,1,0,0,0.1183142093941569,2.6621938571333885,2.04522199742496
+5852,4833,Dimitri Kevin Cavare,Rennes,D S,2,103,0,0.0,0,0.0,0,0,0,0,0,0.0,0.7859792113304138,0.7859792113304138

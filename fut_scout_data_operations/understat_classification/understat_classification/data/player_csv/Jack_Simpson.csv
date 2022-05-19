@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10164,6410,Jack Simpson,Bournemouth,D S,4,237,0,0.0118187516927719,0,0.0346853211522102,1,1,0,0,0,0.0118187516927719,0.0465040728449821,0.0
+10165,6410,Jack Simpson,Bournemouth,D,1,74,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10166,6410,Jack Simpson,Bournemouth,D S,6,407,0,0.36937708966434,0,0.0,2,0,0,0,0,0.36937708966434,0.3487298227846622,0.3487298227846622

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20241,10153,Ruslan Apekov,FC Krasnodar,S,1,6,0,0.0859873071312904,0,0.0582173690199852,1,1,1,0,0,0.0859873071312904,0.1442046761512756,0.0

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19612,3142,Robert Arzumanyan,Amkar,D,5,392,0,0.0074960179626941,0,0.0,1,0,0,0,0,0.0074960179626941,0.1170867197215557,0.1095907017588615
+19613,3142,Robert Arzumanyan,Amkar,D,8,720,0,0.1174064315855503,0,0.0113002192229032,3,1,2,0,0,0.1174064315855503,1.1200586538761854,1.096805391833186

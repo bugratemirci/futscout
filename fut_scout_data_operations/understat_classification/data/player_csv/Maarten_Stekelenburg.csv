@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14288,846,Maarten Stekelenburg,Monaco,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14289,846,Maarten Stekelenburg,Southampton,GK,17,1530,0,0.0,0,0.0363661609590053,0,1,0,0,0,0.0,2.495348421856761,2.458982260897756
+14290,846,Maarten Stekelenburg,Everton,GK,19,1685,0,0.0,0,0.0,0,0,2,0,0,0.0,1.2054533530026674,1.2054533530026674

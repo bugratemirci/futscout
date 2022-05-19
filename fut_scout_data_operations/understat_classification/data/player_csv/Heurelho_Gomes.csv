@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9256,564,Heurelho Gomes,Watford,GK,38,3398,0,0.0,0,0.0,0,0,4,0,0,0.0,1.291654913686216,1.291654913686216
+9257,564,Heurelho Gomes,Watford,GK,24,2130,0,0.0,0,0.0,0,0,0,0,0,0.0,1.597456470131874,1.597456470131874
+9258,564,Heurelho Gomes,Watford,GK,38,3339,0,0.0,0,0.0404191650450229,0,1,1,0,0,0.0,0.7291132090613246,0.7291132090613246

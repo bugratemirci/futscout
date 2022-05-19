@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9605,5433,Igor Koronov,FC Orenburg,F M S,17,1010,0,0.6036210544407368,1,0.9047647453844548,9,16,3,0,0,0.6036210544407368,1.4563129507005217,0.5082831382751465

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2337,5178,Antonio Moya,Atletico Madrid,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2338,5178,Antonio Moya,Atletico Madrid,S,1,3,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2339,5178,Antonio Moya,Alaves,M S,15,833,0,0.8250794187188148,1,1.8227754179388285,8,16,2,0,0,0.8250794187188148,1.5774616645649076,0.7830137303099036
+2340,5178,Antonio Moya,Atletico Madrid,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.5115107893943787,0.5115107893943787

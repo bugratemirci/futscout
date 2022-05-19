@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+13267,8341,Lazar Samardzic,Udinese,S,10,123,1,0.3185806255787611,1,0.6054135877639055,7,6,0,0,1,0.3185806255787611,0.6755261924117804,0.3815374989062547
+13268,8341,Lazar Samardzic,RasenBallsport Leipzig,M S,7,193,0,0.017733035609126,1,0.7930979710072279,1,3,0,0,0,0.017733035609126,1.0074224919080734,0.2074348330497741
+13269,8341,Lazar Samardzic,Hertha Berlin,S,3,37,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

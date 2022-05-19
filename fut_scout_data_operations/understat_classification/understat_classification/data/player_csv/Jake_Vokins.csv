@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10258,8493,Jake Vokins,Southampton,D,1,69,0,0.0,0,0.0370409600436687,0,1,0,0,0,0.0,0.172543928027153,0.1355029791593551
+10259,8493,Jake Vokins,Southampton,D,1,90,0,0.0132841616868972,0,0.0965957269072532,1,1,0,0,0,0.0132841616868972,0.5018613934516907,0.4885772168636322

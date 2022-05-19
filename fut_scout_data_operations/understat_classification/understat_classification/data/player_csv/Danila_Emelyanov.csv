@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5020,7635,Danila Emelyanov,FC Ufa,M S,11,612,0,0.9621172593906522,0,0.4861434735357761,14,8,2,0,0,0.9621172593906522,1.3695512302219868,0.1970612406730651
+5021,7635,Danila Emelyanov,FC Ufa,M S,3,92,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

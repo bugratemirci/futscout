@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15011,7808,Marek Suchy,Augsburg,D S,5,306,0,0.0,0,0.0,0,0,2,0,0,0.0,0.0894102975726127,0.0894102975726127
+15012,7808,Marek Suchy,Augsburg,D S,7,390,0,0.0719032026827335,0,0.0,2,0,1,0,0,0.0719032026827335,0.4974842071533203,0.4974842071533203

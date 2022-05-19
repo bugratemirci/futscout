@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22658,6970,Tomás Vaclik,Sevilla,GK,33,2970,0,0.0,0,0.0,0,0,1,0,0,0.0,3.50456747226417,3.50456747226417
+22659,6970,Tomás Vaclik,Sevilla,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4662317167967558,0.4662317167967558
+22660,6970,Tomás Vaclik,Sevilla,GK,33,2926,0,0.0,0,0.0,0,0,0,0,0,0.0,1.7183219818398356,1.7183219818398356

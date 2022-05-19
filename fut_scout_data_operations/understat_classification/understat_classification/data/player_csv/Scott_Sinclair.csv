@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+20790,679,Scott Sinclair,Aston Villa,F M S,27,1598,2,2.815949311479926,0,0.1317691691219806,17,5,0,0,1,2.054780414327979,3.537041202187538,1.5768057852983477
+20791,679,Scott Sinclair,"Aston Villa,Manchester City",F M S,11,458,1,1.002359464764595,0,0.1050384230911731,7,2,0,0,1,1.002359464764595,1.437374770641327,0.4995233658701181

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9142,910,Harrison Reed,Southampton,M S,9,462,0,0.1203386150300502,0,0.0,4,0,0,0,0,0.1203386150300502,1.0006626211106775,0.913404932245612
+9143,910,Harrison Reed,Southampton,M S,3,62,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1288532316684723,0.1288532316684723
+9144,910,Harrison Reed,Southampton,S,1,9,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9145,910,Harrison Reed,Fulham,M S,31,2254,0,0.2909777192398906,2,1.6945231407880783,13,21,5,0,0,0.2909777192398906,7.142017270438373,6.308452454395592

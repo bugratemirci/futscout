@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8450,2503,Germán Lux,Deportivo La Coruna,GK,7,630,0,0.0,0,0.0,0,0,1,0,0,0.0,0.2502421028912067,0.2502421028912067
+8451,2503,Germán Lux,Deportivo La Coruna,GK,29,2557,0,0.0,0,0.0188644956797361,0,1,5,1,0,0.0,1.625813202932477,1.6069487053900957
+8452,2503,Germán Lux,Deportivo La Coruna,GK,25,2207,0,0.0,0,0.0,0,0,5,0,0,0.0,0.3845979892648756,0.3845979892648756

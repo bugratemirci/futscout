@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11573,2105,Jordi Masip,Barcelona,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0172937400639057,0.0172937400639057
+11574,2105,Jordi Masip,Real Valladolid,GK,25,2250,0,0.0,0,0.0,0,0,3,0,0,0.0,0.540965411812067,0.540965411812067
+11575,2105,Jordi Masip,Real Valladolid,GK,35,3150,0,0.0,0,0.0211326535791158,0,1,2,0,0,0.0,2.1564320074394345,2.1352993538603187
+11576,2105,Jordi Masip,Real Valladolid,GK,35,3150,0,0.0,0,0.0196868814527988,0,1,1,0,0,0.0,1.973212235141545,1.9535253536887467

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23968,5786,Yoane Wissa,Lorient,F M S,38,2693,10,13.373510808683932,4,3.575341407209635,59,29,2,0,6,9.573035168461502,14.7446642909199,3.5842568976804614
+23969,5786,Yoane Wissa,Brentford,F S,8,149,2,0.7018864303827286,0,0.0,4,0,0,0,2,0.7018864303827286,0.6201683208346367,0.0
+23970,5786,Yoane Wissa,Angers,S,2,25,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

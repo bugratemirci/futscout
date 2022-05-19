@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10077,9033,Iván Marcone,Elche,M S,33,2659,0,0.112529881298542,0,0.8129028268158436,2,10,8,1,0,0.112529881298542,4.334963276982307,3.930764927528799
+10078,9033,Iván Marcone,Elche,M S,11,538,0,0.0,0,0.0,0,0,2,0,0,0.0,0.9668906116858124,0.9668906116858124

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18094,5150,Pablo Fernández,Sporting Gijon,S,2,20,0,0.0448603630065918,0,0.0160789564251899,1,1,0,0,0,0.0448603630065918,0.0805732384324073,0.0357128754258155

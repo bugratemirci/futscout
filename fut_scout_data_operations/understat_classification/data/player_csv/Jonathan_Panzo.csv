@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11361,7247,Jonathan Panzo,Monaco,D S,2,103,0,0.0754739567637443,0,0.0,1,0,0,0,0,0.0754739567637443,0.0271902885288,0.0271902885288
+11362,7247,Jonathan Panzo,Dijon,D S,22,1811,0,0.1560456398874521,0,0.0,5,0,5,0,0,0.1560456398874521,1.483961713500321,1.4691577097401023

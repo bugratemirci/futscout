@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+601,2224,Alberto García,Sporting Gijon,GK,6,540,0,0.0,0,0.0,0,0,0,0,0,0.0,0.9165188819169998,0.9165188819169998
+602,2224,Alberto García,Rayo Vallecano,GK,17,1530,0,0.0,0,0.0,0,0,1,0,0,0.0,1.1526972353458405,1.1526972353458405

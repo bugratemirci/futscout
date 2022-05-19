@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6257,4805,Dylan Bahamboula,Dijon,F S,11,519,1,0.6495816679671407,0,0.33906683139503,14,4,0,0,1,0.6495816679671407,0.908365554176271,0.2109621986746788
+6258,4805,Dylan Bahamboula,Dijon,S,4,22,0,0.0470956712961196,0,0.0,1,0,0,0,0,0.0470956712961196,0.0470956712961196,0.0470956712961196

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3260,4830,Bilal Boutobba,Montpellier,S,1,2,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0720697492361068,0.0720697492361068
+3261,4830,Bilal Boutobba,Marseille,S,2,19,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+3262,4830,Bilal Boutobba,Montpellier,S,2,28,0,0.0781420767307281,0,0.0572778731584548,3,1,0,0,0,0.0781420767307281,0.2219219505786895,0.0865020006895065

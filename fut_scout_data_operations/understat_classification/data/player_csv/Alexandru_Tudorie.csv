@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1338,7629,Alexandru Tudorie,Arsenal Tula,F S,7,196,1,1.2601332999765873,0,0.0210153385996818,6,1,0,0,1,1.2601332999765873,0.8908143620938063,0.1876388136297464
+1339,7629,Alexandru Tudorie,Arsenal Tula,S,6,114,0,0.2587063759565353,0,0.0417046044021844,3,2,0,0,0,0.2587063759565353,0.3659400884062052,0.0655291154980659

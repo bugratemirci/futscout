@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23085,9569,Viktor Melekhin,FC Rostov,D M S,6,338,0,0.1618545353412628,0,0.0264373309910297,4,1,2,0,0,0.1618545353412628,0.8484749160706997,0.7490577213466167

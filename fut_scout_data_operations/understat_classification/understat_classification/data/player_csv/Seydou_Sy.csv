@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21276,3719,Seydou Sy,Monaco,GK S,3,256,0,0.0,0,0.0,0,0,1,0,0,0.0,0.5943497717380524,0.5943497717380524
+21277,3719,Seydou Sy,Monaco,GK S,3,220,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1602636501193046,0.1602636501193046
+21278,3719,Seydou Sy,Monaco,GK,1,47,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0

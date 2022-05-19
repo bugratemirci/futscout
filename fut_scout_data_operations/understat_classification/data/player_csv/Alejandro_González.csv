@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+700,3914,Alejandro González,"Cagliari,Verona",D S,12,800,0,0.0405941493809223,0,0.0688516777008771,3,3,3,0,0,0.0405941493809223,1.827756293118,1.781850028783083

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23957,8007,Yildirim Mert Cetin,Verona,S,2,42,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+23958,8007,Yildirim Mert Cetin,Roma,D S,6,248,0,0.4868572801351547,0,0.0,3,0,2,1,0,0.4868572801351547,0.304236926138401,0.304236926138401
+23959,8007,Yildirim Mert Cetin,Verona,D S,6,417,0,0.1001551914960146,0,0.0,2,0,1,0,0,0.1001551914960146,0.7221849430352449,0.6445132661610842

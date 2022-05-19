@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16524,2994,Milan Rodic,Krylya Sovetov Samara,D M S,15,1263,1,0.9640100449323654,1,1.7435058522969484,12,16,2,0,1,0.9640100449323654,4.44946913048625,3.107572518289089
+16525,2994,Milan Rodic,Zenit St. Petersburg,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+16526,2994,Milan Rodic,Krylya Sovetov Samara,D M S,16,873,1,1.029123671352863,0,0.2518640924245119,11,7,3,0,1,1.029123671352863,1.9037866331636903,1.1184256598353386

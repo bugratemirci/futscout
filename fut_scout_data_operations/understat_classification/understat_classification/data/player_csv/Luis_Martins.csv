@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14023,4163,Luis Martins,Granada,D S,3,147,0,0.0,0,0.0098616611212491,0,1,0,0,0,0.0,0.0255704019218683,0.0157087408006191
+14024,4163,Luis Martins,Granada,M S,2,74,0,0.0,0,0.1821402981877327,0,3,0,0,0,0.0,0.3348859995603561,0.1527457050979137

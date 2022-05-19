@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+12671,1028,Kevin Nolan,West Ham,F S,2,59,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0825068354606628,0.0825068354606628
+12672,1028,Kevin Nolan,West Ham,M S,29,1742,1,3.6620912197977296,1,0.9290475863963366,31,12,2,0,1,3.6620912197977296,4.468470437452197,2.0655428636819124

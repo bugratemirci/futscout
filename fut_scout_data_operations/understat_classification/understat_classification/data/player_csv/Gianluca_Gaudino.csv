@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8565,416,Gianluca Gaudino,Bayern Munich,M S,8,376,0,0.0374267101287841,0,0.8317891769111156,1,4,0,0,0,0.0374267101287841,1.97449205070734,1.4211974665522575
+8566,416,Gianluca Gaudino,Chievo,S,2,14,0,0.0233262404799461,0,0.0365806818008422,1,1,0,0,0,0.0233262404799461,0.0233262404799461,0.0

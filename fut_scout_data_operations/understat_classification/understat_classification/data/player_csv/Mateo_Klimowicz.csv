@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15473,8809,Mateo Klimowicz,VfB Stuttgart,F M S,25,1190,1,3.163388229906559,1,0.7689841985702515,33,16,1,0,1,3.163388229906559,6.45998561475426,2.80714650452137
+15474,8809,Mateo Klimowicz,VfB Stuttgart,F M S,11,499,0,0.7255645710974932,1,0.5113934874534607,10,3,2,0,0,0.7255645710974932,2.9571116492152214,1.7958057299256325

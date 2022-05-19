@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+18182,6316,Panagiotis Retsos,Bayer Leverkusen,S,1,11,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+18183,6316,Panagiotis Retsos,Saint-Etienne,D,4,276,0,0.0155643038451671,0,0.0776370018720626,1,2,2,0,0,0.0155643038451671,1.1121049746870997,1.0344679728150368
+18184,6316,Panagiotis Retsos,Bayer Leverkusen,D S,3,114,0,0.0,0,0.02563994564116,0,1,0,0,0,0.0,0.2560991309583187,0.2304591834545135
+18185,6316,Panagiotis Retsos,Bayer Leverkusen,D S,24,1716,1,0.57063939422369,3,1.174989365041256,12,7,6,0,1,0.57063939422369,6.782028255984187,6.657965494319797

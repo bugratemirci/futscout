@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22290,142,Thomas Kessler,FC Cologne,GK,13,1170,0,0.0,0,0.0101337665691971,0,1,1,0,0,0.0,0.7793837497010827,0.7692499831318855
+22291,142,Thomas Kessler,FC Cologne,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0347515009343624,0.0347515009343624
+22292,142,Thomas Kessler,FC Cologne,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2801845669746399,0.2801845669746399

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22130,78,Tarik Elyounoussi,Hoffenheim,M S,6,424,0,0.1522597465664148,1,0.7838681749999523,3,8,0,0,0,0.1522597465664148,2.1246481239795685,1.7535834163427353
+22131,78,Tarik Elyounoussi,Hoffenheim,M S,25,1490,4,4.818949796259403,1,1.7611751295626163,25,23,1,0,4,4.818949796259403,7.924563763663173,1.978265506215393

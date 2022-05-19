@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10520,4421,Jason Shackell,Burnley,D,38,3346,0,0.8140068911015987,0,0.4381553935818374,9,9,3,0,0,0.8140068911015987,3.6069017369300127,3.35063830576837

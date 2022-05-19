@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10549,2622,Javi Castellano,Las Palmas,S,5,91,0,0.0,0,0.0105349877849221,0,1,0,0,0,0.0,0.0105349877849221,0.0
+10550,2622,Javi Castellano,Las Palmas,M,1,90,0,0.0282853469252586,0,0.0,1,0,0,0,0,0.0282853469252586,0.0,0.0
+10551,2622,Javi Castellano,Las Palmas,M S,23,1567,0,0.060738849453628,0,0.1203823573887348,4,3,4,0,0,0.060738849453628,3.447306538000703,3.37559480406344

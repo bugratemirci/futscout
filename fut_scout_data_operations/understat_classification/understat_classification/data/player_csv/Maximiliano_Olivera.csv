@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16059,1420,Maximiliano Olivera,Fiorentina,D S,2,91,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+16060,1420,Maximiliano Olivera,Fiorentina,D M S,18,1110,0,0.0,2,0.903331622481346,0,11,4,0,0,0.0,2.545474134385586,1.7655926160514357
+16061,1420,Maximiliano Olivera,Fiorentina,S,1,8,0,0.0158983580768108,0,0.0,1,0,0,0,0,0.0158983580768108,0.3199364840984344,0.3199364840984344
+16062,1420,Maximiliano Olivera,Fiorentina,D S,7,414,0,0.0927239041775465,0,0.1821138467639684,3,4,1,0,0,0.0927239041775465,0.713869646191597,0.4694519937038421

@@ -1,0 +1,8 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19989,309,Roman Bürki,Borussia Dortmund,GK,31,2773,0,0.0,0,0.0,0,0,0,0,0,0.0,5.155806414783001,5.155806414783001
+19990,309,Roman Bürki,Borussia Dortmund,GK,32,2880,0,0.0,0,0.0,0,0,1,0,0,0.0,8.761204855516553,8.761204855516553
+19991,309,Roman Bürki,Borussia Dortmund,GK,33,2970,0,0.0,0,0.0,0,0,1,0,0,0.0,7.173917761072516,7.173917761072516
+19992,309,Roman Bürki,Borussia Dortmund,GK,27,2430,0,0.0,0,0.0,0,0,2,0,0,0.0,5.895330594852567,5.895330594852567
+19993,309,Roman Bürki,Borussia Dortmund,GK,33,2970,0,0.0,0,0.0,0,0,4,0,0,0.0,6.940012712031603,6.940012712031603
+19994,309,Roman Bürki,Freiburg,GK,34,3060,0,0.0,0,0.0,0,0,2,0,0,0.0,2.2449736166745424,2.2449736166745424
+19995,309,Roman Bürki,Borussia Dortmund,GK S,19,1662,0,0.0,0,0.0,0,0,0,0,0,0.0,2.8184767942875624,2.8184767942875624

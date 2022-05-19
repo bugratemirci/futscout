@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9721,3181,Ilya Pomazun,CSKA Moscow,GK,2,180,0,0.0,0,0.0239351540803909,0,1,0,0,0,0.0,0.0545224696397781,0.0305873155593872
+9722,3181,Ilya Pomazun,Ural,GK,14,1260,0,0.0,0,0.0,0,0,1,0,0,0.0,0.4624096946790814,0.4624096946790814
+9723,3181,Ilya Pomazun,"CSKA Moscow,Ural",GK,19,1710,0,0.0,0,0.0,0,0,3,0,0,0.0,0.4873776910826564,0.4873776910826564

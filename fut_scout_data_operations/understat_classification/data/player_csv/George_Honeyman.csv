@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8335,1046,George Honeyman,Sunderland,M S,5,229,0,0.3735337033867836,0,0.1231850311160087,2,2,1,0,0,0.3735337033867836,0.6912440285086632,0.1945253051817417
+8336,1046,George Honeyman,Sunderland,S,1,37,0,0.0,0,0.0680443495512008,0,1,0,0,0,0.0,0.0680443495512008,0.0

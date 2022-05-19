@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+9660,577,Ikechi Anya,Watford,S,1,5,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+9661,577,Ikechi Anya,Watford,D M S,28,1675,0,0.6807069182395935,1,1.2849662639200687,10,19,0,0,0,0.6807069182395935,6.081409208476543,4.346893712878227

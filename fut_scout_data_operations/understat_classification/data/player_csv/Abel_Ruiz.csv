@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+152,7549,Abel Ruiz,Barcelona,S,1,20,0,0.2643080353736877,0,0.1129711121320724,1,1,0,0,0,0.2643080353736877,0.4018124341964721,0.0245332848280668

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15703,8016,Matthew Longstaff,Newcastle United,M S,5,376,0,0.0,0,0.3137078955769539,0,2,0,0,0,0.0,0.4224841073155403,0.108776219189167
+15704,8016,Matthew Longstaff,Newcastle United,M S,9,564,2,0.6965182088315487,0,0.1895613092929124,4,3,1,0,2,0.6965182088315487,1.1064833365380764,0.2506945468485355

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5674,8805,Deyovaisio Zeefuik,Hertha Berlin,D M S,22,911,1,0.1658796705305576,0,0.988449038937688,3,12,2,1,1,0.1658796705305576,1.8167083710432053,0.8241267241537571
+5675,8805,Deyovaisio Zeefuik,Hertha Berlin,D S,9,485,0,0.0,0,0.3679846692830324,0,4,1,0,0,0.0,2.283643826842308,1.975379429757595

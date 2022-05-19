@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5113,6830,Danny Ward,Cardiff,F S,14,426,1,0.6128037981688976,0,0.2850580289959907,11,7,0,0,1,0.6128037981688976,0.778222244232893,0.2272191327065229
+5114,473,Danny Ward,Liverpool,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0310902306810021,0.0310902306810021

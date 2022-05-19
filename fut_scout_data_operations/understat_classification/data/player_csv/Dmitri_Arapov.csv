@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5942,2803,Dmitri Arapov,Ural,GK,7,630,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2784149758517742,0.2784149758517742
+5943,2803,Dmitri Arapov,Ural,GK,9,810,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0608209511265158,0.0608209511265158
+5944,2803,Dmitri Arapov,Ural,GK S,2,152,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0520625710487365,0.0520625710487365

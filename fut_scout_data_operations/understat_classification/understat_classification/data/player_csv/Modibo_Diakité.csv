@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+16620,1807,Modibo Diakité,Deportivo La Coruna,D,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+16621,1807,Modibo Diakité,"Frosinone,Sampdoria",D S,26,2274,1,2.133630773983896,0,0.113592398352921,8,4,8,0,1,2.133630773983896,2.511460592038929,2.472563149407506
+16622,1807,Modibo Diakité,Cagliari,D S,9,717,0,0.0964064756408333,0,0.0,3,0,1,1,0,0.0964064756408333,1.1724942326545715,1.1289883106946943

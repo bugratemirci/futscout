@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14907,14,Marco Sailer,Darmstadt,M S,14,426,1,0.9371174052357674,1,0.2829015655443072,6,4,1,0,1,0.9371174052357674,1.5364155834540725,0.3163966536521911

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6451,5678,Eiji Kawashima,Metz,GK,29,2573,0,0.0,0,0.0112850069999694,0,1,0,1,0,0.0,1.4205770092085004,1.409292002208531
+6452,5678,Eiji Kawashima,Strasbourg,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+6453,5678,Eiji Kawashima,Metz,GK,5,450,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1967861726880073,0.1967861726880073
+6454,5678,Eiji Kawashima,Strasbourg,GK,24,2160,0,0.015056756325066,0,0.0,1,0,1,0,0,0.015056756325066,0.8899205438792706,0.8899205438792706

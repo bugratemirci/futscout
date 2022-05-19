@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24501,9771,Óscar Gil,Espanyol,D,9,766,0,0.1758640045300126,0,0.1261717304587364,4,2,3,0,0,0.1758640045300126,1.957404837012291,1.6664857752621174

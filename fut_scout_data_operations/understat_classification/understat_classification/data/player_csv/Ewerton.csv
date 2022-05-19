@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7020,7213,Ewerton,Nuernberg,D S,18,1339,0,0.319970372132957,0,0.0715414360165596,8,2,2,0,0,0.319970372132957,1.3628229647874832,1.2826443929225206

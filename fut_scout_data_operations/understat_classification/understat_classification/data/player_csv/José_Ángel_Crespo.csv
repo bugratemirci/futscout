@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11861,962,José Ángel Crespo,Rayo Vallecano,D,9,718,0,0.0096259368583559,0,0.0,1,0,4,0,0,0.0096259368583559,0.7266571773216128,0.7170312404632568
+11862,962,José Ángel Crespo,Aston Villa,D,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+11863,962,José Ángel Crespo,Cordoba,D S,27,2167,0,0.4389649331569671,0,1.1963160261511805,6,12,7,0,0,0.4389649331569671,2.1370302326977253,1.022088449448347

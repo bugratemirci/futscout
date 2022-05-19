@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3097,7325,Benjamin Goller,Werder Bremen,F S,10,272,0,0.1259484738111496,0,0.0877691768109798,2,2,0,0,0,0.1259484738111496,0.3931716345250606,0.2068282086402177

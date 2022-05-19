@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+2663,3965,Arturo Calabresi,Bologna,D S,18,1410,1,0.408403068780899,0,0.2678714143112302,1,10,8,0,1,0.408403068780899,1.768569519743323,1.5703151803463695
+2664,3965,Arturo Calabresi,"Bologna,Cagliari",S,3,29,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+2665,3965,Arturo Calabresi,Amiens,D,21,1879,1,0.5452913902699947,1,1.2273981664329767,6,6,5,0,1,0.5452913902699947,4.097778665833175,2.77658682409674

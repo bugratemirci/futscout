@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+3789,9519,Carlos Domínguez,Celta Vigo,D,4,360,0,0.0675498768687248,0,0.0348939634859561,1,1,2,0,0,0.0675498768687248,0.2482907883822918,0.2482907883822918
+3790,9519,Carlos Domínguez,Celta Vigo,D S,2,92,0,0.0,0,0.0,0,0,1,0,0,0.0,0.0,0.0

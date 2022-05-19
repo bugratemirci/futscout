@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7727,7,Florian Jungwirth,Darmstadt,D M S,19,1490,0,0.2590771038085222,1,0.8177200704813004,8,6,4,0,0,0.2590771038085222,2.314977452158928,1.63026393763721
+7728,7,Florian Jungwirth,Darmstadt,D M S,16,1142,0,0.292006753385067,0,0.6498882658779621,10,5,2,0,0,0.292006753385067,1.95118947327137,1.7945764679461718

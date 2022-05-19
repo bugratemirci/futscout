@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11015,8799,Joakim Nilsson,Arminia Bielefeld,D S,25,2162,0,0.938265534117818,0,0.1457226909697055,5,2,1,0,0,0.938265534117818,2.2869026977568865,1.9812060166150327
+11016,8799,Joakim Nilsson,Arminia Bielefeld,D,14,1218,0,0.0120585663244128,0,0.0,1,0,0,0,0,0.0120585663244128,1.740759591571987,1.740759591571987

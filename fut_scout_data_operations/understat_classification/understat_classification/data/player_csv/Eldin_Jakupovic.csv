@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6465,1697,Eldin Jakupovic,Leicester,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.2502975687384605,0.2502975687384605
+6466,1697,Eldin Jakupovic,Hull,GK,22,1980,0,0.0,0,0.0,0,0,0,0,0,0.0,0.6517618969082832,0.6517618969082832
+6467,1697,Eldin Jakupovic,Hull,GK S,3,228,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1496199034154415,0.1496199034154415

@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15197,1645,Marko Pajac,Genoa,D M S,11,759,0,0.2508994648233056,0,2.344138912856579,7,12,1,0,0,0.2508994648233056,3.945462323725224,3.0086897127330303
+15198,1645,Marko Pajac,Cagliari,S,1,8,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+15199,1645,Marko Pajac,"Cagliari,Empoli",D M S,13,842,2,0.4015804156661033,2,1.4663616865873337,9,11,5,0,2,0.4015804156661033,3.3437840938568115,2.340171841904521

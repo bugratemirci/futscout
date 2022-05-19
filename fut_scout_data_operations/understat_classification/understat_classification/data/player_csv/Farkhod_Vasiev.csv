@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+7270,5507,Farkhod Vasiev,FC Orenburg,D,1,90,0,0.0145172206684947,0,0.0,1,0,1,0,0,0.0145172206684947,0.0,0.0
+7271,5507,Farkhod Vasiev,FC Tambov,D S,9,607,0,0.0402532871812582,1,0.4588580653071403,2,3,0,0,0,0.0402532871812582,0.9115782771259546,0.4414099063724279

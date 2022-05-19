@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14913,6132,Marco Silvestri,Verona,GK,35,3150,0,0.0,0,0.0163149815052747,0,1,2,0,0,0.0,1.5232590157538652,1.5069440342485905
+14914,6132,Marco Silvestri,Verona,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14915,6132,Marco Silvestri,Verona,GK,34,3060,0,0.0,0,0.0,0,0,1,0,0,0.0,2.115516934543848,2.115516934543848
+14916,6132,Marco Silvestri,Udinese,GK,17,1530,0,0.0,0,0.0411397162824869,0,2,1,0,0,0.0,1.2597625348716974,1.2186228185892105

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+15852,389,Maurice Hirsch,Hannover 96,M S,7,424,0,0.015208076685667,0,0.0645211860537529,1,2,3,0,0,0.015208076685667,0.4740300439298153,0.4471304230391979

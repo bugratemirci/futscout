@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+8309,3703,Geoffrey Jourdren,Montpellier,GK,7,630,0,0.0,0,0.0,0,0,2,0,0,0.0,0.5905035808682442,0.5905035808682442
+8310,3703,Geoffrey Jourdren,Montpellier,GK,13,1170,0,0.0,0,0.016654459759593,0,1,0,0,0,0.0,0.9906663913279772,0.9740119315683842
+8311,3703,Geoffrey Jourdren,Montpellier,GK,29,2610,0,0.0,0,0.0213174391537904,0,1,2,0,0,0.0,0.5192884411662817,0.4979710020124912

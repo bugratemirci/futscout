@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+23962,3302,Yoan Cardinale,Nice,GK,36,3208,0,0.0,0,0.0,0,0,2,0,0,0.0,4.401514107361436,4.401514107361436
+23963,3302,Yoan Cardinale,Nice,GK,10,900,0,0.0,0,0.0,0,0,2,0,0,0.0,1.2252599354833364,1.2252599354833364
+23964,3302,Yoan Cardinale,Nice,GK,3,270,0,0.0,0,0.0,0,0,0,0,0,0.0,0.4599492400884628,0.4599492400884628
+23965,3302,Yoan Cardinale,Nice,GK S,26,2307,0,0.0,0,0.0,0,0,3,0,0,0.0,1.288913857191801,1.288913857191801

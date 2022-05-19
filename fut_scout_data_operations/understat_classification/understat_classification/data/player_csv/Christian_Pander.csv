@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+4198,4342,Christian Pander,Hannover 96,D S,8,432,0,0.1706701563671231,0,0.2054933533072471,3,5,0,0,0,0.1706701563671231,0.311618254519999,0.209201481193304

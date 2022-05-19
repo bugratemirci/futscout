@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+24331,8417,Álex Baena,Villarreal,S,1,10,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+24332,8417,Álex Baena,Villarreal,M S,6,132,0,0.0865132138133049,0,0.0433834046125412,2,2,0,0,0,0.0865132138133049,0.2132405061274767,0.1276217922568321

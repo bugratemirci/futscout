@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22619,6292,Tomas Koubek,Rennes,GK,34,3060,0,0.0,0,0.0,0,0,0,0,0,0.0,2.020145535469055,2.020145535469055
+22620,6292,Tomas Koubek,Rennes,GK S,33,2923,0,0.0,0,0.019154354929924,0,1,1,0,0,0.0,2.611648545600474,2.59249419067055
+22621,6292,Tomas Koubek,Augsburg,GK,24,2160,0,0.0,0,0.0299042481929063,0,1,2,0,0,0.0,2.56148630566895,2.531582057476044

@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11697,1745,Josh Tymon,Stoke,D S,3,161,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0161688532680273,0.0161688532680273
+11698,1745,Josh Tymon,Hull,D M S,5,331,0,0.0,0,0.0125866280868649,0,1,1,0,0,0.0,0.7757114619016647,0.7631248347461224

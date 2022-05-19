@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1913,9158,Andrey Langovich,FC Rostov,D S,6,218,0,0.1287295557558536,0,0.0981659144163131,2,2,2,0,0,0.1287295557558536,0.4493762440979481,0.2224807813763618

@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+1319,5984,Alexandre Oukidja,Metz,GK,27,2385,0,0.0,0,0.0503826569765806,0,2,3,0,0,0.0,1.2325450950302184,1.1821624408476057
+1320,5984,Alexandre Oukidja,Strasbourg,GK S,17,1457,0,0.0,0,0.0,0,0,1,0,0,0.0,0.6926210690289736,0.6926210690289736
+1321,5984,Alexandre Oukidja,Metz,GK,34,3060,0,0.0,0,0.0160462632775306,0,1,2,1,0,0.0,3.1426807353273034,3.1266344795003533
+1322,5984,Alexandre Oukidja,Metz,GK,17,1530,0,0.0,0,0.0,0,0,2,0,0,0.0,1.5841659512370825,1.5841659512370825

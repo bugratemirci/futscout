@@ -1,0 +1,5 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+22408,982,Tim Krul,Norwich,GK,36,3240,0,0.0,0,0.0,0,0,4,0,0,0.0,3.515048135071993,3.515048135071993
+22409,982,Tim Krul,Norwich,GK,16,1440,0,0.0,0,0.0,0,0,1,0,0,0.0,1.1576820174232123,1.1576820174232123
+22410,982,Tim Krul,Newcastle United,GK,8,720,0,0.0,0,0.0,0,0,0,0,0,0.0,0.1072515211999416,0.1072515211999416
+22411,982,Tim Krul,Newcastle United,GK,30,2700,0,0.0,1,0.2590464055538177,0,1,1,0,0,0.0,1.189520487561822,1.189520487561822

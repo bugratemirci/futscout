@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+11848,4036,José Rodríguez,Deportivo La Coruna,M S,25,1500,2,2.320319883525372,1,0.8778555737808347,24,13,6,0,2,2.320319883525372,5.442061202600598,2.4929374791681767
+11849,4036,José Rodríguez,Mainz 05,S,2,5,0,0.0,0,0.0,0,0,0,1,0,0.0,0.0,0.0
+11850,4036,José Rodríguez,Malaga,M,6,460,0,0.5960755571722984,0,0.1912509929388761,2,7,0,1,0,0.5960755571722984,1.632094046100974,0.8903014771640301

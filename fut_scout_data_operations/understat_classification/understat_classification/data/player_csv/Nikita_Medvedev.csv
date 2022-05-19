@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17530,2786,Nikita Medvedev,Rubin Kazan,GK,4,360,0,0.0,0,0.0091684833168983,0,1,1,0,0,0.0,0.0400416776537895,0.0308731952682137
+17531,2786,Nikita Medvedev,FC Rostov,GK,17,1530,0,0.0,0,0.0260804258286952,0,1,0,0,0,0.0,0.8033969234675169,0.7773164976388216

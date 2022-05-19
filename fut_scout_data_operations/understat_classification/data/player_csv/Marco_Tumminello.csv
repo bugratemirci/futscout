@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+14931,1945,Marco Tumminello,Roma,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+14932,1945,Marco Tumminello,"Crotone,Roma",F S,10,189,3,0.8498730668798089,1,0.3397387862205505,8,1,1,0,3,0.8498730668798089,1.1430316707119346,0.3897264897823334
+14933,1945,Marco Tumminello,Atalanta,S,2,6,0,0.0122757367789745,0,0.0,1,0,1,0,0,0.0122757367789745,0.0,0.0

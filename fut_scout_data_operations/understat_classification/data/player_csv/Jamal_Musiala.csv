@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+10287,8418,Jamal Musiala,Bayern Munich,S,1,1,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+10288,8418,Jamal Musiala,Bayern Munich,M S,14,512,3,1.2308734524995089,3,2.589990198612213,10,11,1,0,3,1.2308734524995089,5.669522259384394,2.208043187856674
+10289,8418,Jamal Musiala,Bayern Munich,M S,26,850,6,2.8829978741705418,1,0.6597427278757095,25,9,0,0,6,2.8829978741705418,7.208409106358886,4.659119429066777

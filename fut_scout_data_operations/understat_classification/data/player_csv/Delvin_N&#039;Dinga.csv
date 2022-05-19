@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+5514,2714,Delvin N&#039;Dinga,Lokomotiv Moscow,M S,24,1302,0,0.3360333507880568,0,0.740032747387886,10,10,2,0,0,0.3360333507880568,3.563420190475881,3.093985644169152
+5515,2714,Delvin N&#039;Dinga,Lokomotiv Moscow,M S,9,599,0,0.0716282930225133,1,0.2651614341884851,3,7,4,0,0,0.0716282930225133,1.2299428302794695,1.1162905916571615

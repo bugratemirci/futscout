@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+419,6376,Adrián Diéguez,SD Huesca,D S,9,750,0,0.0609158053994178,0,0.0291083008050918,1,1,3,0,0,0.0609158053994178,0.2204746752977371,0.1913663744926452
+420,6376,Adrián Diéguez,Alaves,D,6,439,0,0.0866028377786278,0,0.0,3,0,5,0,0,0.0866028377786278,0.3403774350881576,0.2725780718028545

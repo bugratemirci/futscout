@@ -1,0 +1,3 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+6144,1048,Donald Love,Manchester United,S,1,54,0,0.0,0,0.0,0,0,0,0,0,0.0,0.022390091791749,0.022390091791749
+6145,1048,Donald Love,Sunderland,D S,12,598,0,0.0502020772546529,1,0.3847512379288673,2,4,1,0,0,0.0502020772546529,1.299625724554062,0.9656939879059792

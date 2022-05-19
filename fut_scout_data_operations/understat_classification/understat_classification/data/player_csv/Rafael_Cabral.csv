@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+19051,1388,Rafael Cabral,Napoli,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0570943839848041,0.0570943839848041
+19052,1388,Rafael Cabral,Sampdoria,GK,2,180,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+19053,1388,Rafael Cabral,Napoli,GK,23,2070,0,0.0,0,0.0,0,0,0,0,0,0.0,2.424049618653953,2.424049618653953

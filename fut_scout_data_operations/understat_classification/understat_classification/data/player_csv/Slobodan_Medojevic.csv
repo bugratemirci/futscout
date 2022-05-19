@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+21512,287,Slobodan Medojevic,Eintracht Frankfurt,S,1,28,0,0.0,0,0.0,0,0,0,0,0,0.0,0.3948143720626831,0.3948143720626831
+21513,287,Slobodan Medojevic,Eintracht Frankfurt,M S,14,553,1,0.1636454612016677,0,0.0577162280678749,2,2,0,1,1,0.1636454612016677,0.5210760226473212,0.5035880832001567
+21514,287,Slobodan Medojevic,Eintracht Frankfurt,M S,14,796,0,0.0922763310372829,0,0.0524621084332466,3,1,2,1,0,0.0922763310372829,1.460137746296823,1.4196134200319648

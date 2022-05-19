@@ -1,0 +1,4 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+587,1806,Alberto Brignoli,Benevento,GK S,13,1126,1,0.1145242303609848,0,0.0,1,0,2,0,1,0.1145242303609848,1.341337900608778,1.341337900608778
+588,1806,Alberto Brignoli,Leganes,S,1,61,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0,0.0
+589,1806,Alberto Brignoli,Sampdoria,GK,1,90,0,0.0,0,0.0,0,0,0,0,0,0.0,0.0128425182774662,0.0128425182774662

@@ -1,0 +1,2 @@
+,id,player_name,team_title,position,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,npg,npxG,xGChain,xGBuildup
+17525,9800,Nikita Krivtsov,FC Krasnodar,M S,8,256,0,0.4351527765393257,0,0.0095767490565776,9,1,0,0,0,0.4351527765393257,1.4039696715772152,1.0441655665636065
