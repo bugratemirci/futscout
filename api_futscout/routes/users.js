@@ -4,35 +4,35 @@ const bodyParser = require('body-parser');
 const User = require('../models/User');
 
 /* GET users listing. */
-router.get('/', function(req, res, next) {
+router.get('/', function (req, res, next) {
   res.send('respond with a resource');
 });
 
-router.post('/signUp', (req,res,next) =>{
+router.post('/signUp', (req, res, next) => {
   userreq = req.body;
   const user = new User({
-    username : userreq.username,
-    password : userreq.password,
-    team : userreq.team,
-    birthday : userreq.birthday,
-    mail : userreq.mail,
-    tel : userreq.tel
+    username: userreq.username,
+    password: userreq.password,
+    team: userreq.team,
+    birthday: userreq.birthday,
+    mail: userreq.mail,
+    tel: userreq.tel
   });
-  user.save((err,data) => {
-    if(err)
-        res.json({status : false})
+  user.save((err, data) => {
+    if (err)
+      res.json({ status: false })
     else
-        res.json(data);
+      res.json({ status: true });
   })
 });
 
-router.post('/logIn', (req,res,next) => {
+router.post('/logIn', (req, res, next) => {
   userreq = req.body;
-  User.findOne({username : userreq.username, password : userreq.password}, (err,data) => {
-    if(data)
-      res.send({status : true});
+  User.findOne({ username: userreq.username, password: userreq.password }, (err, data) => {
+    if (data)
+      res.send({ status: true, user: data });
     else
-      res.send({status:false})
+      res.send({ status: false })
   });
 
 });
