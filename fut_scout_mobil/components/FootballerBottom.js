@@ -6,11 +6,16 @@ import {
     StyleSheet,
     Dimensions,
     Image,
-    TouchableOpacity
-
+    TouchableOpacity,
+    TextInput
 } from 'react-native';
+const axios = require('axios');
+import { deviceIp } from '../config';
 
 const FootballerBottom = ({ footballers, user, navigation, route }) => {
+
+    const [footballerss, setFootballerss] = useState([]);
+    const [searchText, setSearchText] = useState("");
 
     const predictedValue = (cluster) => {
         if (cluster == 4) {
@@ -20,9 +25,26 @@ const FootballerBottom = ({ footballers, user, navigation, route }) => {
             return "60-90 M"
         }
     }
+
+    const getPlayers = () => {
+        axios.post('http://' + deviceIp + ':3000/api/players/getPlayerByName', { name: searchText })
+            .then((response) => {
+                const { footballers } = response.data
+                setFootballerss(footballers);
+            })
+            .catch((err) => {
+                console.log(err)
+            })
+            .then(() => {
+
+            })
+    }
+    useEffect(() => {
+        getPlayers();
+    }, []);
     const renderFootballerList = () => {
         return (
-            footballers.map((item, index) => {
+            footballerss.map((item, index) => {
                 return (
                     <TouchableOpacity style={styles.card} key={index} onPress={() => {
                         navigation.navigate('FootballPlayerDetail', { user, item });
@@ -47,14 +69,20 @@ const FootballerBottom = ({ footballers, user, navigation, route }) => {
             }))
     }
     return (
-        <View style={styles.bottomView}>
-            <View style={{ paddingRight: 15, paddingLeft: 15 }}>
-                <Text style={{ color: '#000000', fontSize: 25, textAlign: 'center' }}>Futbolcu Listesi
-                </Text>
-                <View style={{ marginTop: 10 }}>
-                    {renderFootballerList()}
-                </View>
+        <View>
+            <View style={{ justifyContent: 'center', alignItems: 'center', flexDirection: 'row' }}>
+                <TextInput
+                    style={styles.textInput}
+                    placeholder="Arama"
+                    onChangeText={(text) => {
+                        setSearchText(text);
+                    }}
+                />
+                <TouchableOpacity style={styles.searchButton} onPress={getPlayers}>
+                    <Text style={{ color: 'white' }}>Ara</Text>
+                </TouchableOpacity>
             </View>
+            {renderFootballerList()}
         </View>
     )
 }
@@ -126,7 +154,32 @@ const styles = StyleSheet.create({
     footballerInfo: {
         flexDirection: 'row',
         justifyContent: 'space-evenly',
-    }
+    },
+    searchButton: {
+        width: Dimensions.get('window').width / 5,
+        height: 35,
+        backgroundColor: 'rgba(223, 71, 89,.7)',
+        shadowColor: 'rgb(223, 71, 89)',
+        shadowOpacity: 0.9,
+        elevation: 8,
+        shadowRadius: 15,
+        shadowOffset: { width: 56, height: 13 },
+        borderWidth: 0,
+        borderRadius: 20,
+        alignItems: 'center',
+        justifyContent: 'center',
+        borderColor: 'gray',
+    },
+    textInput: {
+        height: '50%',
+        width: '70%',
+        margin: 12,
+        borderWidth: 1,
+        padding: 10,
+        textAlign: 'center',
+        borderRadius: 40,
+        borderColor: 'rgb(223, 71, 89)'
+    },
 
 })
 export default FootballerBottom

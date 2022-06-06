@@ -11,7 +11,7 @@ import {
 
 } from 'react-native';
 import { TextInput } from 'react-native-paper';
-
+import { deviceIp } from '../config';
 const axios = require('axios')
 
 const RegisterScreen = ({ route, navigation }) => {
@@ -30,7 +30,7 @@ const RegisterScreen = ({ route, navigation }) => {
             team: favteam
         }
 
-        axios.post('http://192.168.1.53:3000/users/signUp', { userreq })
+        axios.post('http://' + deviceIp + ':3000/api/users/signUp', { userreq })
             .then((response) => {
                 const { status } = response.data
                 if (status == true) {

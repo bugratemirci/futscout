@@ -7,29 +7,14 @@ import {
     ImageBackground,
     Dimensions,
     Image,
-    TouchableOpacity,
+
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import FootballerBottom from '../components/FootballerBottom';
 const axios = require('axios')
-
+import { deviceIp } from '../config';
 const FootballPlayersScreen = ({ route, navigation }) => {
     const { user } = route.params
-    const [footballers, setFootballers] = useState([]);
-
-    const getData = async () => {
-        try {
-            const footballerss = await AsyncStorage.getItem('@footballers')
-            setFootballers(JSON.parse(footballerss))
-            if (value !== null) {
-            }
-        } catch (e) {
-        }
-    }
-
-    useEffect(() => {
-        getData()
-    }, []);
 
     return (
         <ScrollView
@@ -44,7 +29,11 @@ const FootballPlayersScreen = ({ route, navigation }) => {
                     <Text style={styles.brandViewText}>Futbolcular</Text>
                 </View>
             </ImageBackground>
-            <FootballerBottom user={user} footballers={footballers} route={route} navigation={navigation} />
+            <View style={styles.bottomView}>
+                <View style={{ paddingRight: 15, paddingLeft: 15 }}>
+                    <FootballerBottom user={user} route={route} navigation={navigation} />
+                </View>
+            </View>
         </ScrollView >
     )
 }
@@ -76,6 +65,14 @@ const styles = StyleSheet.create({
         textTransform: 'uppercase',
         marginTop: 5
     },
+    bottomView: {
+        flex: 1.5,
+        backgroundColor: '#ffffff',
+        bottom: 45,
+        borderTopStartRadius: 50,
+        borderTopEndRadius: 50,
+        paddingTop: 45
+    }
 })
 
 export default FootballPlayersScreen

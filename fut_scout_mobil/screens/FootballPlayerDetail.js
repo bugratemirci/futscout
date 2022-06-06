@@ -11,7 +11,7 @@ import {
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import FootballerDetailBottom from '../components/FootballerDetailBottom';
-
+import { deviceIp } from '../config';
 
 const axios = require('axios')
 
@@ -22,7 +22,7 @@ const FootballPlayerDetailScreen = ({ route, navigation }) => {
         setFootballer(seasons)
     }
     useEffect(() => {
-        axios.post('http://192.168.1.53:3000/footballers/get_player_by_id', { id: item.id })
+        axios.post('http://' + deviceIp + ':3000/api/players/get_player_by_id', { id: item.id })
             .then((response) => {
                 const { seasons } = response.data
                 storeData(seasons)

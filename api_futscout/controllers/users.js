@@ -21,7 +21,7 @@ const signUp = (req, res, next) => {
 
 const signIn = (req, res, next) => {
     const { userreq } = req.body;
-
+    console.log(userreq);
     User.findOne({ username: userreq.username, password: userreq.password }, (err, data) => {
         if (data)
             res.json({ status: true, user: data });
@@ -30,9 +30,19 @@ const signIn = (req, res, next) => {
     });
 
 }
+const getUser = (req, res, next) => {
+    const { username } = req.body;
 
+    User.findOne({ username: username }, (err, data) => {
+        if (data)
+            res.json({ user: data });
+        else
+            res.json({ status: false })
+    });
+}
 
 module.exports = {
     signUp,
-    signIn
+    signIn,
+    getUser
 };

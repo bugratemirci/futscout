@@ -9,8 +9,9 @@ import {
 
 } from 'react-native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-const axios = require('axios')
-let i = 0;
+const axios = require('axios');
+import { deviceIp } from '../config';
+
 const HomeNav = ({ user, route, navigation }) => {
 
     const [username, setUsername] = useState(user.username);
@@ -30,26 +31,11 @@ const HomeNav = ({ user, route, navigation }) => {
             )
         }
     }
-    const storeData = async (value) => {
-        try {
-            const jsonValue = JSON.stringify(value)
-            await AsyncStorage.setItem('@footballers', jsonValue)
-        } catch (e) {
 
-        }
-    }
     useEffect(() => {
         if (isAdmin == true) {
             setIsPremium(true);
         }
-        axios.get('http://192.168.1.53:3000/footballers/get_football_players')
-            .then((response) => {
-                const { footballers } = response.data
-                storeData(footballers);
-            })
-            .catch((err) => {
-                console.log(err)
-            })
     }, []);
 
     return (
@@ -60,7 +46,12 @@ const HomeNav = ({ user, route, navigation }) => {
                 </Text>
                 <View style={{ marginTop: 65 }}>
                     <View style={{ flexDirection: 'row' }}>
-                        <TouchableOpacity style={styles.card}>
+                        <TouchableOpacity
+                            style={styles.card}
+                            onPress={() => {
+                                navigation.navigate('Profile', { user });
+                            }}
+                        >
                             <Image source={require('../assets/icons/user.png')} style={styles.iconStyle}></Image>
                             <Text style={styles.cardText}>Profil</Text>
                         </TouchableOpacity>
@@ -75,16 +66,13 @@ const HomeNav = ({ user, route, navigation }) => {
                         </TouchableOpacity>
                     </View>
                     <View style={{ flexDirection: 'row', justifyContent: 'center' }}>
-                        <TouchableOpacity style={styles.card}>
-                            <Image source={require('../assets/icons/f_teams.png')} style={styles.iconStyle}></Image>
-                            <Text style={styles.cardText}>Takımlar</Text>
-                        </TouchableOpacity>
                         <TouchableOpacity style={isPremium ? styles.card : styles.cardDisabled} disabled={(!isPremium)}>
                             <Image source={require('../assets/icons/predictions.png')} style={styles.iconStyle}></Image>
                             <Text style={styles.cardText}>Futbolcu Tahmini</Text>
                         </TouchableOpacity>
+                        {adminRender()}
                     </View>
-                    {adminRender()}
+
                 </View>
             </View>
         </View>

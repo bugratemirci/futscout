@@ -12,6 +12,7 @@ import {
 
 } from 'react-native';
 import { TextInput } from 'react-native-paper';
+import { deviceIp } from '../config';
 
 const axios = require('axios')
 
@@ -19,14 +20,13 @@ const LoginScreen = ({ route, navigation }) => {
 
     const [username, setUsername] = useState('')
     const [password, setPassword] = useState('')
-
     const loginButtonClick = () => {
         const userreq = {
             username: username,
             password: password
         }
 
-        axios.post('http://192.168.1.53:3000/users/logIn', { userreq })
+        axios.post('http://' + deviceIp + ':3000/api/users/signIn', { userreq })
             .then((response) => {
                 const { status, user } = response.data
                 if (status == true) {
@@ -49,7 +49,7 @@ const LoginScreen = ({ route, navigation }) => {
         navigation.navigate('Register', { username: username, password: password });
     }
     useEffect(() => {
-        AsyncStorage.clear();
+
     }, []);
     return (
         <ScrollView
@@ -92,6 +92,7 @@ const LoginScreen = ({ route, navigation }) => {
                             onChangeText={(text) => {
                                 setPassword(text)
                             }}
+                            secureTextEntry={true}
                         />
                     </View>
                     <View style={styles.forgotPassView}>
@@ -143,14 +144,6 @@ const styles = StyleSheet.create({
         textTransform: 'uppercase',
         marginTop: 5
     },
-    bottomView: {
-        flex: 1.5,
-        backgroundColor: '#ffffff',
-        bottom: 45,
-        borderTopStartRadius: 50,
-        borderTopEndRadius: 50,
-        paddingTop: 45
-    },
     forgotPassView: {
         height: 40,
         flexDirection: 'row',
@@ -170,6 +163,14 @@ const styles = StyleSheet.create({
         alignItems: 'center',
         justifyContent: 'center',
         borderColor: 'gray',
+    },
+    bottomView: {
+        flex: 1.5,
+        backgroundColor: '#ffffff',
+        bottom: 45,
+        borderTopStartRadius: 50,
+        borderTopEndRadius: 50,
+        paddingTop: 45
     }
 })
 

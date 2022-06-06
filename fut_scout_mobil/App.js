@@ -7,6 +7,7 @@ import RegisterScreen from './screens/RegisterScreen';
 import HomeScreen from './screens/HomeScreen';
 import FootballPlayersScreen from './screens/FootballPlayersScreen';
 import FootballPlayerDetailScreen from './screens/FootballPlayerDetail';
+import ProfileScreen from './screens/ProfileScreen';
 const Stack = createNativeStackNavigator();
 
 const App = () => {
@@ -21,6 +22,7 @@ const App = () => {
         <Stack.Screen name="Home" component={HomeScreen} />
         <Stack.Screen name="FootballPlayers" component={FootballPlayersScreen} />
         <Stack.Screen name="FootballPlayerDetail" component={FootballPlayerDetailScreen} />
+        <Stack.Screen name="Profile" component={ProfileScreen} />
       </Stack.Navigator>
     </NavigationContainer>
   );
