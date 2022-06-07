@@ -66,7 +66,13 @@ const HomeNav = ({ user, route, navigation }) => {
                         </TouchableOpacity>
                     </View>
                     <View style={{ flexDirection: 'row', justifyContent: 'center' }}>
-                        <TouchableOpacity style={isPremium ? styles.card : styles.cardDisabled} disabled={(!isPremium)}>
+                        <TouchableOpacity
+                            style={isPremium ? styles.card : styles.cardDisabled}
+                            disabled={(!isPremium)}
+                            onPress={() => {
+                                navigation.navigate('FootballerPrediction', { user });
+                            }}
+                        >
                             <Image source={require('../assets/icons/predictions.png')} style={styles.iconStyle}></Image>
                             <Text style={styles.cardText}>Futbolcu Tahmini</Text>
                         </TouchableOpacity>

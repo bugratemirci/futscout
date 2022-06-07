@@ -21,7 +21,19 @@ const getPlayerById = async (req, res, next) => {
 }
 const getPlayerByName = async (req, res, next) => {
     const { name } = req.body
-    const footballers = await FootballPlayer.find({ "player_name": { $regex: name, $options: "i" } }).sort({ "goals": -1 }).limit(5)
+    const footballers = await FootballPlayer.find({ "player_name": { $regex: name, $options: "i" } }).sort({ "goals": -1 }).limit(10)
+
+    res.status(200).json(
+        {
+            footballers
+        }
+    )
+}
+
+const getPlayerByCluster = async (req, res, next) => {
+    const { cluster } = req.body
+    console.log(cluster);
+    const footballers = await FootballPlayer.find({ "classes": cluster }).sort({ "goals": -1 }).limit(5)
 
     res.status(200).json(
         {
@@ -33,5 +45,6 @@ const getPlayerByName = async (req, res, next) => {
 module.exports = {
     getAllPlayers,
     getPlayerById,
-    getPlayerByName
+    getPlayerByName,
+    getPlayerByCluster
 };

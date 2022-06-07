@@ -8,6 +8,9 @@ import HomeScreen from './screens/HomeScreen';
 import FootballPlayersScreen from './screens/FootballPlayersScreen';
 import FootballPlayerDetailScreen from './screens/FootballPlayerDetail';
 import ProfileScreen from './screens/ProfileScreen';
+import FootballerPrediction from './screens/FootballerPrediction';
+import PredictionPage from './screens/PredictionPage';
+
 const Stack = createNativeStackNavigator();
 
 const App = () => {
@@ -23,6 +26,8 @@ const App = () => {
         <Stack.Screen name="FootballPlayers" component={FootballPlayersScreen} />
         <Stack.Screen name="FootballPlayerDetail" component={FootballPlayerDetailScreen} />
         <Stack.Screen name="Profile" component={ProfileScreen} />
+        <Stack.Screen name="FootballerPrediction" component={FootballerPrediction} />
+        <Stack.Screen name="PredictionPage" component={PredictionPage} />
       </Stack.Navigator>
     </NavigationContainer>
   );
