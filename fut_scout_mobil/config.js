@@ -1,4 +1,4 @@
-const deviceIp = "192.168.1.15";
+const deviceIp = "192.168.1.82";
 
 
 module.exports = {

@@ -18,11 +18,35 @@ const FootballerBottom = ({ footballers, user, navigation, route }) => {
     const [searchText, setSearchText] = useState("");
 
     const predictedValue = (cluster) => {
-        if (cluster == 4) {
-            return "90 - 100 M"
+        if (cluster == 0) {
+            return "7 - 10 M Euro"
+        }
+        else if (cluster == 1) {
+            return "3-7 M Euro"
+        }
+        else if (cluster == 2) {
+            return "70-85 M Euro"
+        }
+        else if (cluster == 3) {
+            return "0-3 M Euro"
+        }
+        else if (cluster == 4) {
+            return "+85 M Euro"
+        }
+        else if (cluster == 5) {
+            return "20-30 M Euro"
         }
         else if (cluster == 6) {
-            return "60-90 M"
+            return "50-70 M Euro"
+        }
+        else if (cluster == 7) {
+            return "10-15 M Euro"
+        }
+        else if (cluster == 8) {
+            return "15-20 M Euro"
+        }
+        else if (cluster == 9) {
+            return "30-40 M Euro"
         }
     }
 
