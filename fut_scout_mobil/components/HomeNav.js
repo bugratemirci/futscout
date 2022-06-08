@@ -14,10 +14,11 @@ import { deviceIp } from '../config';
 
 const HomeNav = ({ user, route, navigation }) => {
 
-    const [username, setUsername] = useState(user.username);
-    const [password, setPassword] = useState(user.password);
-    const [isAdmin, setIsAdmin] = useState(user.isAdmin);
-    const [isPremium, setIsPremium] = useState(user.isPremium);
+    const [username, setUsername] = useState('');
+    const [password, setPassword] = useState('');
+    const [isAdmin, setIsAdmin] = useState('');
+    const [isPremium, setIsPremium] = useState('');
+    console.log(user);
 
     const adminRender = () => {
         if (isAdmin) {
@@ -33,6 +34,10 @@ const HomeNav = ({ user, route, navigation }) => {
     }
 
     useEffect(() => {
+        setUsername(user.username);
+        setPassword(user.password);
+        setIsAdmin(user.isAdmin);
+        setIsPremium(user.isPremium);
         if (isAdmin == true) {
             setIsPremium(true);
         }
@@ -41,8 +46,7 @@ const HomeNav = ({ user, route, navigation }) => {
     return (
         <View style={styles.bottomView}>
             <View style={{ paddingRight: 15, paddingLeft: 15 }}>
-                <Text style={{ color: '#000000', fontSize: 25, textAlign: 'center' }}>Hoş geldin,
-                    <Text style={{ color: 'rgb(223, 71, 89)', fontSize: 25, textAlign: 'center' }}> {username}</Text>
+                <Text style={{ color: '#000000', fontSize: 25, textAlign: 'center' }}>Hoş geldiniz
                 </Text>
                 <View style={{ marginTop: 65 }}>
                     <View style={{ flexDirection: 'row' }}>

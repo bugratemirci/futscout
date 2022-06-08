@@ -33,8 +33,11 @@ const ProfileScreen = ({ route, navigation }) => {
             .catch((err) => {
                 console.log(err)
             })
-
     }, []);
+
+    const userUpdateOnPress = () => {
+        navigation.navigate('UserUpdate', { user });
+    }
     return (
         <ScrollView
             style={styles.container}
@@ -54,7 +57,6 @@ const ProfileScreen = ({ route, navigation }) => {
                     <Image source={userProfile.isAdmin ? require('../assets/icons/admin_2.png') : require('../assets/icons/is_not_admin.png')} style={styles.iconStyleProfile}></Image>
                 </View>
                 <View style={styles.mainCard}>
-
                     <View style={{ justifyContent: 'center', alignItems: 'baseline' }}>
                         <View style={styles.infoCard}>
                             <Image source={require('../assets/icons/user_profile.png')} style={styles.iconStyleProfile}></Image>
@@ -72,12 +74,18 @@ const ProfileScreen = ({ route, navigation }) => {
                             <Image source={require('../assets/icons/mail.png')} style={styles.iconStyleProfile}></Image>
                             <Text style={styles.infoCardText}>{userProfile.mail}</Text>
                         </View>
+
                     </View>
-
-
-
+                    <TouchableOpacity
+                        style={[styles.infoCard, { height: 50, borderLeftWidth: 1, backgroundColor: 'rgb(223, 71, 89)', justifyContent: 'center', marginTop: 50 }]}
+                        onPress={userUpdateOnPress}
+                    >
+                        <Text style={{ color: 'white', textAlign: 'center' }}>Düzenle</Text>
+                    </TouchableOpacity>
                 </View>
+
             </View>
+
         </ScrollView >
     )
 }

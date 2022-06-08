@@ -10,6 +10,7 @@ import FootballPlayerDetailScreen from './screens/FootballPlayerDetail';
 import ProfileScreen from './screens/ProfileScreen';
 import FootballerPrediction from './screens/FootballerPrediction';
 import PredictionPage from './screens/PredictionPage';
+import UserUpdate from './screens/UserUpdate';
 
 const Stack = createNativeStackNavigator();
 
@@ -28,6 +29,7 @@ const App = () => {
         <Stack.Screen name="Profile" component={ProfileScreen} />
         <Stack.Screen name="FootballerPrediction" component={FootballerPrediction} />
         <Stack.Screen name="PredictionPage" component={PredictionPage} />
+        <Stack.Screen name='UserUpdate' component={UserUpdate} />
       </Stack.Navigator>
     </NavigationContainer>
   );

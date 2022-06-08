@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import {
     View,
     Text,
@@ -14,27 +14,54 @@ import { TextInput } from 'react-native-paper';
 import { deviceIp } from '../config';
 const axios = require('axios')
 
-const RegisterScreen = ({ route, navigation }) => {
+const UserUpdate = ({ route, navigation }) => {
     const [username, setUsername] = useState('')
     const [password, setPassword] = useState('')
     const [mail, setMail] = useState('')
     const [phone, setPhone] = useState('')
     const [favteam, setFavteam] = useState('')
+    const [id, setId] = useState('')
+    const [isAdmin, setIsAdmin] = useState('')
+    const [isPremium, setIsPremium] = useState('')
+    const user = route.params;
+
+    useEffect(() => {
+        setUsername(user.user.username);
+        setPassword(user.user.password);
+        setMail(user.user.mail);
+        setPhone(user.user.tel);
+        setFavteam(user.user.team);
+        setId(user.user._id);
+        setIsAdmin(user.user.isAdmin);
+        setIsPremium(user.user.isPremium);
+    }, [])
 
     const registerButtonClick = () => {
-        const userreq = {
+
+        axios.post('http://' + deviceIp + ':3000/api/users/updateUser', {
             username: username,
             password: password,
             mail: mail,
             tel: phone,
-            team: favteam
-        }
-
-        axios.post('http://' + deviceIp + ':3000/api/users/signUp', { userreq })
+            team: favteam,
+            id: id,
+            isAdmin: isAdmin,
+            isPremium: isPremium
+        })
             .then((response) => {
                 const { status } = response.data
+                const user = {
+                    username: username,
+                    password: password,
+                    mail: mail,
+                    tel: phone,
+                    team: favteam,
+                    id: id,
+                    isAdmin: isAdmin,
+                    isPremium: isPremium
+                }
                 if (status == true) {
-                    navigation.navigate('Login');
+                    navigation.navigate('Home', { user: user });
                 }
                 else {
                     console.error('Kayıt başarısız')
@@ -47,7 +74,6 @@ const RegisterScreen = ({ route, navigation }) => {
 
             })
     }
-
     return (
         <ScrollView
             style={styles.container}
@@ -62,7 +88,7 @@ const RegisterScreen = ({ route, navigation }) => {
             </ImageBackground>
             <View style={styles.bottomView}>
                 <View style={{ padding: 15, paddingTop: 30 }}>
-                    <Text style={{ color: '#000000', fontSize: 25, textAlign: 'center' }}>Kayıt ol</Text>
+                    <Text style={{ color: '#000000', fontSize: 25, textAlign: 'center' }}>Düzenle</Text>
                     <View style={{ marginTop: 22 }}>
                         <TextInput
                             mode='flat'
@@ -76,6 +102,7 @@ const RegisterScreen = ({ route, navigation }) => {
                             onChangeText={(text) => {
                                 setUsername(text)
                             }}
+                            value={username}
                         />
                         <TextInput
                             mode='flat'
@@ -89,6 +116,7 @@ const RegisterScreen = ({ route, navigation }) => {
                             onChangeText={(text) => {
                                 setPassword(text)
                             }}
+                            value={password}
                             secureTextEntry={true}
                         />
                         <TextInput
@@ -105,6 +133,7 @@ const RegisterScreen = ({ route, navigation }) => {
                             }}
                             autoComplete='email'
                             keyboardType='email-address'
+                            value={mail}
                         />
                         <TextInput
                             mode='flat'
@@ -120,6 +149,7 @@ const RegisterScreen = ({ route, navigation }) => {
                             }}
                             autoComplete='cc-number'
                             keyboardType='phone-pad'
+                            value={phone}
                         />
                         <TextInput
                             mode='flat'
@@ -133,6 +163,7 @@ const RegisterScreen = ({ route, navigation }) => {
                             onChangeText={(text) => {
                                 setFavteam(text)
                             }}
+                            value={favteam}
                         />
                     </View>
                     <View style={styles.registerView}>
@@ -148,7 +179,6 @@ const RegisterScreen = ({ route, navigation }) => {
     )
 }
 
-export default RegisterScreen
 
 const styles = StyleSheet.create({
     container: {
@@ -205,3 +235,4 @@ const styles = StyleSheet.create({
         marginTop: 30
     }
 })
+export default UserUpdate

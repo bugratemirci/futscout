@@ -12,8 +12,8 @@ const deneme = () => {
 
 }
 const prediction = (req, res, next) => {
-
     const { statistics } = req.body;
+    
     options.args = statistics;
     if (options.args == null) {
         res.json(-1);
