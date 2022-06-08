@@ -14,33 +14,12 @@ import { deviceIp } from '../config';
 
 const HomeNav = ({ user, route, navigation }) => {
 
-    const [username, setUsername] = useState('');
-    const [password, setPassword] = useState('');
-    const [isAdmin, setIsAdmin] = useState('');
-    const [isPremium, setIsPremium] = useState('');
-    console.log(user);
 
-    const adminRender = () => {
-        if (isAdmin) {
-            return (
-                <View style={{ flexDirection: 'row', justifyContent: 'center' }}>
-                    <TouchableOpacity style={styles.card}>
-                        <Image source={require('../assets/icons/admin.png')} style={styles.iconStyle}></Image>
-                        <Text style={styles.cardText}>Admin Paneli</Text>
-                    </TouchableOpacity>
-                </View>
-            )
-        }
-    }
+    const [isPremium, setIsPremium] = useState('');
+
 
     useEffect(() => {
-        setUsername(user.username);
-        setPassword(user.password);
-        setIsAdmin(user.isAdmin);
         setIsPremium(user.isPremium);
-        if (isAdmin == true) {
-            setIsPremium(true);
-        }
     }, []);
 
     return (
@@ -80,7 +59,6 @@ const HomeNav = ({ user, route, navigation }) => {
                             <Image source={require('../assets/icons/predictions.png')} style={styles.iconStyle}></Image>
                             <Text style={styles.cardText}>Futbolcu Tahmini</Text>
                         </TouchableOpacity>
-                        {adminRender()}
                     </View>
 
                 </View>

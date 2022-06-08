@@ -1,5 +1,5 @@
 const User = require("../models/User");
-var ObjectID = require('mongodb').ObjectID;
+const asyncErrorWrapper = require("express-async-handler");
 
 const signUp = (req, res, next) => {
     const { userreq } = req.body;
@@ -41,20 +41,17 @@ const getUser = (req, res, next) => {
             res.json({ status: false })
     });
 }
-const updateUser = async (req, res, next) => {
-    const { username, password, id, team, mail, tel, isPremium, isAdmin } = req.body;
+const updateUser = asyncErrorWrapper(async (req, res, next) => {
+    const { username, password, id, team, mail, tel, isPremium } = req.body;
 
-    const user = await User.updateOne({ _id: id },
-        {
-            $set:
-                { username: username, password: password, team: team, mail: mail, tel: tel, isPremium: isPremium, isAdmin: isAdmin }
-        });
+    const user = await User.updateOne({ _id: id }, { $set: { username: username, password: password, team: team, mail: mail, tel: tel, isPremium: isPremium } });
 
     res.status(200).json({
         status: true,
         user: user
     });
-}
+
+})
 module.exports = {
     signUp,
     signIn,

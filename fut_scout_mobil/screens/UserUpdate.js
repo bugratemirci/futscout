@@ -21,7 +21,6 @@ const UserUpdate = ({ route, navigation }) => {
     const [phone, setPhone] = useState('')
     const [favteam, setFavteam] = useState('')
     const [id, setId] = useState('')
-    const [isAdmin, setIsAdmin] = useState('')
     const [isPremium, setIsPremium] = useState('')
     const user = route.params;
 
@@ -32,7 +31,6 @@ const UserUpdate = ({ route, navigation }) => {
         setPhone(user.user.tel);
         setFavteam(user.user.team);
         setId(user.user._id);
-        setIsAdmin(user.user.isAdmin);
         setIsPremium(user.user.isPremium);
     }, [])
 
@@ -45,7 +43,6 @@ const UserUpdate = ({ route, navigation }) => {
             tel: phone,
             team: favteam,
             id: id,
-            isAdmin: isAdmin,
             isPremium: isPremium
         })
             .then((response) => {
@@ -57,7 +54,6 @@ const UserUpdate = ({ route, navigation }) => {
                     tel: phone,
                     team: favteam,
                     id: id,
-                    isAdmin: isAdmin,
                     isPremium: isPremium
                 }
                 if (status == true) {
@@ -68,7 +64,7 @@ const UserUpdate = ({ route, navigation }) => {
                 }
             })
             .catch((err) => {
-                console.error(err);
+                console.error("Bu kullanıcı adı veya mail adresi sistemde kayıtlıdır.");
             })
             .then(() => {
 
