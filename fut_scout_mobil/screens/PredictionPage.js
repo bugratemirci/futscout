@@ -117,7 +117,7 @@ const PredictionPage = ({ route, navigation }) => {
                                 <View
                                     style={{ borderBottomWidth: 1, width: '100%', borderColor: 'white', marginTop: 10, marginBottom: 10 }}
                                 />
-                                <Text style={{ textAlign: 'center', color: 'white', fontWeight: 'bold', fontSize: 13 }}>{cluster}</Text>
+                                <Text style={{ textAlign: 'center', color: 'white', fontWeight: 'bold', fontSize: 13 }}>{predictedValue(cluster)}</Text>
                             </View>
 
                         </View>
